@@ -1,0 +1,6 @@
+C:\Users\ALEN\Desktop\methods\METHODS LAB\6. Math Power\bin\Debug\_6.Math_Power.exe.config
+C:\Users\ALEN\Desktop\FUNDAMENTALS\3 methods\METHODS LAB\6. Math Power\bin\Debug\_6.Math_Power.exe.config
+C:\Users\ALEN\Desktop\FUNDAMENTALS\3 methods\METHODS LAB\6. Math Power\bin\Debug\_6.Math_Power.exe
+C:\Users\ALEN\Desktop\FUNDAMENTALS\3 methods\METHODS LAB\6. Math Power\bin\Debug\_6.Math_Power.pdb
+C:\Users\ALEN\Desktop\FUNDAMENTALS\3 methods\METHODS LAB\6. Math Power\obj\Debug\_6.Math_Power.exe
+C:\Users\ALEN\Desktop\FUNDAMENTALS\3 methods\METHODS LAB\6. Math Power\obj\Debug\_6.Math_Power.pdb

@@ -1,0 +1,3 @@
+C:\Users\ALEN\Desktop\FUNDAMENT\2 variables\VARIABLE EXERCISE 2\variables 2\Problem 10. Sum of Chars\bin\Debug\Problem_10.Sum_of_Chars.exe.config
+C:\Users\ALEN\Desktop\FUNDAMENT\2 variables\VARIABLE EXERCISE 2\variables 2\Problem 10. Sum of Chars\obj\Debug\Problem_10.Sum_of_Chars.exe
+C:\Users\ALEN\Desktop\FUNDAMENT\2 variables\VARIABLE EXERCISE 2\variables 2\Problem 10. Sum of Chars\obj\Debug\Problem_10.Sum_of_Chars.pdb

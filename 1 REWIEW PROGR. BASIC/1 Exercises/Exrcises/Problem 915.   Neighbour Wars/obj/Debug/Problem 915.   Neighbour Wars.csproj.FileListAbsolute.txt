@@ -1,0 +1,22 @@
+C:\Users\ALEN\Desktop\lecture 1\EXERCISE\Problem 915.   Neighbour Wars\bin\Debug\Problem_915.Neighbour_Wars.exe.config
+C:\Users\ALEN\Desktop\lecture 1\EXERCISE\Problem 915.   Neighbour Wars\bin\Debug\Problem_915.Neighbour_Wars.exe
+C:\Users\ALEN\Desktop\lecture 1\EXERCISE\Problem 915.   Neighbour Wars\bin\Debug\Problem_915.Neighbour_Wars.pdb
+C:\Users\ALEN\Desktop\lecture 1\EXERCISE\Problem 915.   Neighbour Wars\obj\Debug\Problem 915.   Neighbour Wars.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\lecture 1\EXERCISE\Problem 915.   Neighbour Wars\obj\Debug\Problem_915.Neighbour_Wars.exe
+C:\Users\ALEN\Desktop\lecture 1\EXERCISE\Problem 915.   Neighbour Wars\obj\Debug\Problem_915.Neighbour_Wars.pdb
+C:\Users\ALEN\Desktop\FUNDAMENT\1 lecture exercise\EXERCISE\Problem 915.   Neighbour Wars\bin\Debug\Problem_915.Neighbour_Wars.exe.config
+C:\Users\ALEN\Desktop\FUNDAMENT\1 lecture exercise\EXERCISE\Problem 915.   Neighbour Wars\obj\Debug\Problem_915.Neighbour_Wars.exe
+C:\Users\ALEN\Desktop\FUNDAMENT\1 lecture exercise\EXERCISE\Problem 915.   Neighbour Wars\obj\Debug\Problem_915.Neighbour_Wars.pdb
+C:\Users\ALEN\Desktop\FUNDAMENTALS\1 lecture exercise\EXERCISE\Problem 915.   Neighbour Wars\bin\Debug\Problem_915.Neighbour_Wars.exe.config
+C:\Users\ALEN\Desktop\FUNDAMENTALS\1 lecture exercise\EXERCISE\Problem 915.   Neighbour Wars\bin\Debug\Problem_915.Neighbour_Wars.exe
+C:\Users\ALEN\Desktop\FUNDAMENTALS\1 lecture exercise\EXERCISE\Problem 915.   Neighbour Wars\bin\Debug\Problem_915.Neighbour_Wars.pdb
+C:\Users\ALEN\Desktop\FUNDAMENTALS\1 lecture exercise\EXERCISE\Problem 915.   Neighbour Wars\obj\Debug\Problem 915.   Neighbour Wars.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\FUNDAMENTALS\1 lecture exercise\EXERCISE\Problem 915.   Neighbour Wars\obj\Debug\Problem_915.Neighbour_Wars.exe
+C:\Users\ALEN\Desktop\FUNDAMENTALS\1 lecture exercise\EXERCISE\Problem 915.   Neighbour Wars\obj\Debug\Problem_915.Neighbour_Wars.pdb
+C:\Users\ALEN\Desktop\FUNDAMENTALS\1 lecture exercise\Exrcises\Problem 915.   Neighbour Wars\bin\Debug\Problem_915.Neighbour_Wars.exe.config
+C:\Users\ALEN\Desktop\FUNDAMENTALS\1 lecture exercise\Exrcises\Problem 915.   Neighbour Wars\bin\Debug\Problem_915.Neighbour_Wars.exe
+C:\Users\ALEN\Desktop\FUNDAMENTALS\1 lecture exercise\Exrcises\Problem 915.   Neighbour Wars\bin\Debug\Problem_915.Neighbour_Wars.pdb
+C:\Users\ALEN\Desktop\FUNDAMENTALS\1 lecture exercise\Exrcises\Problem 915.   Neighbour Wars\obj\Debug\Problem 915.   Neighbour Wars.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\FUNDAMENTALS\1 lecture exercise\Exrcises\Problem 915.   Neighbour Wars\obj\Debug\Problem 915.   Neighbour Wars.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\FUNDAMENTALS\1 lecture exercise\Exrcises\Problem 915.   Neighbour Wars\obj\Debug\Problem_915.Neighbour_Wars.exe
+C:\Users\ALEN\Desktop\FUNDAMENTALS\1 lecture exercise\Exrcises\Problem 915.   Neighbour Wars\obj\Debug\Problem_915.Neighbour_Wars.pdb

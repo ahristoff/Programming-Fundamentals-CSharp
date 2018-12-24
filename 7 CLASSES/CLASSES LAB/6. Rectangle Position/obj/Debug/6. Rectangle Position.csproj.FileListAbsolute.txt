@@ -1,0 +1,13 @@
+C:\Users\ALEN\Desktop\7 CLASSES\CLASSES LAB\LAB\6. Rectangle Position\bin\Debug\_6.Rectangle_Position.exe.config
+C:\Users\ALEN\Desktop\7 CLASSES\CLASSES LAB\LAB\6. Rectangle Position\obj\Debug\6. Rectangle Position.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\7 CLASSES\CLASSES LAB\LAB\6. Rectangle Position\bin\Debug\_6.Rectangle_Position.exe
+C:\Users\ALEN\Desktop\7 CLASSES\CLASSES LAB\LAB\6. Rectangle Position\bin\Debug\_6.Rectangle_Position.pdb
+C:\Users\ALEN\Desktop\7 CLASSES\CLASSES LAB\LAB\6. Rectangle Position\obj\Debug\_6.Rectangle_Position.exe
+C:\Users\ALEN\Desktop\7 CLASSES\CLASSES LAB\LAB\6. Rectangle Position\obj\Debug\_6.Rectangle_Position.pdb
+C:\Users\ALEN\Desktop\FUNDAMENTALS\7 CLASSES\CLASSES LAB\6. Rectangle Position\bin\Debug\_6.Rectangle_Position.exe.config
+C:\Users\ALEN\Desktop\FUNDAMENTALS\7 CLASSES\CLASSES LAB\6. Rectangle Position\bin\Debug\_6.Rectangle_Position.exe
+C:\Users\ALEN\Desktop\FUNDAMENTALS\7 CLASSES\CLASSES LAB\6. Rectangle Position\bin\Debug\_6.Rectangle_Position.pdb
+C:\Users\ALEN\Desktop\FUNDAMENTALS\7 CLASSES\CLASSES LAB\6. Rectangle Position\obj\Debug\6. Rectangle Position.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\FUNDAMENTALS\7 CLASSES\CLASSES LAB\6. Rectangle Position\obj\Debug\6. Rectangle Position.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\FUNDAMENTALS\7 CLASSES\CLASSES LAB\6. Rectangle Position\obj\Debug\_6.Rectangle_Position.exe
+C:\Users\ALEN\Desktop\FUNDAMENTALS\7 CLASSES\CLASSES LAB\6. Rectangle Position\obj\Debug\_6.Rectangle_Position.pdb

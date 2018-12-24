@@ -1,0 +1,8 @@
+C:\Users\ALEN\Desktop\DICTIONARY\DICTIONARY EXERSICE\DICTIONARY EXERSICE\2.  Phonebook Upgrade\bin\Debug\_2.Phonebook_Upgrade.exe.config
+C:\Users\ALEN\Desktop\DICTIONARY\DICTIONARY EXERSICE\DICTIONARY EXERSICE\2.  Phonebook Upgrade\bin\Debug\_2.Phonebook_Upgrade.exe
+C:\Users\ALEN\Desktop\DICTIONARY\DICTIONARY EXERSICE\DICTIONARY EXERSICE\2.  Phonebook Upgrade\bin\Debug\_2.Phonebook_Upgrade.pdb
+C:\Users\ALEN\Desktop\DICTIONARY\DICTIONARY EXERSICE\DICTIONARY EXERSICE\2.  Phonebook Upgrade\obj\Debug\_2.Phonebook_Upgrade.exe
+C:\Users\ALEN\Desktop\DICTIONARY\DICTIONARY EXERSICE\DICTIONARY EXERSICE\2.  Phonebook Upgrade\obj\Debug\_2.Phonebook_Upgrade.pdb
+C:\Users\ALEN\Desktop\FUNDAMENT\6 DICTIONARY\DICTIONARY EXERSICE\DICTIONARY EXERSICE\2.  Phonebook Upgrade\bin\Debug\_2.Phonebook_Upgrade.exe.config
+C:\Users\ALEN\Desktop\FUNDAMENT\6 DICTIONARY\DICTIONARY EXERSICE\DICTIONARY EXERSICE\2.  Phonebook Upgrade\obj\Debug\_2.Phonebook_Upgrade.exe
+C:\Users\ALEN\Desktop\FUNDAMENT\6 DICTIONARY\DICTIONARY EXERSICE\DICTIONARY EXERSICE\2.  Phonebook Upgrade\obj\Debug\_2.Phonebook_Upgrade.pdb

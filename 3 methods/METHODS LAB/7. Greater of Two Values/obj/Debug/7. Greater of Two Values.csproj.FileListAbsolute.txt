@@ -1,0 +1,5 @@
+C:\Users\ALEN\Desktop\methods\METHODS LAB\7. Greater of Two Values\bin\Debug\_7.Greater_of_Two_Values.exe.config
+C:\Users\ALEN\Desktop\methods\METHODS LAB\7. Greater of Two Values\bin\Debug\_7.Greater_of_Two_Values.exe
+C:\Users\ALEN\Desktop\methods\METHODS LAB\7. Greater of Two Values\bin\Debug\_7.Greater_of_Two_Values.pdb
+C:\Users\ALEN\Desktop\methods\METHODS LAB\7. Greater of Two Values\obj\Debug\_7.Greater_of_Two_Values.exe
+C:\Users\ALEN\Desktop\methods\METHODS LAB\7. Greater of Two Values\obj\Debug\_7.Greater_of_Two_Values.pdb

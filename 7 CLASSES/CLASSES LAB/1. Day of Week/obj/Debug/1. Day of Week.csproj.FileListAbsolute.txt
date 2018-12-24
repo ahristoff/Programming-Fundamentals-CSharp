@@ -1,0 +1,16 @@
+C:\Users\ALEN\Desktop\7 CLASSES\CLASSES LAB\LAB\1. Day of Week\bin\Debug\_1.Day_of_Week.exe.config
+C:\Users\ALEN\Desktop\7 CLASSES\CLASSES LAB\LAB\1. Day of Week\bin\Debug\_1.Day_of_Week.exe
+C:\Users\ALEN\Desktop\7 CLASSES\CLASSES LAB\LAB\1. Day of Week\bin\Debug\_1.Day_of_Week.pdb
+C:\Users\ALEN\Desktop\7 CLASSES\CLASSES LAB\LAB\1. Day of Week\obj\Debug\1. Day of Week.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\7 CLASSES\CLASSES LAB\LAB\1. Day of Week\obj\Debug\_1.Day_of_Week.exe
+C:\Users\ALEN\Desktop\7 CLASSES\CLASSES LAB\LAB\1. Day of Week\obj\Debug\_1.Day_of_Week.pdb
+C:\Users\ALEN\Desktop\FUNDAMENT\7 CLASSES\CLASSES LAB\LAB\1. Day of Week\bin\Debug\_1.Day_of_Week.exe.config
+C:\Users\ALEN\Desktop\FUNDAMENT\7 CLASSES\CLASSES LAB\LAB\1. Day of Week\obj\Debug\_1.Day_of_Week.exe
+C:\Users\ALEN\Desktop\FUNDAMENT\7 CLASSES\CLASSES LAB\LAB\1. Day of Week\obj\Debug\_1.Day_of_Week.pdb
+C:\Users\ALEN\Desktop\FUNDAMENTALS\7 CLASSES\CLASSES LAB\1. Day of Week\bin\Debug\_1.Day_of_Week.exe.config
+C:\Users\ALEN\Desktop\FUNDAMENTALS\7 CLASSES\CLASSES LAB\1. Day of Week\bin\Debug\_1.Day_of_Week.exe
+C:\Users\ALEN\Desktop\FUNDAMENTALS\7 CLASSES\CLASSES LAB\1. Day of Week\bin\Debug\_1.Day_of_Week.pdb
+C:\Users\ALEN\Desktop\FUNDAMENTALS\7 CLASSES\CLASSES LAB\1. Day of Week\obj\Debug\1. Day of Week.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\FUNDAMENTALS\7 CLASSES\CLASSES LAB\1. Day of Week\obj\Debug\1. Day of Week.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\FUNDAMENTALS\7 CLASSES\CLASSES LAB\1. Day of Week\obj\Debug\_1.Day_of_Week.exe
+C:\Users\ALEN\Desktop\FUNDAMENTALS\7 CLASSES\CLASSES LAB\1. Day of Week\obj\Debug\_1.Day_of_Week.pdb

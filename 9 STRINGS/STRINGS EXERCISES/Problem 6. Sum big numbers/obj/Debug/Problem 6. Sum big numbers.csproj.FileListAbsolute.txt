@@ -1,0 +1,6 @@
+C:\Users\ALEN\Desktop\FUNDAMENTALS\9 STRINGS\STRINGS EXERSICE\STRINGS\Problem 6. Sum big numbers\bin\Debug\Problem_6.Sum_big_numbers.exe.config
+C:\Users\ALEN\Desktop\FUNDAMENTALS\9 STRINGS\STRINGS EXERSICE\STRINGS\Problem 6. Sum big numbers\bin\Debug\Problem_6.Sum_big_numbers.exe
+C:\Users\ALEN\Desktop\FUNDAMENTALS\9 STRINGS\STRINGS EXERSICE\STRINGS\Problem 6. Sum big numbers\bin\Debug\Problem_6.Sum_big_numbers.pdb
+C:\Users\ALEN\Desktop\FUNDAMENTALS\9 STRINGS\STRINGS EXERSICE\STRINGS\Problem 6. Sum big numbers\obj\Debug\Problem 6. Sum big numbers.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\FUNDAMENTALS\9 STRINGS\STRINGS EXERSICE\STRINGS\Problem 6. Sum big numbers\obj\Debug\Problem_6.Sum_big_numbers.exe
+C:\Users\ALEN\Desktop\FUNDAMENTALS\9 STRINGS\STRINGS EXERSICE\STRINGS\Problem 6. Sum big numbers\obj\Debug\Problem_6.Sum_big_numbers.pdb

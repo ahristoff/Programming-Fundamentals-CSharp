@@ -1,0 +1,8 @@
+C:\Users\ALEN\Desktop\variable\VARIABLE EXERCISE\5 boolean variable\bin\Debug\5 boolean variable.exe.config
+C:\Users\ALEN\Desktop\variable\VARIABLE EXERCISE\5 boolean variable\bin\Debug\5 boolean variable.exe
+C:\Users\ALEN\Desktop\variable\VARIABLE EXERCISE\5 boolean variable\bin\Debug\5 boolean variable.pdb
+C:\Users\ALEN\Desktop\variable\VARIABLE EXERCISE\5 boolean variable\obj\Debug\5 boolean variable.exe
+C:\Users\ALEN\Desktop\variable\VARIABLE EXERCISE\5 boolean variable\obj\Debug\5 boolean variable.pdb
+C:\Users\ALEN\Desktop\FUNDAMENT\2 variables\VARIABLE EXERCISE  1\5 boolean variable\bin\Debug\5 boolean variable.exe.config
+C:\Users\ALEN\Desktop\FUNDAMENT\2 variables\VARIABLE EXERCISE  1\5 boolean variable\obj\Debug\5 boolean variable.exe
+C:\Users\ALEN\Desktop\FUNDAMENT\2 variables\VARIABLE EXERCISE  1\5 boolean variable\obj\Debug\5 boolean variable.pdb

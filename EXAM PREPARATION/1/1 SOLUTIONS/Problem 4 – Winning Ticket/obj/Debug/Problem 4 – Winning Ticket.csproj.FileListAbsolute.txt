@@ -1,0 +1,13 @@
+C:\Users\ALEN\Desktop\FUNDAMENTALS\EXAM PREPARATION\1\1 SOLUTION\EXAM PREPARATION 1\Problem 4 – Winning Ticket\bin\Debug\Problem 4 – Winning Ticket.exe.config
+C:\Users\ALEN\Desktop\FUNDAMENTALS\EXAM PREPARATION\1\1 SOLUTION\EXAM PREPARATION 1\Problem 4 – Winning Ticket\bin\Debug\Problem 4 – Winning Ticket.exe
+C:\Users\ALEN\Desktop\FUNDAMENTALS\EXAM PREPARATION\1\1 SOLUTION\EXAM PREPARATION 1\Problem 4 – Winning Ticket\bin\Debug\Problem 4 – Winning Ticket.pdb
+C:\Users\ALEN\Desktop\FUNDAMENTALS\EXAM PREPARATION\1\1 SOLUTION\EXAM PREPARATION 1\Problem 4 – Winning Ticket\obj\Debug\Problem 4 – Winning Ticket.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\FUNDAMENTALS\EXAM PREPARATION\1\1 SOLUTION\EXAM PREPARATION 1\Problem 4 – Winning Ticket\obj\Debug\Problem 4 – Winning Ticket.exe
+C:\Users\ALEN\Desktop\FUNDAMENTALS\EXAM PREPARATION\1\1 SOLUTION\EXAM PREPARATION 1\Problem 4 – Winning Ticket\obj\Debug\Problem 4 – Winning Ticket.pdb
+C:\Users\ALEN\Desktop\FUNDAMENTALS\EXAM PREPARATION\1\1 SOLUTIONS\EXAM PREPARATION 1\Problem 4 – Winning Ticket\bin\Debug\Problem 4 – Winning Ticket.exe.config
+C:\Users\ALEN\Desktop\FUNDAMENTALS\EXAM PREPARATION\1\1 SOLUTIONS\EXAM PREPARATION 1\Problem 4 – Winning Ticket\bin\Debug\Problem 4 – Winning Ticket.exe
+C:\Users\ALEN\Desktop\FUNDAMENTALS\EXAM PREPARATION\1\1 SOLUTIONS\EXAM PREPARATION 1\Problem 4 – Winning Ticket\bin\Debug\Problem 4 – Winning Ticket.pdb
+C:\Users\ALEN\Desktop\FUNDAMENTALS\EXAM PREPARATION\1\1 SOLUTIONS\EXAM PREPARATION 1\Problem 4 – Winning Ticket\obj\Debug\Problem 4 – Winning Ticket.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\FUNDAMENTALS\EXAM PREPARATION\1\1 SOLUTIONS\EXAM PREPARATION 1\Problem 4 – Winning Ticket\obj\Debug\Problem 4 – Winning Ticket.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\FUNDAMENTALS\EXAM PREPARATION\1\1 SOLUTIONS\EXAM PREPARATION 1\Problem 4 – Winning Ticket\obj\Debug\Problem 4 – Winning Ticket.exe
+C:\Users\ALEN\Desktop\FUNDAMENTALS\EXAM PREPARATION\1\1 SOLUTIONS\EXAM PREPARATION 1\Problem 4 – Winning Ticket\obj\Debug\Problem 4 – Winning Ticket.pdb

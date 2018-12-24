@@ -1,0 +1,5 @@
+C:\Users\ALEN\Desktop\FUNDAMENT\2 variables\VARIABLE EXERCISE 2\variables 2\Problem 6.  Catch the Thief\bin\Debug\Problem_6.Catch_the_Thief.exe.config
+C:\Users\ALEN\Desktop\FUNDAMENT\2 variables\VARIABLE EXERCISE 2\variables 2\Problem 6.  Catch the Thief\bin\Debug\Problem_6.Catch_the_Thief.exe
+C:\Users\ALEN\Desktop\FUNDAMENT\2 variables\VARIABLE EXERCISE 2\variables 2\Problem 6.  Catch the Thief\bin\Debug\Problem_6.Catch_the_Thief.pdb
+C:\Users\ALEN\Desktop\FUNDAMENT\2 variables\VARIABLE EXERCISE 2\variables 2\Problem 6.  Catch the Thief\obj\Debug\Problem_6.Catch_the_Thief.exe
+C:\Users\ALEN\Desktop\FUNDAMENT\2 variables\VARIABLE EXERCISE 2\variables 2\Problem 6.  Catch the Thief\obj\Debug\Problem_6.Catch_the_Thief.pdb

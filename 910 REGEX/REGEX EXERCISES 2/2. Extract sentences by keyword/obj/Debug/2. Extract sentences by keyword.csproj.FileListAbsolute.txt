@@ -1,0 +1,14 @@
+C:\Users\ALEN\Desktop\FUNDAMENT\910 REGEX\REGEX EXERSICE\REGEX EXERSISE\2. Extract sentences by keyword\bin\Debug\_2.Extract_sentences_by_keyword.exe.config
+C:\Users\ALEN\Desktop\FUNDAMENTALS\910 REGEX\REGEX EXERSICE\REGEX EXERSISE\2. Extract sentences by keyword\obj\Debug\2. Extract sentences by keyword.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\FUNDAMENTALS\910 REGEX\REGEX EXERSICE\REGEX EXERSISE\2. Extract sentences by keyword\bin\Debug\_2.Extract_sentences_by_keyword.exe.config
+C:\Users\ALEN\Desktop\FUNDAMENTALS\910 REGEX\REGEX EXERSICE\REGEX EXERSISE\2. Extract sentences by keyword\bin\Debug\_2.Extract_sentences_by_keyword.exe
+C:\Users\ALEN\Desktop\FUNDAMENTALS\910 REGEX\REGEX EXERSICE\REGEX EXERSISE\2. Extract sentences by keyword\bin\Debug\_2.Extract_sentences_by_keyword.pdb
+C:\Users\ALEN\Desktop\FUNDAMENTALS\910 REGEX\REGEX EXERSICE\REGEX EXERSISE\2. Extract sentences by keyword\obj\Debug\_2.Extract_sentences_by_keyword.exe
+C:\Users\ALEN\Desktop\FUNDAMENTALS\910 REGEX\REGEX EXERSICE\REGEX EXERSISE\2. Extract sentences by keyword\obj\Debug\_2.Extract_sentences_by_keyword.pdb
+C:\Users\ALEN\Desktop\FUNDAMENTALS\910 REGEX\REGEX EXERCISES 2\2. Extract sentences by keyword\bin\Debug\_2.Extract_sentences_by_keyword.exe.config
+C:\Users\ALEN\Desktop\FUNDAMENTALS\910 REGEX\REGEX EXERCISES 2\2. Extract sentences by keyword\bin\Debug\_2.Extract_sentences_by_keyword.exe
+C:\Users\ALEN\Desktop\FUNDAMENTALS\910 REGEX\REGEX EXERCISES 2\2. Extract sentences by keyword\bin\Debug\_2.Extract_sentences_by_keyword.pdb
+C:\Users\ALEN\Desktop\FUNDAMENTALS\910 REGEX\REGEX EXERCISES 2\2. Extract sentences by keyword\obj\Debug\2. Extract sentences by keyword.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\FUNDAMENTALS\910 REGEX\REGEX EXERCISES 2\2. Extract sentences by keyword\obj\Debug\2. Extract sentences by keyword.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\FUNDAMENTALS\910 REGEX\REGEX EXERCISES 2\2. Extract sentences by keyword\obj\Debug\_2.Extract_sentences_by_keyword.exe
+C:\Users\ALEN\Desktop\FUNDAMENTALS\910 REGEX\REGEX EXERCISES 2\2. Extract sentences by keyword\obj\Debug\_2.Extract_sentences_by_keyword.pdb

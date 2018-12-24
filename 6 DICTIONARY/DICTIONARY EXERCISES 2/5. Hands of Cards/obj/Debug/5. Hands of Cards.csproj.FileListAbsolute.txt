@@ -1,0 +1,20 @@
+C:\Users\ALEN\Desktop\DICTIONARY\DICTIONARY EXERSICE\DICTIONARY EXERSICE\5. Hands of Cards\bin\Debug\_5.Hands_of_Cards.exe.config
+C:\Users\ALEN\Desktop\FUNDAMENT\6 DICTIONARY\DICTIONARY EXERSICE\DICTIONARY EXERSICE\5. Hands of Cards\bin\Debug\_5.Hands_of_Cards.exe.config
+C:\Users\ALEN\Desktop\FUNDAMENT\6 DICTIONARY\DICTIONARY EXERSICE\DICTIONARY EXERSICE\5. Hands of Cards\bin\Debug\_5.Hands_of_Cards.exe
+C:\Users\ALEN\Desktop\FUNDAMENT\6 DICTIONARY\DICTIONARY EXERSICE\DICTIONARY EXERSICE\5. Hands of Cards\bin\Debug\_5.Hands_of_Cards.pdb
+C:\Users\ALEN\Desktop\FUNDAMENT\6 DICTIONARY\DICTIONARY EXERSICE\DICTIONARY EXERSICE\5. Hands of Cards\obj\Debug\5. Hands of Cards.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\FUNDAMENT\6 DICTIONARY\DICTIONARY EXERSICE\DICTIONARY EXERSICE\5. Hands of Cards\obj\Debug\_5.Hands_of_Cards.exe
+C:\Users\ALEN\Desktop\FUNDAMENT\6 DICTIONARY\DICTIONARY EXERSICE\DICTIONARY EXERSICE\5. Hands of Cards\obj\Debug\_5.Hands_of_Cards.pdb
+C:\Users\ALEN\Desktop\FUNDAMENTALS\6 DICTIONARY\DICTIONARY EXERSICE\DICTIONARY EXERSICE\5. Hands of Cards\bin\Debug\_5.Hands_of_Cards.exe.config
+C:\Users\ALEN\Desktop\FUNDAMENTALS\6 DICTIONARY\DICTIONARY EXERSICE\DICTIONARY EXERSICE\5. Hands of Cards\bin\Debug\_5.Hands_of_Cards.exe
+C:\Users\ALEN\Desktop\FUNDAMENTALS\6 DICTIONARY\DICTIONARY EXERSICE\DICTIONARY EXERSICE\5. Hands of Cards\bin\Debug\_5.Hands_of_Cards.pdb
+C:\Users\ALEN\Desktop\FUNDAMENTALS\6 DICTIONARY\DICTIONARY EXERSICE\DICTIONARY EXERSICE\5. Hands of Cards\obj\Debug\5. Hands of Cards.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\FUNDAMENTALS\6 DICTIONARY\DICTIONARY EXERSICE\DICTIONARY EXERSICE\5. Hands of Cards\obj\Debug\_5.Hands_of_Cards.exe
+C:\Users\ALEN\Desktop\FUNDAMENTALS\6 DICTIONARY\DICTIONARY EXERSICE\DICTIONARY EXERSICE\5. Hands of Cards\obj\Debug\_5.Hands_of_Cards.pdb
+C:\Users\ALEN\Desktop\FUNDAMENTALS\6 DICTIONARY\DICTIONARY EXERCISES 2\5. Hands of Cards\bin\Debug\_5.Hands_of_Cards.exe.config
+C:\Users\ALEN\Desktop\FUNDAMENTALS\6 DICTIONARY\DICTIONARY EXERCISES 2\5. Hands of Cards\bin\Debug\_5.Hands_of_Cards.exe
+C:\Users\ALEN\Desktop\FUNDAMENTALS\6 DICTIONARY\DICTIONARY EXERCISES 2\5. Hands of Cards\bin\Debug\_5.Hands_of_Cards.pdb
+C:\Users\ALEN\Desktop\FUNDAMENTALS\6 DICTIONARY\DICTIONARY EXERCISES 2\5. Hands of Cards\obj\Debug\5. Hands of Cards.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\FUNDAMENTALS\6 DICTIONARY\DICTIONARY EXERCISES 2\5. Hands of Cards\obj\Debug\5. Hands of Cards.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\FUNDAMENTALS\6 DICTIONARY\DICTIONARY EXERCISES 2\5. Hands of Cards\obj\Debug\_5.Hands_of_Cards.exe
+C:\Users\ALEN\Desktop\FUNDAMENTALS\6 DICTIONARY\DICTIONARY EXERCISES 2\5. Hands of Cards\obj\Debug\_5.Hands_of_Cards.pdb

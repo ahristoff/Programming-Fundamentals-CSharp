@@ -1,0 +1,3 @@
+C:\Users\ALEN\Desktop\FUNDAMENT\1 lecture exercise\EXERCISE\Problem 5. .. Word in Plural\bin\Debug\Problem_5._._.Word_in_Plural.exe.config
+C:\Users\ALEN\Desktop\FUNDAMENT\1 lecture exercise\EXERCISE\Problem 5. .. Word in Plural\obj\Debug\Problem_5._._.Word_in_Plural.exe
+C:\Users\ALEN\Desktop\FUNDAMENT\1 lecture exercise\EXERCISE\Problem 5. .. Word in Plural\obj\Debug\Problem_5._._.Word_in_Plural.pdb

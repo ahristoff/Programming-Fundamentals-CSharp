@@ -1,0 +1,13 @@
+C:\Users\ALEN\Desktop\FUNDAMENT\2 variables\VARIABLE EXERCISE 2\variables 2\Problem 11. String Concatenation\bin\Debug\Problem_11.String_Concatenation.exe.config
+C:\Users\ALEN\Desktop\FUNDAMENT\2 variables\VARIABLE EXERCISE 2\variables 2\Problem 11. String Concatenation\bin\Debug\Problem_11.String_Concatenation.exe
+C:\Users\ALEN\Desktop\FUNDAMENT\2 variables\VARIABLE EXERCISE 2\variables 2\Problem 11. String Concatenation\bin\Debug\Problem_11.String_Concatenation.pdb
+C:\Users\ALEN\Desktop\FUNDAMENT\2 variables\VARIABLE EXERCISE 2\variables 2\Problem 11. String Concatenation\obj\Debug\Problem 911. String Concatenation.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\FUNDAMENT\2 variables\VARIABLE EXERCISE 2\variables 2\Problem 11. String Concatenation\obj\Debug\Problem_11.String_Concatenation.exe
+C:\Users\ALEN\Desktop\FUNDAMENT\2 variables\VARIABLE EXERCISE 2\variables 2\Problem 11. String Concatenation\obj\Debug\Problem_11.String_Concatenation.pdb
+C:\Users\ALEN\Desktop\FUNDAMENTALS\2 variables\VARIABLE EXERCISE 2\Problem 11. String Concatenation\bin\Debug\Problem_11.String_Concatenation.exe.config
+C:\Users\ALEN\Desktop\FUNDAMENTALS\2 variables\VARIABLE EXERCISE 2\Problem 11. String Concatenation\bin\Debug\Problem_11.String_Concatenation.exe
+C:\Users\ALEN\Desktop\FUNDAMENTALS\2 variables\VARIABLE EXERCISE 2\Problem 11. String Concatenation\bin\Debug\Problem_11.String_Concatenation.pdb
+C:\Users\ALEN\Desktop\FUNDAMENTALS\2 variables\VARIABLE EXERCISE 2\Problem 11. String Concatenation\obj\Debug\Problem 911. String Concatenation.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\FUNDAMENTALS\2 variables\VARIABLE EXERCISE 2\Problem 11. String Concatenation\obj\Debug\Problem 911. String Concatenation.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\FUNDAMENTALS\2 variables\VARIABLE EXERCISE 2\Problem 11. String Concatenation\obj\Debug\Problem_11.String_Concatenation.exe
+C:\Users\ALEN\Desktop\FUNDAMENTALS\2 variables\VARIABLE EXERCISE 2\Problem 11. String Concatenation\obj\Debug\Problem_11.String_Concatenation.pdb

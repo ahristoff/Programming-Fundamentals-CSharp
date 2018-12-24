@@ -1,0 +1,24 @@
+C:\Users\ALEN\Desktop\LIST\LIST LAB\List LAB\3. Sum Adjacent Equal Numbers\bin\Debug\_3.Sum_Adjacent_Equal_Numbers.exe.config
+C:\Users\ALEN\Desktop\LIST\LIST LAB\List LAB\3. Sum Adjacent Equal Numbers\bin\Debug\_3.Sum_Adjacent_Equal_Numbers.exe
+C:\Users\ALEN\Desktop\LIST\LIST LAB\List LAB\3. Sum Adjacent Equal Numbers\bin\Debug\_3.Sum_Adjacent_Equal_Numbers.pdb
+C:\Users\ALEN\Desktop\LIST\LIST LAB\List LAB\3. Sum Adjacent Equal Numbers\obj\Debug\3. Sum Adjacent Equal Numbers.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\LIST\LIST LAB\List LAB\3. Sum Adjacent Equal Numbers\obj\Debug\_3.Sum_Adjacent_Equal_Numbers.exe
+C:\Users\ALEN\Desktop\LIST\LIST LAB\List LAB\3. Sum Adjacent Equal Numbers\obj\Debug\_3.Sum_Adjacent_Equal_Numbers.pdb
+C:\Users\ALEN\Desktop\FUNDAMENT\LIST\LIST LAB\List LAB\3. Sum Adjacent Equal Numbers\bin\Debug\_3.Sum_Adjacent_Equal_Numbers.exe.config
+C:\Users\ALEN\Desktop\FUNDAMENT\LIST\LIST LAB\List LAB\3. Sum Adjacent Equal Numbers\obj\Debug\_3.Sum_Adjacent_Equal_Numbers.exe
+C:\Users\ALEN\Desktop\FUNDAMENT\LIST\LIST LAB\List LAB\3. Sum Adjacent Equal Numbers\obj\Debug\_3.Sum_Adjacent_Equal_Numbers.pdb
+C:\Users\ALEN\Desktop\FUNDAMENT\LIST\LIST LAB\List LAB\3. Sum Adjacent Equal Numbers\bin\Debug\_3.Sum_Adjacent_Equal_Numbers.exe
+C:\Users\ALEN\Desktop\FUNDAMENT\LIST\LIST LAB\List LAB\3. Sum Adjacent Equal Numbers\bin\Debug\_3.Sum_Adjacent_Equal_Numbers.pdb
+C:\Users\ALEN\Desktop\FUNDAMENT\LIST\LIST LAB\List LAB\3. Sum Adjacent Equal Numbers\obj\Debug\3. Sum Adjacent Equal Numbers.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\FUNDAMENT\5 LIST\LIST LAB\List LAB\3. Sum Adjacent Equal Numbers\bin\Debug\_3.Sum_Adjacent_Equal_Numbers.exe.config
+C:\Users\ALEN\Desktop\FUNDAMENT\5 LIST\LIST LAB\List LAB\3. Sum Adjacent Equal Numbers\obj\Debug\_3.Sum_Adjacent_Equal_Numbers.exe
+C:\Users\ALEN\Desktop\FUNDAMENT\5 LIST\LIST LAB\List LAB\3. Sum Adjacent Equal Numbers\obj\Debug\_3.Sum_Adjacent_Equal_Numbers.pdb
+C:\Users\ALEN\Desktop\FUNDAMENT\5 LIST\LIST LAB\List LAB\3. Sum Adjacent Equal Numbers\bin\Debug\_3.Sum_Adjacent_Equal_Numbers.exe
+C:\Users\ALEN\Desktop\FUNDAMENT\5 LIST\LIST LAB\List LAB\3. Sum Adjacent Equal Numbers\bin\Debug\_3.Sum_Adjacent_Equal_Numbers.pdb
+C:\Users\ALEN\Desktop\FUNDAMENT\5 LIST\LIST LAB\List LAB\3. Sum Adjacent Equal Numbers\obj\Debug\3. Sum Adjacent Equal Numbers.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\FUNDAMENTALS\5 LIST\LIST LAB\List LAB\3. Sum Adjacent Equal Numbers\bin\Debug\_3.Sum_Adjacent_Equal_Numbers.exe.config
+C:\Users\ALEN\Desktop\FUNDAMENTALS\5 LIST\LIST LAB\List LAB\3. Sum Adjacent Equal Numbers\bin\Debug\_3.Sum_Adjacent_Equal_Numbers.exe
+C:\Users\ALEN\Desktop\FUNDAMENTALS\5 LIST\LIST LAB\List LAB\3. Sum Adjacent Equal Numbers\bin\Debug\_3.Sum_Adjacent_Equal_Numbers.pdb
+C:\Users\ALEN\Desktop\FUNDAMENTALS\5 LIST\LIST LAB\List LAB\3. Sum Adjacent Equal Numbers\obj\Debug\3. Sum Adjacent Equal Numbers.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\FUNDAMENTALS\5 LIST\LIST LAB\List LAB\3. Sum Adjacent Equal Numbers\obj\Debug\_3.Sum_Adjacent_Equal_Numbers.exe
+C:\Users\ALEN\Desktop\FUNDAMENTALS\5 LIST\LIST LAB\List LAB\3. Sum Adjacent Equal Numbers\obj\Debug\_3.Sum_Adjacent_Equal_Numbers.pdb

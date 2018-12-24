@@ -1,0 +1,14 @@
+C:\Users\ALEN\Desktop\variable\VARIABLE EXERCISE\914  Integer to Hex and Binary\bin\Debug\914  Integer to Hex and Binary.exe.config
+C:\Users\ALEN\Desktop\variable\VARIABLE EXERCISE\914  Integer to Hex and Binary\bin\Debug\914  Integer to Hex and Binary.exe
+C:\Users\ALEN\Desktop\variable\VARIABLE EXERCISE\914  Integer to Hex and Binary\bin\Debug\914  Integer to Hex and Binary.pdb
+C:\Users\ALEN\Desktop\variable\VARIABLE EXERCISE\914  Integer to Hex and Binary\obj\Debug\914  Integer to Hex and Binary.exe
+C:\Users\ALEN\Desktop\variable\VARIABLE EXERCISE\914  Integer to Hex and Binary\obj\Debug\914  Integer to Hex and Binary.pdb
+C:\Users\ALEN\Desktop\FUNDAMENT\2 variables\VARIABLE EXERCISE  1\914  Integer to Hex and Binary\bin\Debug\914  Integer to Hex and Binary.exe.config
+C:\Users\ALEN\Desktop\FUNDAMENT\2 variables\VARIABLE EXERCISE  1\914  Integer to Hex and Binary\obj\Debug\914  Integer to Hex and Binary.exe
+C:\Users\ALEN\Desktop\FUNDAMENT\2 variables\VARIABLE EXERCISE  1\914  Integer to Hex and Binary\obj\Debug\914  Integer to Hex and Binary.pdb
+C:\Users\ALEN\Desktop\FUNDAMENTALS\2 variables\VARIABLE EXERCISE  1\914  Integer to Hex and Binary\bin\Debug\914  Integer to Hex and Binary.exe.config
+C:\Users\ALEN\Desktop\FUNDAMENTALS\2 variables\VARIABLE EXERCISE  1\914  Integer to Hex and Binary\bin\Debug\914  Integer to Hex and Binary.exe
+C:\Users\ALEN\Desktop\FUNDAMENTALS\2 variables\VARIABLE EXERCISE  1\914  Integer to Hex and Binary\bin\Debug\914  Integer to Hex and Binary.pdb
+C:\Users\ALEN\Desktop\FUNDAMENTALS\2 variables\VARIABLE EXERCISE  1\914  Integer to Hex and Binary\obj\Debug\914  Integer to Hex and Binary.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\FUNDAMENTALS\2 variables\VARIABLE EXERCISE  1\914  Integer to Hex and Binary\obj\Debug\914  Integer to Hex and Binary.exe
+C:\Users\ALEN\Desktop\FUNDAMENTALS\2 variables\VARIABLE EXERCISE  1\914  Integer to Hex and Binary\obj\Debug\914  Integer to Hex and Binary.pdb

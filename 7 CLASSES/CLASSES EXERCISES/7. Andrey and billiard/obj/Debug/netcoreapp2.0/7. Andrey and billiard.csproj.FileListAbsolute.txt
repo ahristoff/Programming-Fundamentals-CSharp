@@ -1,0 +1,11 @@
+C:\Users\ALEN\Desktop\FUNDAMENTALS\7 CLASSES\CLASSES EXERCISES\7. Andrey and billiard\bin\Debug\netcoreapp2.0\7. Andrey and billiard.deps.json
+C:\Users\ALEN\Desktop\FUNDAMENTALS\7 CLASSES\CLASSES EXERCISES\7. Andrey and billiard\bin\Debug\netcoreapp2.0\7. Andrey and billiard.runtimeconfig.json
+C:\Users\ALEN\Desktop\FUNDAMENTALS\7 CLASSES\CLASSES EXERCISES\7. Andrey and billiard\bin\Debug\netcoreapp2.0\7. Andrey and billiard.runtimeconfig.dev.json
+C:\Users\ALEN\Desktop\FUNDAMENTALS\7 CLASSES\CLASSES EXERCISES\7. Andrey and billiard\bin\Debug\netcoreapp2.0\7. Andrey and billiard.dll
+C:\Users\ALEN\Desktop\FUNDAMENTALS\7 CLASSES\CLASSES EXERCISES\7. Andrey and billiard\bin\Debug\netcoreapp2.0\7. Andrey and billiard.pdb
+C:\Users\ALEN\Desktop\FUNDAMENTALS\7 CLASSES\CLASSES EXERCISES\7. Andrey and billiard\obj\Debug\netcoreapp2.0\7. Andrey and billiard.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\FUNDAMENTALS\7 CLASSES\CLASSES EXERCISES\7. Andrey and billiard\obj\Debug\netcoreapp2.0\7. Andrey and billiard.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\FUNDAMENTALS\7 CLASSES\CLASSES EXERCISES\7. Andrey and billiard\obj\Debug\netcoreapp2.0\7. Andrey and billiard.AssemblyInfoInputs.cache
+C:\Users\ALEN\Desktop\FUNDAMENTALS\7 CLASSES\CLASSES EXERCISES\7. Andrey and billiard\obj\Debug\netcoreapp2.0\7. Andrey and billiard.AssemblyInfo.cs
+C:\Users\ALEN\Desktop\FUNDAMENTALS\7 CLASSES\CLASSES EXERCISES\7. Andrey and billiard\obj\Debug\netcoreapp2.0\7. Andrey and billiard.dll
+C:\Users\ALEN\Desktop\FUNDAMENTALS\7 CLASSES\CLASSES EXERCISES\7. Andrey and billiard\obj\Debug\netcoreapp2.0\7. Andrey and billiard.pdb

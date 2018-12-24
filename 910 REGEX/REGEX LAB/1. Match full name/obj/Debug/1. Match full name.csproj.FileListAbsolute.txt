@@ -1,0 +1,14 @@
+C:\Users\ALEN\Desktop\FUNDAMENT\910 REGEX\REGEX LAB\REGEX LAB\1. Match full name\bin\Debug\_1.Match_full_name.exe.config
+C:\Users\ALEN\Desktop\FUNDAMENTALS\910 REGEX\REGEX LAB\REGEX LAB\1. Match full name\bin\Debug\_1.Match_full_name.exe.config
+C:\Users\ALEN\Desktop\FUNDAMENTALS\910 REGEX\REGEX LAB\REGEX LAB\1. Match full name\bin\Debug\_1.Match_full_name.exe
+C:\Users\ALEN\Desktop\FUNDAMENTALS\910 REGEX\REGEX LAB\REGEX LAB\1. Match full name\bin\Debug\_1.Match_full_name.pdb
+C:\Users\ALEN\Desktop\FUNDAMENTALS\910 REGEX\REGEX LAB\REGEX LAB\1. Match full name\obj\Debug\1. Match full name.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\FUNDAMENTALS\910 REGEX\REGEX LAB\REGEX LAB\1. Match full name\obj\Debug\_1.Match_full_name.exe
+C:\Users\ALEN\Desktop\FUNDAMENTALS\910 REGEX\REGEX LAB\REGEX LAB\1. Match full name\obj\Debug\_1.Match_full_name.pdb
+C:\Users\ALEN\Desktop\FUNDAMENTALS\910 REGEX\REGEX LAB\1. Match full name\bin\Debug\_1.Match_full_name.exe.config
+C:\Users\ALEN\Desktop\FUNDAMENTALS\910 REGEX\REGEX LAB\1. Match full name\bin\Debug\_1.Match_full_name.exe
+C:\Users\ALEN\Desktop\FUNDAMENTALS\910 REGEX\REGEX LAB\1. Match full name\bin\Debug\_1.Match_full_name.pdb
+C:\Users\ALEN\Desktop\FUNDAMENTALS\910 REGEX\REGEX LAB\1. Match full name\obj\Debug\1. Match full name.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\FUNDAMENTALS\910 REGEX\REGEX LAB\1. Match full name\obj\Debug\1. Match full name.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\FUNDAMENTALS\910 REGEX\REGEX LAB\1. Match full name\obj\Debug\_1.Match_full_name.exe
+C:\Users\ALEN\Desktop\FUNDAMENTALS\910 REGEX\REGEX LAB\1. Match full name\obj\Debug\_1.Match_full_name.pdb

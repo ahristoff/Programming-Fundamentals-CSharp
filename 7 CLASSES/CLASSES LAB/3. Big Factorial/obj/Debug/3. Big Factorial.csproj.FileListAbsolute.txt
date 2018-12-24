@@ -1,0 +1,6 @@
+C:\Users\ALEN\Desktop\7 CLASSES\CLASSES LAB\LAB\3. Big Factorial\bin\Debug\_3.Big_Factorial.exe.config
+C:\Users\ALEN\Desktop\7 CLASSES\CLASSES LAB\LAB\3. Big Factorial\bin\Debug\_3.Big_Factorial.exe
+C:\Users\ALEN\Desktop\7 CLASSES\CLASSES LAB\LAB\3. Big Factorial\bin\Debug\_3.Big_Factorial.pdb
+C:\Users\ALEN\Desktop\7 CLASSES\CLASSES LAB\LAB\3. Big Factorial\obj\Debug\3. Big Factorial.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\7 CLASSES\CLASSES LAB\LAB\3. Big Factorial\obj\Debug\_3.Big_Factorial.exe
+C:\Users\ALEN\Desktop\7 CLASSES\CLASSES LAB\LAB\3. Big Factorial\obj\Debug\_3.Big_Factorial.pdb

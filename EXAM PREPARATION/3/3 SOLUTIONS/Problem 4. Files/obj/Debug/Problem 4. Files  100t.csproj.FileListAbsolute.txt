@@ -1,0 +1,6 @@
+C:\Users\ALEN\Desktop\FUNDAMENTALS\EXAM PREPARATION\3\3 SOLUTIONS\Problem 4. Files\bin\Debug\Problem_4.Files.exe.config
+C:\Users\ALEN\Desktop\FUNDAMENTALS\EXAM PREPARATION\3\3 SOLUTIONS\Problem 4. Files\bin\Debug\Problem_4.Files.exe
+C:\Users\ALEN\Desktop\FUNDAMENTALS\EXAM PREPARATION\3\3 SOLUTIONS\Problem 4. Files\bin\Debug\Problem_4.Files.pdb
+C:\Users\ALEN\Desktop\FUNDAMENTALS\EXAM PREPARATION\3\3 SOLUTIONS\Problem 4. Files\obj\Debug\Problem 4. Files  100t.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\FUNDAMENTALS\EXAM PREPARATION\3\3 SOLUTIONS\Problem 4. Files\obj\Debug\Problem_4.Files.exe
+C:\Users\ALEN\Desktop\FUNDAMENTALS\EXAM PREPARATION\3\3 SOLUTIONS\Problem 4. Files\obj\Debug\Problem_4.Files.pdb

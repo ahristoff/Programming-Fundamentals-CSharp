@@ -1,0 +1,11 @@
+C:\Users\ALEN\Desktop\FUNDAMENTALS\4 ARRAY\ARRAY LAB\4. Triple Sum\bin\Debug\netcoreapp2.0\4. Triple Sum.deps.json
+C:\Users\ALEN\Desktop\FUNDAMENTALS\4 ARRAY\ARRAY LAB\4. Triple Sum\bin\Debug\netcoreapp2.0\4. Triple Sum.runtimeconfig.json
+C:\Users\ALEN\Desktop\FUNDAMENTALS\4 ARRAY\ARRAY LAB\4. Triple Sum\bin\Debug\netcoreapp2.0\4. Triple Sum.runtimeconfig.dev.json
+C:\Users\ALEN\Desktop\FUNDAMENTALS\4 ARRAY\ARRAY LAB\4. Triple Sum\bin\Debug\netcoreapp2.0\4. Triple Sum.dll
+C:\Users\ALEN\Desktop\FUNDAMENTALS\4 ARRAY\ARRAY LAB\4. Triple Sum\bin\Debug\netcoreapp2.0\4. Triple Sum.pdb
+C:\Users\ALEN\Desktop\FUNDAMENTALS\4 ARRAY\ARRAY LAB\4. Triple Sum\obj\Debug\netcoreapp2.0\4. Triple Sum.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\FUNDAMENTALS\4 ARRAY\ARRAY LAB\4. Triple Sum\obj\Debug\netcoreapp2.0\4. Triple Sum.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\FUNDAMENTALS\4 ARRAY\ARRAY LAB\4. Triple Sum\obj\Debug\netcoreapp2.0\4. Triple Sum.AssemblyInfoInputs.cache
+C:\Users\ALEN\Desktop\FUNDAMENTALS\4 ARRAY\ARRAY LAB\4. Triple Sum\obj\Debug\netcoreapp2.0\4. Triple Sum.AssemblyInfo.cs
+C:\Users\ALEN\Desktop\FUNDAMENTALS\4 ARRAY\ARRAY LAB\4. Triple Sum\obj\Debug\netcoreapp2.0\4. Triple Sum.dll
+C:\Users\ALEN\Desktop\FUNDAMENTALS\4 ARRAY\ARRAY LAB\4. Triple Sum\obj\Debug\netcoreapp2.0\4. Triple Sum.pdb

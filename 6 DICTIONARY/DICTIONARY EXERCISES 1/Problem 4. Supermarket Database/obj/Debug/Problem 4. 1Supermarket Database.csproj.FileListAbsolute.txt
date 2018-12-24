@@ -1,0 +1,6 @@
+C:\Users\ALEN\Desktop\FUNDAMENTALS\6 DICTIONARY\DICTIONARY EXERCISES 1\Problem 4. Supermarket Database\bin\Debug\Problem_4.Supermarket_Database.exe.config
+C:\Users\ALEN\Desktop\FUNDAMENTALS\6 DICTIONARY\DICTIONARY EXERCISES 1\Problem 4. Supermarket Database\bin\Debug\Problem_4.Supermarket_Database.exe
+C:\Users\ALEN\Desktop\FUNDAMENTALS\6 DICTIONARY\DICTIONARY EXERCISES 1\Problem 4. Supermarket Database\bin\Debug\Problem_4.Supermarket_Database.pdb
+C:\Users\ALEN\Desktop\FUNDAMENTALS\6 DICTIONARY\DICTIONARY EXERCISES 1\Problem 4. Supermarket Database\obj\Debug\Problem 4. 1Supermarket Database.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\FUNDAMENTALS\6 DICTIONARY\DICTIONARY EXERCISES 1\Problem 4. Supermarket Database\obj\Debug\Problem_4.Supermarket_Database.exe
+C:\Users\ALEN\Desktop\FUNDAMENTALS\6 DICTIONARY\DICTIONARY EXERCISES 1\Problem 4. Supermarket Database\obj\Debug\Problem_4.Supermarket_Database.pdb

@@ -1,0 +1,16 @@
+C:\Users\ALEN\Desktop\1.1 lecture exercise\solution\1.1 exercise\Problem 2. Vapor Store\bin\Debug\Problem_2.Vapor_Store.exe.config
+C:\Users\ALEN\Desktop\1.1 lecture exercise\solution\1.1 exercise\Problem 2. Vapor Store\bin\Debug\Problem_2.Vapor_Store.exe
+C:\Users\ALEN\Desktop\1.1 lecture exercise\solution\1.1 exercise\Problem 2. Vapor Store\bin\Debug\Problem_2.Vapor_Store.pdb
+C:\Users\ALEN\Desktop\1.1 lecture exercise\solution\1.1 exercise\Problem 2. Vapor Store\obj\Debug\Problem 2. Vapor Store.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\1.1 lecture exercise\solution\1.1 exercise\Problem 2. Vapor Store\obj\Debug\Problem_2.Vapor_Store.exe
+C:\Users\ALEN\Desktop\1.1 lecture exercise\solution\1.1 exercise\Problem 2. Vapor Store\obj\Debug\Problem_2.Vapor_Store.pdb
+C:\Users\ALEN\Desktop\FUNDAMENT\1.1 lecture exercise\solution\1.1 exercise\Problem 2. Vapor Store\bin\Debug\Problem_2.Vapor_Store.exe.config
+C:\Users\ALEN\Desktop\FUNDAMENT\1.1 lecture exercise\solution\1.1 exercise\Problem 2. Vapor Store\obj\Debug\Problem_2.Vapor_Store.exe
+C:\Users\ALEN\Desktop\FUNDAMENT\1.1 lecture exercise\solution\1.1 exercise\Problem 2. Vapor Store\obj\Debug\Problem_2.Vapor_Store.pdb
+C:\Users\ALEN\Desktop\FUNDAMENTALS\1.1 lecture exercise\Exercises\Problem 2. Vapor Store\bin\Debug\Problem_2.Vapor_Store.exe.config
+C:\Users\ALEN\Desktop\FUNDAMENTALS\1.1 lecture exercise\Exercises\Problem 2. Vapor Store\bin\Debug\Problem_2.Vapor_Store.exe
+C:\Users\ALEN\Desktop\FUNDAMENTALS\1.1 lecture exercise\Exercises\Problem 2. Vapor Store\bin\Debug\Problem_2.Vapor_Store.pdb
+C:\Users\ALEN\Desktop\FUNDAMENTALS\1.1 lecture exercise\Exercises\Problem 2. Vapor Store\obj\Debug\Problem 2. Vapor Store.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\FUNDAMENTALS\1.1 lecture exercise\Exercises\Problem 2. Vapor Store\obj\Debug\Problem 2. Vapor Store.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\FUNDAMENTALS\1.1 lecture exercise\Exercises\Problem 2. Vapor Store\obj\Debug\Problem_2.Vapor_Store.exe
+C:\Users\ALEN\Desktop\FUNDAMENTALS\1.1 lecture exercise\Exercises\Problem 2. Vapor Store\obj\Debug\Problem_2.Vapor_Store.pdb

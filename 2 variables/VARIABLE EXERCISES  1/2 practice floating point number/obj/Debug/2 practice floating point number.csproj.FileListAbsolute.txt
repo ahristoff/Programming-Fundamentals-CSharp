@@ -1,0 +1,13 @@
+C:\Users\ALEN\Desktop\variable\VARIABLE EXERCISE\2 practice floating point number\bin\Debug\2 practice floating point number.exe.config
+C:\Users\ALEN\Desktop\variable\VARIABLE EXERCISE\2 practice floating point number\bin\Debug\2 practice floating point number.exe
+C:\Users\ALEN\Desktop\variable\VARIABLE EXERCISE\2 practice floating point number\bin\Debug\2 practice floating point number.pdb
+C:\Users\ALEN\Desktop\variable\VARIABLE EXERCISE\2 practice floating point number\obj\Debug\2 practice floating point number.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\variable\VARIABLE EXERCISE\2 practice floating point number\obj\Debug\2 practice floating point number.exe
+C:\Users\ALEN\Desktop\variable\VARIABLE EXERCISE\2 practice floating point number\obj\Debug\2 practice floating point number.pdb
+C:\Users\ALEN\Desktop\FUNDAMENT\2 variables\VARIABLE EXERCISE  1\2 practice floating point number\bin\Debug\2 practice floating point number.exe.config
+C:\Users\ALEN\Desktop\FUNDAMENT\2 variables\VARIABLE EXERCISE  1\2 practice floating point number\obj\Debug\2 practice floating point number.exe
+C:\Users\ALEN\Desktop\FUNDAMENT\2 variables\VARIABLE EXERCISE  1\2 practice floating point number\obj\Debug\2 practice floating point number.pdb
+C:\Users\ALEN\Desktop\FUNDAMENTALS\2 variables\VARIABLE EXERCISE  1\2 practice floating point number\obj\Debug\2 practice floating point number.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\FUNDAMENTALS\2 variables\VARIABLE EXERCISE  1\2 practice floating point number\obj\Debug\2 practice floating point number.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\FUNDAMENTALS\2 variables\VARIABLE EXERCISE  1\2 practice floating point number\obj\Debug\2 practice floating point number.exe
+C:\Users\ALEN\Desktop\FUNDAMENTALS\2 variables\VARIABLE EXERCISE  1\2 practice floating point number\obj\Debug\2 practice floating point number.pdb

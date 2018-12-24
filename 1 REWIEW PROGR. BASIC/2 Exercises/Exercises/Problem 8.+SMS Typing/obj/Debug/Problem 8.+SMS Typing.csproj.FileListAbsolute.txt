@@ -1,0 +1,16 @@
+C:\Users\ALEN\Desktop\1.1 lecture exercise\solution\1.1 exercise\Problem 8.+SMS Typing\bin\Debug\Problem 8.+SMS Typing.exe.config
+C:\Users\ALEN\Desktop\1.1 lecture exercise\solution\1.1 exercise\Problem 8.+SMS Typing\obj\Debug\Problem 8.+SMS Typing.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\1.1 lecture exercise\solution\1.1 exercise\Problem 8.+SMS Typing\bin\Debug\Problem 8.+SMS Typing.exe
+C:\Users\ALEN\Desktop\1.1 lecture exercise\solution\1.1 exercise\Problem 8.+SMS Typing\bin\Debug\Problem 8.+SMS Typing.pdb
+C:\Users\ALEN\Desktop\1.1 lecture exercise\solution\1.1 exercise\Problem 8.+SMS Typing\obj\Debug\Problem 8.+SMS Typing.exe
+C:\Users\ALEN\Desktop\1.1 lecture exercise\solution\1.1 exercise\Problem 8.+SMS Typing\obj\Debug\Problem 8.+SMS Typing.pdb
+C:\Users\ALEN\Desktop\FUNDAMENT\1.1 lecture exercise\solution\1.1 exercise\Problem 8.+SMS Typing\bin\Debug\Problem 8.+SMS Typing.exe.config
+C:\Users\ALEN\Desktop\FUNDAMENT\1.1 lecture exercise\solution\1.1 exercise\Problem 8.+SMS Typing\obj\Debug\Problem 8.+SMS Typing.exe
+C:\Users\ALEN\Desktop\FUNDAMENT\1.1 lecture exercise\solution\1.1 exercise\Problem 8.+SMS Typing\obj\Debug\Problem 8.+SMS Typing.pdb
+C:\Users\ALEN\Desktop\FUNDAMENTALS\1.1 lecture exercise\Exercises\Problem 8.+SMS Typing\bin\Debug\Problem 8.+SMS Typing.exe.config
+C:\Users\ALEN\Desktop\FUNDAMENTALS\1.1 lecture exercise\Exercises\Problem 8.+SMS Typing\bin\Debug\Problem 8.+SMS Typing.exe
+C:\Users\ALEN\Desktop\FUNDAMENTALS\1.1 lecture exercise\Exercises\Problem 8.+SMS Typing\bin\Debug\Problem 8.+SMS Typing.pdb
+C:\Users\ALEN\Desktop\FUNDAMENTALS\1.1 lecture exercise\Exercises\Problem 8.+SMS Typing\obj\Debug\Problem 8.+SMS Typing.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\FUNDAMENTALS\1.1 lecture exercise\Exercises\Problem 8.+SMS Typing\obj\Debug\Problem 8.+SMS Typing.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\FUNDAMENTALS\1.1 lecture exercise\Exercises\Problem 8.+SMS Typing\obj\Debug\Problem 8.+SMS Typing.exe
+C:\Users\ALEN\Desktop\FUNDAMENTALS\1.1 lecture exercise\Exercises\Problem 8.+SMS Typing\obj\Debug\Problem 8.+SMS Typing.pdb

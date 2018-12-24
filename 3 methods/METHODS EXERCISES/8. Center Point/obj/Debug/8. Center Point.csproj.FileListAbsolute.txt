@@ -1,0 +1,9 @@
+C:\Users\ALEN\Desktop\methods\METHODS EXERCISE\methods exercise\8. Center Point\bin\Debug\_8.Center_Point.exe.config
+C:\Users\ALEN\Desktop\methods\METHODS EXERCISE\methods exercise\8. Center Point\bin\Debug\_8.Center_Point.exe
+C:\Users\ALEN\Desktop\methods\METHODS EXERCISE\methods exercise\8. Center Point\bin\Debug\_8.Center_Point.pdb
+C:\Users\ALEN\Desktop\methods\METHODS EXERCISE\methods exercise\8. Center Point\obj\Debug\8. Center Point.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\methods\METHODS EXERCISE\methods exercise\8. Center Point\obj\Debug\_8.Center_Point.exe
+C:\Users\ALEN\Desktop\methods\METHODS EXERCISE\methods exercise\8. Center Point\obj\Debug\_8.Center_Point.pdb
+C:\Users\ALEN\Desktop\FUNDAMENT\3 methods\METHODS EXERCISE\methods exercise\8. Center Point\bin\Debug\_8.Center_Point.exe.config
+C:\Users\ALEN\Desktop\FUNDAMENT\3 methods\METHODS EXERCISE\methods exercise\8. Center Point\obj\Debug\_8.Center_Point.exe
+C:\Users\ALEN\Desktop\FUNDAMENT\3 methods\METHODS EXERCISE\methods exercise\8. Center Point\obj\Debug\_8.Center_Point.pdb

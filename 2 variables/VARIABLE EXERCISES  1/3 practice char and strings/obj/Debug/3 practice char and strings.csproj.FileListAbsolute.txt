@@ -1,0 +1,8 @@
+C:\Users\ALEN\Desktop\variable\VARIABLE EXERCISE\3 practice char and strings\bin\Debug\3 practice char and strings.exe.config
+C:\Users\ALEN\Desktop\variable\VARIABLE EXERCISE\3 practice char and strings\bin\Debug\3 practice char and strings.exe
+C:\Users\ALEN\Desktop\variable\VARIABLE EXERCISE\3 practice char and strings\bin\Debug\3 practice char and strings.pdb
+C:\Users\ALEN\Desktop\variable\VARIABLE EXERCISE\3 practice char and strings\obj\Debug\3 practice char and strings.exe
+C:\Users\ALEN\Desktop\variable\VARIABLE EXERCISE\3 practice char and strings\obj\Debug\3 practice char and strings.pdb
+C:\Users\ALEN\Desktop\FUNDAMENT\2 variables\VARIABLE EXERCISE  1\3 practice char and strings\bin\Debug\3 practice char and strings.exe.config
+C:\Users\ALEN\Desktop\FUNDAMENT\2 variables\VARIABLE EXERCISE  1\3 practice char and strings\obj\Debug\3 practice char and strings.exe
+C:\Users\ALEN\Desktop\FUNDAMENT\2 variables\VARIABLE EXERCISE  1\3 practice char and strings\obj\Debug\3 practice char and strings.pdb

@@ -1,0 +1,11 @@
+C:\Users\ALEN\Desktop\FUNDAMENTALS\4 ARRAY\ARRAY LAB\3. Last K Numbers Sums Sequence\bin\Debug\netcoreapp2.0\3. Last K Numbers Sums Sequence.deps.json
+C:\Users\ALEN\Desktop\FUNDAMENTALS\4 ARRAY\ARRAY LAB\3. Last K Numbers Sums Sequence\bin\Debug\netcoreapp2.0\3. Last K Numbers Sums Sequence.runtimeconfig.json
+C:\Users\ALEN\Desktop\FUNDAMENTALS\4 ARRAY\ARRAY LAB\3. Last K Numbers Sums Sequence\bin\Debug\netcoreapp2.0\3. Last K Numbers Sums Sequence.runtimeconfig.dev.json
+C:\Users\ALEN\Desktop\FUNDAMENTALS\4 ARRAY\ARRAY LAB\3. Last K Numbers Sums Sequence\bin\Debug\netcoreapp2.0\3. Last K Numbers Sums Sequence.dll
+C:\Users\ALEN\Desktop\FUNDAMENTALS\4 ARRAY\ARRAY LAB\3. Last K Numbers Sums Sequence\bin\Debug\netcoreapp2.0\3. Last K Numbers Sums Sequence.pdb
+C:\Users\ALEN\Desktop\FUNDAMENTALS\4 ARRAY\ARRAY LAB\3. Last K Numbers Sums Sequence\obj\Debug\netcoreapp2.0\3. Last K Numbers Sums Sequence.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\FUNDAMENTALS\4 ARRAY\ARRAY LAB\3. Last K Numbers Sums Sequence\obj\Debug\netcoreapp2.0\3. Last K Numbers Sums Sequence.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\FUNDAMENTALS\4 ARRAY\ARRAY LAB\3. Last K Numbers Sums Sequence\obj\Debug\netcoreapp2.0\3. Last K Numbers Sums Sequence.AssemblyInfoInputs.cache
+C:\Users\ALEN\Desktop\FUNDAMENTALS\4 ARRAY\ARRAY LAB\3. Last K Numbers Sums Sequence\obj\Debug\netcoreapp2.0\3. Last K Numbers Sums Sequence.AssemblyInfo.cs
+C:\Users\ALEN\Desktop\FUNDAMENTALS\4 ARRAY\ARRAY LAB\3. Last K Numbers Sums Sequence\obj\Debug\netcoreapp2.0\3. Last K Numbers Sums Sequence.dll
+C:\Users\ALEN\Desktop\FUNDAMENTALS\4 ARRAY\ARRAY LAB\3. Last K Numbers Sums Sequence\obj\Debug\netcoreapp2.0\3. Last K Numbers Sums Sequence.pdb

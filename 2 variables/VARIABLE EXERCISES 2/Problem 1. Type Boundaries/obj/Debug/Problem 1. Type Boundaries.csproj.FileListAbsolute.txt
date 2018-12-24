@@ -1,0 +1,6 @@
+C:\Users\ALEN\Desktop\FUNDAMENT\2 variables\VARIABLE EXERCISE 2\variables 2\Problem 1. Type Boundaries\bin\Debug\Problem_1.Type_Boundaries.exe.config
+C:\Users\ALEN\Desktop\FUNDAMENT\2 variables\VARIABLE EXERCISE 2\variables 2\Problem 1. Type Boundaries\bin\Debug\Problem_1.Type_Boundaries.exe
+C:\Users\ALEN\Desktop\FUNDAMENT\2 variables\VARIABLE EXERCISE 2\variables 2\Problem 1. Type Boundaries\bin\Debug\Problem_1.Type_Boundaries.pdb
+C:\Users\ALEN\Desktop\FUNDAMENT\2 variables\VARIABLE EXERCISE 2\variables 2\Problem 1. Type Boundaries\obj\Debug\Problem 1. Type Boundaries.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\FUNDAMENT\2 variables\VARIABLE EXERCISE 2\variables 2\Problem 1. Type Boundaries\obj\Debug\Problem_1.Type_Boundaries.exe
+C:\Users\ALEN\Desktop\FUNDAMENT\2 variables\VARIABLE EXERCISE 2\variables 2\Problem 1. Type Boundaries\obj\Debug\Problem_1.Type_Boundaries.pdb

@@ -1,0 +1,19 @@
+C:\Users\ALEN\Desktop\7 CLASSES\CLASSES EXERSICE\classes exersice\1. Count Working Days\bin\Debug\_1.Count_Working_Days.exe.config
+C:\Users\ALEN\Desktop\7 CLASSES\CLASSES EXERSICE\classes exersice\1. Count Working Days\bin\Debug\_1.Count_Working_Days.exe
+C:\Users\ALEN\Desktop\7 CLASSES\CLASSES EXERSICE\classes exersice\1. Count Working Days\bin\Debug\_1.Count_Working_Days.pdb
+C:\Users\ALEN\Desktop\7 CLASSES\CLASSES EXERSICE\classes exersice\1. Count Working Days\obj\Debug\1. Count Working Days.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\7 CLASSES\CLASSES EXERSICE\classes exersice\1. Count Working Days\obj\Debug\_1.Count_Working_Days.exe
+C:\Users\ALEN\Desktop\7 CLASSES\CLASSES EXERSICE\classes exersice\1. Count Working Days\obj\Debug\_1.Count_Working_Days.pdb
+C:\Users\ALEN\Desktop\FUNDAMENT\7 CLASSES\CLASSES EXERSICE\classes exersice\1. Count Working Days\bin\Debug\_1.Count_Working_Days.exe.config
+C:\Users\ALEN\Desktop\FUNDAMENT\7 CLASSES\CLASSES EXERSICE\classes exersice\1. Count Working Days\obj\Debug\_1.Count_Working_Days.exe
+C:\Users\ALEN\Desktop\FUNDAMENT\7 CLASSES\CLASSES EXERSICE\classes exersice\1. Count Working Days\obj\Debug\_1.Count_Working_Days.pdb
+C:\Users\ADMIN\OneDrive\2_FUNDAMENTALS\7 CLASSES\CLASSES EXERSICE\classes exersice\1. Count Working Days\bin\Debug\_1.Count_Working_Days.exe.config
+C:\Users\ADMIN\OneDrive\2_FUNDAMENTALS\7 CLASSES\CLASSES EXERSICE\classes exersice\1. Count Working Days\obj\Debug\_1.Count_Working_Days.exe
+C:\Users\ADMIN\OneDrive\2_FUNDAMENTALS\7 CLASSES\CLASSES EXERSICE\classes exersice\1. Count Working Days\obj\Debug\_1.Count_Working_Days.pdb
+C:\Users\ALEN\Desktop\FUNDAMENTALS\7 CLASSES\CLASSES EXERCISES\1. Count Working Days\bin\Debug\_1.Count_Working_Days.exe.config
+C:\Users\ALEN\Desktop\FUNDAMENTALS\7 CLASSES\CLASSES EXERCISES\1. Count Working Days\bin\Debug\_1.Count_Working_Days.exe
+C:\Users\ALEN\Desktop\FUNDAMENTALS\7 CLASSES\CLASSES EXERCISES\1. Count Working Days\bin\Debug\_1.Count_Working_Days.pdb
+C:\Users\ALEN\Desktop\FUNDAMENTALS\7 CLASSES\CLASSES EXERCISES\1. Count Working Days\obj\Debug\1. Count Working Days.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\FUNDAMENTALS\7 CLASSES\CLASSES EXERCISES\1. Count Working Days\obj\Debug\1. Count Working Days.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\FUNDAMENTALS\7 CLASSES\CLASSES EXERCISES\1. Count Working Days\obj\Debug\_1.Count_Working_Days.exe
+C:\Users\ALEN\Desktop\FUNDAMENTALS\7 CLASSES\CLASSES EXERCISES\1. Count Working Days\obj\Debug\_1.Count_Working_Days.pdb

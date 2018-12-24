@@ -1,0 +1,8 @@
+C:\Users\ALEN\Desktop\variable\VARIABLE EXERCISE\912 Rectangle Properties\bin\Debug\912 Rectangle Properties.exe.config
+C:\Users\ALEN\Desktop\variable\VARIABLE EXERCISE\912 Rectangle Properties\bin\Debug\912 Rectangle Properties.exe
+C:\Users\ALEN\Desktop\variable\VARIABLE EXERCISE\912 Rectangle Properties\bin\Debug\912 Rectangle Properties.pdb
+C:\Users\ALEN\Desktop\variable\VARIABLE EXERCISE\912 Rectangle Properties\obj\Debug\912 Rectangle Properties.exe
+C:\Users\ALEN\Desktop\variable\VARIABLE EXERCISE\912 Rectangle Properties\obj\Debug\912 Rectangle Properties.pdb
+C:\Users\ALEN\Desktop\FUNDAMENT\2 variables\VARIABLE EXERCISE  1\912 Rectangle Properties\bin\Debug\912 Rectangle Properties.exe.config
+C:\Users\ALEN\Desktop\FUNDAMENT\2 variables\VARIABLE EXERCISE  1\912 Rectangle Properties\obj\Debug\912 Rectangle Properties.exe
+C:\Users\ALEN\Desktop\FUNDAMENT\2 variables\VARIABLE EXERCISE  1\912 Rectangle Properties\obj\Debug\912 Rectangle Properties.pdb

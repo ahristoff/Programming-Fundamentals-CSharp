@@ -1,0 +1,13 @@
+C:\Users\ALEN\Desktop\FUNDAMENTALS\910 REGEX\REGEX LAB\REGEX LAB\3. Match Hexadecimal Numbers\bin\Debug\_3.Match_Hexadecimal_Numbers.exe.config
+C:\Users\ALEN\Desktop\FUNDAMENTALS\910 REGEX\REGEX LAB\REGEX LAB\3. Match Hexadecimal Numbers\bin\Debug\_3.Match_Hexadecimal_Numbers.exe
+C:\Users\ALEN\Desktop\FUNDAMENTALS\910 REGEX\REGEX LAB\REGEX LAB\3. Match Hexadecimal Numbers\bin\Debug\_3.Match_Hexadecimal_Numbers.pdb
+C:\Users\ALEN\Desktop\FUNDAMENTALS\910 REGEX\REGEX LAB\REGEX LAB\3. Match Hexadecimal Numbers\obj\Debug\3. Match Hexadecimal Numbers.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\FUNDAMENTALS\910 REGEX\REGEX LAB\REGEX LAB\3. Match Hexadecimal Numbers\obj\Debug\_3.Match_Hexadecimal_Numbers.exe
+C:\Users\ALEN\Desktop\FUNDAMENTALS\910 REGEX\REGEX LAB\REGEX LAB\3. Match Hexadecimal Numbers\obj\Debug\_3.Match_Hexadecimal_Numbers.pdb
+C:\Users\ALEN\Desktop\FUNDAMENTALS\910 REGEX\REGEX LAB\3. Match Hexadecimal Numbers\bin\Debug\_3.Match_Hexadecimal_Numbers.exe.config
+C:\Users\ALEN\Desktop\FUNDAMENTALS\910 REGEX\REGEX LAB\3. Match Hexadecimal Numbers\bin\Debug\_3.Match_Hexadecimal_Numbers.exe
+C:\Users\ALEN\Desktop\FUNDAMENTALS\910 REGEX\REGEX LAB\3. Match Hexadecimal Numbers\bin\Debug\_3.Match_Hexadecimal_Numbers.pdb
+C:\Users\ALEN\Desktop\FUNDAMENTALS\910 REGEX\REGEX LAB\3. Match Hexadecimal Numbers\obj\Debug\3. Match Hexadecimal Numbers.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\FUNDAMENTALS\910 REGEX\REGEX LAB\3. Match Hexadecimal Numbers\obj\Debug\3. Match Hexadecimal Numbers.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\FUNDAMENTALS\910 REGEX\REGEX LAB\3. Match Hexadecimal Numbers\obj\Debug\_3.Match_Hexadecimal_Numbers.exe
+C:\Users\ALEN\Desktop\FUNDAMENTALS\910 REGEX\REGEX LAB\3. Match Hexadecimal Numbers\obj\Debug\_3.Match_Hexadecimal_Numbers.pdb

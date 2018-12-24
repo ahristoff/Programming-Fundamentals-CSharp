@@ -1,0 +1,9 @@
+C:\Users\ALEN\Desktop\variable\VARIABLE EXERCISE\7 exchange variable values\bin\Debug\7 exchange variable values.exe.config
+C:\Users\ALEN\Desktop\variable\VARIABLE EXERCISE\7 exchange variable values\bin\Debug\7 exchange variable values.exe
+C:\Users\ALEN\Desktop\variable\VARIABLE EXERCISE\7 exchange variable values\bin\Debug\7 exchange variable values.pdb
+C:\Users\ALEN\Desktop\variable\VARIABLE EXERCISE\7 exchange variable values\obj\Debug\7 exchange variable values.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\variable\VARIABLE EXERCISE\7 exchange variable values\obj\Debug\7 exchange variable values.exe
+C:\Users\ALEN\Desktop\variable\VARIABLE EXERCISE\7 exchange variable values\obj\Debug\7 exchange variable values.pdb
+C:\Users\ALEN\Desktop\FUNDAMENT\2 variables\VARIABLE EXERCISE  1\7 exchange variable values\bin\Debug\7 exchange variable values.exe.config
+C:\Users\ALEN\Desktop\FUNDAMENT\2 variables\VARIABLE EXERCISE  1\7 exchange variable values\obj\Debug\7 exchange variable values.exe
+C:\Users\ALEN\Desktop\FUNDAMENT\2 variables\VARIABLE EXERCISE  1\7 exchange variable values\obj\Debug\7 exchange variable values.pdb

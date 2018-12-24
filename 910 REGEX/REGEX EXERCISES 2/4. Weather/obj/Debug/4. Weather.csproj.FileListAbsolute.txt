@@ -1,0 +1,13 @@
+C:\Users\ALEN\Desktop\FUNDAMENTALS\910 REGEX\REGEX EXERSICE\REGEX EXERSISE\4. Weather\bin\Debug\_4.Weather.exe.config
+C:\Users\ALEN\Desktop\FUNDAMENTALS\910 REGEX\REGEX EXERSICE\REGEX EXERSISE\4. Weather\bin\Debug\_4.Weather.exe
+C:\Users\ALEN\Desktop\FUNDAMENTALS\910 REGEX\REGEX EXERSICE\REGEX EXERSISE\4. Weather\bin\Debug\_4.Weather.pdb
+C:\Users\ALEN\Desktop\FUNDAMENTALS\910 REGEX\REGEX EXERSICE\REGEX EXERSISE\4. Weather\obj\Debug\4. Weather.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\FUNDAMENTALS\910 REGEX\REGEX EXERSICE\REGEX EXERSISE\4. Weather\obj\Debug\_4.Weather.exe
+C:\Users\ALEN\Desktop\FUNDAMENTALS\910 REGEX\REGEX EXERSICE\REGEX EXERSISE\4. Weather\obj\Debug\_4.Weather.pdb
+C:\Users\ALEN\Desktop\FUNDAMENTALS\910 REGEX\REGEX EXERCISES 2\4. Weather\bin\Debug\_4.Weather.exe.config
+C:\Users\ALEN\Desktop\FUNDAMENTALS\910 REGEX\REGEX EXERCISES 2\4. Weather\bin\Debug\_4.Weather.exe
+C:\Users\ALEN\Desktop\FUNDAMENTALS\910 REGEX\REGEX EXERCISES 2\4. Weather\bin\Debug\_4.Weather.pdb
+C:\Users\ALEN\Desktop\FUNDAMENTALS\910 REGEX\REGEX EXERCISES 2\4. Weather\obj\Debug\4. Weather.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\FUNDAMENTALS\910 REGEX\REGEX EXERCISES 2\4. Weather\obj\Debug\4. Weather.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\FUNDAMENTALS\910 REGEX\REGEX EXERCISES 2\4. Weather\obj\Debug\_4.Weather.exe
+C:\Users\ALEN\Desktop\FUNDAMENTALS\910 REGEX\REGEX EXERCISES 2\4. Weather\obj\Debug\_4.Weather.pdb

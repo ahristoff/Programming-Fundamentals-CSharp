@@ -1,0 +1,12 @@
+C:\Users\ALEN\Desktop\FUNDAMENTALS\4 ARRAY\ARRAY EXERSICE 1\ARRAYS AND METHODS\Problem 4. Grab and Go\bin\Debug\Problem_4.Grab_and_Go.exe.config
+C:\Users\ALEN\Desktop\FUNDAMENTALS\4 ARRAY\ARRAY EXERSICE 1\ARRAYS AND METHODS\Problem 4. Grab and Go\bin\Debug\Problem_4.Grab_and_Go.exe
+C:\Users\ALEN\Desktop\FUNDAMENTALS\4 ARRAY\ARRAY EXERSICE 1\ARRAYS AND METHODS\Problem 4. Grab and Go\bin\Debug\Problem_4.Grab_and_Go.pdb
+C:\Users\ALEN\Desktop\FUNDAMENTALS\4 ARRAY\ARRAY EXERSICE 1\ARRAYS AND METHODS\Problem 4. Grab and Go\obj\Debug\Problem_4.Grab_and_Go.exe
+C:\Users\ALEN\Desktop\FUNDAMENTALS\4 ARRAY\ARRAY EXERSICE 1\ARRAYS AND METHODS\Problem 4. Grab and Go\obj\Debug\Problem_4.Grab_and_Go.pdb
+C:\Users\ALEN\Desktop\FUNDAMENTALS\4 ARRAY\ARRAY EXERCISES 1\Problem 4. Grab and Go\bin\Debug\Problem_4.Grab_and_Go.exe.config
+C:\Users\ALEN\Desktop\FUNDAMENTALS\4 ARRAY\ARRAY EXERCISES 1\Problem 4. Grab and Go\bin\Debug\Problem_4.Grab_and_Go.exe
+C:\Users\ALEN\Desktop\FUNDAMENTALS\4 ARRAY\ARRAY EXERCISES 1\Problem 4. Grab and Go\bin\Debug\Problem_4.Grab_and_Go.pdb
+C:\Users\ALEN\Desktop\FUNDAMENTALS\4 ARRAY\ARRAY EXERCISES 1\Problem 4. Grab and Go\obj\Debug\Problem 4. Grab and Go.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\FUNDAMENTALS\4 ARRAY\ARRAY EXERCISES 1\Problem 4. Grab and Go\obj\Debug\Problem_4.Grab_and_Go.exe
+C:\Users\ALEN\Desktop\FUNDAMENTALS\4 ARRAY\ARRAY EXERCISES 1\Problem 4. Grab and Go\obj\Debug\Problem_4.Grab_and_Go.pdb
+C:\Users\ALEN\Desktop\FUNDAMENTALS\4 ARRAY\ARRAY EXERCISES 1\Problem 4. Grab and Go\obj\Debug\Problem 4. Grab and Go.csprojResolveAssemblyReference.cache

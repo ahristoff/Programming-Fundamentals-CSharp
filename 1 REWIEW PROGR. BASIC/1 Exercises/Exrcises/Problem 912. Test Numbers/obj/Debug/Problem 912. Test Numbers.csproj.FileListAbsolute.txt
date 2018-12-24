@@ -1,0 +1,16 @@
+C:\Users\ALEN\Desktop\lecture 1\EXERCISE\Problem 912. Test Numbers\bin\Debug\Problem_912.Test_Numbers.exe.config
+C:\Users\ALEN\Desktop\lecture 1\EXERCISE\Problem 912. Test Numbers\bin\Debug\Problem_912.Test_Numbers.exe
+C:\Users\ALEN\Desktop\lecture 1\EXERCISE\Problem 912. Test Numbers\bin\Debug\Problem_912.Test_Numbers.pdb
+C:\Users\ALEN\Desktop\lecture 1\EXERCISE\Problem 912. Test Numbers\obj\Debug\Problem 912. Test Numbers.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\lecture 1\EXERCISE\Problem 912. Test Numbers\obj\Debug\Problem_912.Test_Numbers.exe
+C:\Users\ALEN\Desktop\lecture 1\EXERCISE\Problem 912. Test Numbers\obj\Debug\Problem_912.Test_Numbers.pdb
+C:\Users\ALEN\Desktop\FUNDAMENT\1 lecture exercise\EXERCISE\Problem 912. Test Numbers\bin\Debug\Problem_912.Test_Numbers.exe.config
+C:\Users\ALEN\Desktop\FUNDAMENT\1 lecture exercise\EXERCISE\Problem 912. Test Numbers\obj\Debug\Problem_912.Test_Numbers.exe
+C:\Users\ALEN\Desktop\FUNDAMENT\1 lecture exercise\EXERCISE\Problem 912. Test Numbers\obj\Debug\Problem_912.Test_Numbers.pdb
+C:\Users\ALEN\Desktop\FUNDAMENTALS\1 lecture exercise\Exrcises\Problem 912. Test Numbers\bin\Debug\Problem_912.Test_Numbers.exe.config
+C:\Users\ALEN\Desktop\FUNDAMENTALS\1 lecture exercise\Exrcises\Problem 912. Test Numbers\bin\Debug\Problem_912.Test_Numbers.exe
+C:\Users\ALEN\Desktop\FUNDAMENTALS\1 lecture exercise\Exrcises\Problem 912. Test Numbers\bin\Debug\Problem_912.Test_Numbers.pdb
+C:\Users\ALEN\Desktop\FUNDAMENTALS\1 lecture exercise\Exrcises\Problem 912. Test Numbers\obj\Debug\Problem 912. Test Numbers.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\FUNDAMENTALS\1 lecture exercise\Exrcises\Problem 912. Test Numbers\obj\Debug\Problem 912. Test Numbers.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\FUNDAMENTALS\1 lecture exercise\Exrcises\Problem 912. Test Numbers\obj\Debug\Problem_912.Test_Numbers.exe
+C:\Users\ALEN\Desktop\FUNDAMENTALS\1 lecture exercise\Exrcises\Problem 912. Test Numbers\obj\Debug\Problem_912.Test_Numbers.pdb

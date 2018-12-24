@@ -1,0 +1,11 @@
+C:\Users\ALEN\Desktop\FUNDAMENTALS\9 STRINGS\STRINGS EXERCISES\Problem 3. Unicode Characters\bin\Debug\netcoreapp2.0\3. Unicode Characters.deps.json
+C:\Users\ALEN\Desktop\FUNDAMENTALS\9 STRINGS\STRINGS EXERCISES\Problem 3. Unicode Characters\bin\Debug\netcoreapp2.0\3. Unicode Characters.runtimeconfig.json
+C:\Users\ALEN\Desktop\FUNDAMENTALS\9 STRINGS\STRINGS EXERCISES\Problem 3. Unicode Characters\bin\Debug\netcoreapp2.0\3. Unicode Characters.runtimeconfig.dev.json
+C:\Users\ALEN\Desktop\FUNDAMENTALS\9 STRINGS\STRINGS EXERCISES\Problem 3. Unicode Characters\bin\Debug\netcoreapp2.0\3. Unicode Characters.dll
+C:\Users\ALEN\Desktop\FUNDAMENTALS\9 STRINGS\STRINGS EXERCISES\Problem 3. Unicode Characters\bin\Debug\netcoreapp2.0\3. Unicode Characters.pdb
+C:\Users\ALEN\Desktop\FUNDAMENTALS\9 STRINGS\STRINGS EXERCISES\Problem 3. Unicode Characters\obj\Debug\netcoreapp2.0\3. Unicode Characters.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\FUNDAMENTALS\9 STRINGS\STRINGS EXERCISES\Problem 3. Unicode Characters\obj\Debug\netcoreapp2.0\3. Unicode Characters.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\FUNDAMENTALS\9 STRINGS\STRINGS EXERCISES\Problem 3. Unicode Characters\obj\Debug\netcoreapp2.0\3. Unicode Characters.AssemblyInfoInputs.cache
+C:\Users\ALEN\Desktop\FUNDAMENTALS\9 STRINGS\STRINGS EXERCISES\Problem 3. Unicode Characters\obj\Debug\netcoreapp2.0\3. Unicode Characters.AssemblyInfo.cs
+C:\Users\ALEN\Desktop\FUNDAMENTALS\9 STRINGS\STRINGS EXERCISES\Problem 3. Unicode Characters\obj\Debug\netcoreapp2.0\3. Unicode Characters.dll
+C:\Users\ALEN\Desktop\FUNDAMENTALS\9 STRINGS\STRINGS EXERCISES\Problem 3. Unicode Characters\obj\Debug\netcoreapp2.0\3. Unicode Characters.pdb

@@ -1,0 +1,9 @@
+C:\Users\ALEN\Desktop\methods\METHODS EXERCISE\methods exercise\912. Master Numbers\bin\Debug\_912.Master_Numbers.exe.config
+C:\Users\ALEN\Desktop\methods\METHODS EXERCISE\methods exercise\912. Master Numbers\obj\Debug\_912.Master_Numbers.exe
+C:\Users\ALEN\Desktop\methods\METHODS EXERCISE\methods exercise\912. Master Numbers\obj\Debug\_912.Master_Numbers.pdb
+C:\Users\ALEN\Desktop\FUNDAMENT\3 methods\METHODS EXERCISE\methods exercise\912. Master Numbers\bin\Debug\_912.Master_Numbers.exe.config
+C:\Users\ALEN\Desktop\FUNDAMENT\3 methods\METHODS EXERCISE\methods exercise\912. Master Numbers\obj\Debug\_912.Master_Numbers.exe
+C:\Users\ALEN\Desktop\FUNDAMENT\3 methods\METHODS EXERCISE\methods exercise\912. Master Numbers\obj\Debug\_912.Master_Numbers.pdb
+C:\Users\ALEN\Desktop\FUNDAMENT\3 methods\METHODS EXERCISE\methods exercise\912. Master Numbers\obj\Debug\912... Master Numbers.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\FUNDAMENT\3 methods\METHODS EXERCISE\methods exercise\912. Master Numbers\bin\Debug\_912.Master_Numbers.exe
+C:\Users\ALEN\Desktop\FUNDAMENT\3 methods\METHODS EXERCISE\methods exercise\912. Master Numbers\bin\Debug\_912.Master_Numbers.pdb

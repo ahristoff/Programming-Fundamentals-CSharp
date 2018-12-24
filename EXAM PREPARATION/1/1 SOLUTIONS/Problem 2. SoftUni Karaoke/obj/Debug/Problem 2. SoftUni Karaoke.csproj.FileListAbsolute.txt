@@ -1,0 +1,13 @@
+C:\Users\ALEN\Desktop\FUNDAMENTALS\EXAM PREPARATION\1\1 SOLUTION\EXAM PREPARATION 1\Problem 2. SoftUni Karaoke\bin\Debug\Problem_2.SoftUni_Karaoke.exe.config
+C:\Users\ALEN\Desktop\FUNDAMENTALS\EXAM PREPARATION\1\1 SOLUTION\EXAM PREPARATION 1\Problem 2. SoftUni Karaoke\bin\Debug\Problem_2.SoftUni_Karaoke.exe
+C:\Users\ALEN\Desktop\FUNDAMENTALS\EXAM PREPARATION\1\1 SOLUTION\EXAM PREPARATION 1\Problem 2. SoftUni Karaoke\bin\Debug\Problem_2.SoftUni_Karaoke.pdb
+C:\Users\ALEN\Desktop\FUNDAMENTALS\EXAM PREPARATION\1\1 SOLUTION\EXAM PREPARATION 1\Problem 2. SoftUni Karaoke\obj\Debug\Problem_2.SoftUni_Karaoke.exe
+C:\Users\ALEN\Desktop\FUNDAMENTALS\EXAM PREPARATION\1\1 SOLUTION\EXAM PREPARATION 1\Problem 2. SoftUni Karaoke\obj\Debug\Problem_2.SoftUni_Karaoke.pdb
+C:\Users\ALEN\Desktop\FUNDAMENTALS\EXAM PREPARATION\1\1 SOLUTION\EXAM PREPARATION 1\Problem 2. SoftUni Karaoke\obj\Debug\Problem 2. SoftUni Karaoke.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\FUNDAMENTALS\EXAM PREPARATION\1\1 SOLUTIONS\EXAM PREPARATION 1\Problem 2. SoftUni Karaoke\bin\Debug\Problem_2.SoftUni_Karaoke.exe.config
+C:\Users\ALEN\Desktop\FUNDAMENTALS\EXAM PREPARATION\1\1 SOLUTIONS\EXAM PREPARATION 1\Problem 2. SoftUni Karaoke\bin\Debug\Problem_2.SoftUni_Karaoke.exe
+C:\Users\ALEN\Desktop\FUNDAMENTALS\EXAM PREPARATION\1\1 SOLUTIONS\EXAM PREPARATION 1\Problem 2. SoftUni Karaoke\bin\Debug\Problem_2.SoftUni_Karaoke.pdb
+C:\Users\ALEN\Desktop\FUNDAMENTALS\EXAM PREPARATION\1\1 SOLUTIONS\EXAM PREPARATION 1\Problem 2. SoftUni Karaoke\obj\Debug\Problem 2. SoftUni Karaoke.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\FUNDAMENTALS\EXAM PREPARATION\1\1 SOLUTIONS\EXAM PREPARATION 1\Problem 2. SoftUni Karaoke\obj\Debug\Problem 2. SoftUni Karaoke.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\FUNDAMENTALS\EXAM PREPARATION\1\1 SOLUTIONS\EXAM PREPARATION 1\Problem 2. SoftUni Karaoke\obj\Debug\Problem_2.SoftUni_Karaoke.exe
+C:\Users\ALEN\Desktop\FUNDAMENTALS\EXAM PREPARATION\1\1 SOLUTIONS\EXAM PREPARATION 1\Problem 2. SoftUni Karaoke\obj\Debug\Problem_2.SoftUni_Karaoke.pdb

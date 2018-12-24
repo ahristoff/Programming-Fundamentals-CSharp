@@ -1,0 +1,8 @@
+C:\Users\ALEN\Desktop\variable\ConsoleApplication1\6 triples of latin letters\bin\Debug\6 triples of latin letters.exe.config
+C:\Users\ALEN\Desktop\variable\ConsoleApplication1\6 triples of latin letters\bin\Debug\6 triples of latin letters.exe
+C:\Users\ALEN\Desktop\variable\ConsoleApplication1\6 triples of latin letters\bin\Debug\6 triples of latin letters.pdb
+C:\Users\ALEN\Desktop\variable\ConsoleApplication1\6 triples of latin letters\obj\Debug\6 triples of latin letters.exe
+C:\Users\ALEN\Desktop\variable\ConsoleApplication1\6 triples of latin letters\obj\Debug\6 triples of latin letters.pdb
+C:\Users\ALEN\Desktop\variable\VARIABLE LAB\6 triples of latin letters\bin\Debug\6 triples of latin letters.exe.config
+C:\Users\ALEN\Desktop\variable\VARIABLE LAB\6 triples of latin letters\obj\Debug\6 triples of latin letters.exe
+C:\Users\ALEN\Desktop\variable\VARIABLE LAB\6 triples of latin letters\obj\Debug\6 triples of latin letters.pdb

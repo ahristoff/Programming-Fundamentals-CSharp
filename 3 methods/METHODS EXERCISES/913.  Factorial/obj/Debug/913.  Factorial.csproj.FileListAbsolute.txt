@@ -1,0 +1,6 @@
+C:\Users\ALEN\Desktop\methods\METHODS EXERCISE\methods exercise\913.  Factorial\bin\Debug\_913.Factorial.exe.config
+C:\Users\ALEN\Desktop\methods\METHODS EXERCISE\methods exercise\913.  Factorial\bin\Debug\_913.Factorial.exe
+C:\Users\ALEN\Desktop\methods\METHODS EXERCISE\methods exercise\913.  Factorial\bin\Debug\_913.Factorial.pdb
+C:\Users\ALEN\Desktop\methods\METHODS EXERCISE\methods exercise\913.  Factorial\obj\Debug\913.  Factorial.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\methods\METHODS EXERCISE\methods exercise\913.  Factorial\obj\Debug\_913.Factorial.exe
+C:\Users\ALEN\Desktop\methods\METHODS EXERCISE\methods exercise\913.  Factorial\obj\Debug\_913.Factorial.pdb

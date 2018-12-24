@@ -1,0 +1,6 @@
+C:\Users\ALEN\Desktop\FUNDAMENT\4 ARRAY\ARRAY EXERSICE\ARRAY\9. Index of Letters\bin\Debug\_9.Index_of_Letters.exe.config
+C:\Users\ALEN\Desktop\FUNDAMENT\4 ARRAY\ARRAY EXERSICE\ARRAY\9. Index of Letters\bin\Debug\_9.Index_of_Letters.exe
+C:\Users\ALEN\Desktop\FUNDAMENT\4 ARRAY\ARRAY EXERSICE\ARRAY\9. Index of Letters\bin\Debug\_9.Index_of_Letters.pdb
+C:\Users\ALEN\Desktop\FUNDAMENT\4 ARRAY\ARRAY EXERSICE\ARRAY\9. Index of Letters\obj\Debug\9. Index of Letters.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\FUNDAMENT\4 ARRAY\ARRAY EXERSICE\ARRAY\9. Index of Letters\obj\Debug\_9.Index_of_Letters.exe
+C:\Users\ALEN\Desktop\FUNDAMENT\4 ARRAY\ARRAY EXERSICE\ARRAY\9. Index of Letters\obj\Debug\_9.Index_of_Letters.pdb

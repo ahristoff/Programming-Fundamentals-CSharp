@@ -1,0 +1,11 @@
+C:\Users\ALEN\Desktop\FUNDAMENTALS\3 methods\METHODS EXERCISES\3. English Name оf The Last Digit\bin\Debug\netcoreapp2.0\3. English Name оf The Last Digit.deps.json
+C:\Users\ALEN\Desktop\FUNDAMENTALS\3 methods\METHODS EXERCISES\3. English Name оf The Last Digit\bin\Debug\netcoreapp2.0\3. English Name оf The Last Digit.runtimeconfig.json
+C:\Users\ALEN\Desktop\FUNDAMENTALS\3 methods\METHODS EXERCISES\3. English Name оf The Last Digit\bin\Debug\netcoreapp2.0\3. English Name оf The Last Digit.runtimeconfig.dev.json
+C:\Users\ALEN\Desktop\FUNDAMENTALS\3 methods\METHODS EXERCISES\3. English Name оf The Last Digit\bin\Debug\netcoreapp2.0\3. English Name оf The Last Digit.dll
+C:\Users\ALEN\Desktop\FUNDAMENTALS\3 methods\METHODS EXERCISES\3. English Name оf The Last Digit\bin\Debug\netcoreapp2.0\3. English Name оf The Last Digit.pdb
+C:\Users\ALEN\Desktop\FUNDAMENTALS\3 methods\METHODS EXERCISES\3. English Name оf The Last Digit\obj\Debug\netcoreapp2.0\3. English Name оf The Last Digit.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\FUNDAMENTALS\3 methods\METHODS EXERCISES\3. English Name оf The Last Digit\obj\Debug\netcoreapp2.0\3. English Name оf The Last Digit.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\FUNDAMENTALS\3 methods\METHODS EXERCISES\3. English Name оf The Last Digit\obj\Debug\netcoreapp2.0\3. English Name оf The Last Digit.AssemblyInfoInputs.cache
+C:\Users\ALEN\Desktop\FUNDAMENTALS\3 methods\METHODS EXERCISES\3. English Name оf The Last Digit\obj\Debug\netcoreapp2.0\3. English Name оf The Last Digit.AssemblyInfo.cs
+C:\Users\ALEN\Desktop\FUNDAMENTALS\3 methods\METHODS EXERCISES\3. English Name оf The Last Digit\obj\Debug\netcoreapp2.0\3. English Name оf The Last Digit.dll
+C:\Users\ALEN\Desktop\FUNDAMENTALS\3 methods\METHODS EXERCISES\3. English Name оf The Last Digit\obj\Debug\netcoreapp2.0\3. English Name оf The Last Digit.pdb

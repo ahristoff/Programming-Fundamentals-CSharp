@@ -1,0 +1,6 @@
+C:\Users\ALEN\Desktop\lecture 1\EXERCISE\Problem 5. .. Word in Plural\bin\Debug\Problem_5._._.Word_in_Plural.exe.config
+C:\Users\ALEN\Desktop\lecture 1\EXERCISE\Problem 5. .. Word in Plural\bin\Debug\Problem_5._._.Word_in_Plural.exe
+C:\Users\ALEN\Desktop\lecture 1\EXERCISE\Problem 5. .. Word in Plural\bin\Debug\Problem_5._._.Word_in_Plural.pdb
+C:\Users\ALEN\Desktop\lecture 1\EXERCISE\Problem 5. .. Word in Plural\obj\Debug\Problem 5. .. Word in Plural.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\lecture 1\EXERCISE\Problem 5. .. Word in Plural\obj\Debug\Problem_5._._.Word_in_Plural.exe
+C:\Users\ALEN\Desktop\lecture 1\EXERCISE\Problem 5. .. Word in Plural\obj\Debug\Problem_5._._.Word_in_Plural.pdb

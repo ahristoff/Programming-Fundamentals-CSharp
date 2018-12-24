@@ -1,0 +1,15 @@
+C:\Users\ALEN\Desktop\DICTIONARY\DICTIONARY LAB\DICTIONARY LAB\2. Odd Occurrences\bin\Debug\_2.Odd_Occurrences.exe.config
+C:\Users\ALEN\Desktop\DICTIONARY\DICTIONARY LAB\DICTIONARY LAB\2. Odd Occurrences\bin\Debug\_2.Odd_Occurrences.exe
+C:\Users\ALEN\Desktop\DICTIONARY\DICTIONARY LAB\DICTIONARY LAB\2. Odd Occurrences\bin\Debug\_2.Odd_Occurrences.pdb
+C:\Users\ALEN\Desktop\DICTIONARY\DICTIONARY LAB\DICTIONARY LAB\2. Odd Occurrences\obj\Debug\2. Odd Occurrences.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\DICTIONARY\DICTIONARY LAB\DICTIONARY LAB\2. Odd Occurrences\obj\Debug\_2.Odd_Occurrences.exe
+C:\Users\ALEN\Desktop\DICTIONARY\DICTIONARY LAB\DICTIONARY LAB\2. Odd Occurrences\obj\Debug\_2.Odd_Occurrences.pdb
+C:\Users\ALEN\Desktop\FUNDAMENT\6 DICTIONARY\DICTIONARY LAB\DICTIONARY LAB\2. Odd Occurrences\bin\Debug\_2.Odd_Occurrences.exe.config
+C:\Users\ALEN\Desktop\FUNDAMENT\6 DICTIONARY\DICTIONARY LAB\DICTIONARY LAB\2. Odd Occurrences\obj\Debug\_2.Odd_Occurrences.exe
+C:\Users\ALEN\Desktop\FUNDAMENT\6 DICTIONARY\DICTIONARY LAB\DICTIONARY LAB\2. Odd Occurrences\obj\Debug\_2.Odd_Occurrences.pdb
+C:\Users\ALEN\Desktop\FUNDAMENTALS\6 DICTIONARY\DICTIONARY LAB\DICTIONARY LAB\2. Odd Occurrences\bin\Debug\_2.Odd_Occurrences.exe.config
+C:\Users\ALEN\Desktop\FUNDAMENTALS\6 DICTIONARY\DICTIONARY LAB\DICTIONARY LAB\2. Odd Occurrences\bin\Debug\_2.Odd_Occurrences.exe
+C:\Users\ALEN\Desktop\FUNDAMENTALS\6 DICTIONARY\DICTIONARY LAB\DICTIONARY LAB\2. Odd Occurrences\bin\Debug\_2.Odd_Occurrences.pdb
+C:\Users\ALEN\Desktop\FUNDAMENTALS\6 DICTIONARY\DICTIONARY LAB\DICTIONARY LAB\2. Odd Occurrences\obj\Debug\2. Odd Occurrences.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\FUNDAMENTALS\6 DICTIONARY\DICTIONARY LAB\DICTIONARY LAB\2. Odd Occurrences\obj\Debug\_2.Odd_Occurrences.exe
+C:\Users\ALEN\Desktop\FUNDAMENTALS\6 DICTIONARY\DICTIONARY LAB\DICTIONARY LAB\2. Odd Occurrences\obj\Debug\_2.Odd_Occurrences.pdb

@@ -1,0 +1,16 @@
+C:\Users\ALEN\Desktop\7 CLASSES\CLASSES EXERSICE\classes exersice\2. Advertisement Message\bin\Debug\_2.Advertisement_Message.exe.config
+C:\Users\ALEN\Desktop\7 CLASSES\CLASSES EXERSICE\classes exersice\2. Advertisement Message\bin\Debug\_2.Advertisement_Message.exe
+C:\Users\ALEN\Desktop\7 CLASSES\CLASSES EXERSICE\classes exersice\2. Advertisement Message\bin\Debug\_2.Advertisement_Message.pdb
+C:\Users\ALEN\Desktop\7 CLASSES\CLASSES EXERSICE\classes exersice\2. Advertisement Message\obj\Debug\2. Advertisement Message.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\7 CLASSES\CLASSES EXERSICE\classes exersice\2. Advertisement Message\obj\Debug\_2.Advertisement_Message.exe
+C:\Users\ALEN\Desktop\7 CLASSES\CLASSES EXERSICE\classes exersice\2. Advertisement Message\obj\Debug\_2.Advertisement_Message.pdb
+C:\Users\ALEN\Desktop\FUNDAMENT\7 CLASSES\CLASSES EXERSICE\classes exersice\2. Advertisement Message\bin\Debug\_2.Advertisement_Message.exe.config
+C:\Users\ALEN\Desktop\FUNDAMENT\7 CLASSES\CLASSES EXERSICE\classes exersice\2. Advertisement Message\obj\Debug\_2.Advertisement_Message.exe
+C:\Users\ALEN\Desktop\FUNDAMENT\7 CLASSES\CLASSES EXERSICE\classes exersice\2. Advertisement Message\obj\Debug\_2.Advertisement_Message.pdb
+C:\Users\ALEN\Desktop\FUNDAMENTALS\7 CLASSES\CLASSES EXERCISES\2. Advertisement Message\bin\Debug\_2.Advertisement_Message.exe.config
+C:\Users\ALEN\Desktop\FUNDAMENTALS\7 CLASSES\CLASSES EXERCISES\2. Advertisement Message\bin\Debug\_2.Advertisement_Message.exe
+C:\Users\ALEN\Desktop\FUNDAMENTALS\7 CLASSES\CLASSES EXERCISES\2. Advertisement Message\bin\Debug\_2.Advertisement_Message.pdb
+C:\Users\ALEN\Desktop\FUNDAMENTALS\7 CLASSES\CLASSES EXERCISES\2. Advertisement Message\obj\Debug\2. Advertisement Message.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\FUNDAMENTALS\7 CLASSES\CLASSES EXERCISES\2. Advertisement Message\obj\Debug\2. Advertisement Message.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\FUNDAMENTALS\7 CLASSES\CLASSES EXERCISES\2. Advertisement Message\obj\Debug\_2.Advertisement_Message.exe
+C:\Users\ALEN\Desktop\FUNDAMENTALS\7 CLASSES\CLASSES EXERCISES\2. Advertisement Message\obj\Debug\_2.Advertisement_Message.pdb

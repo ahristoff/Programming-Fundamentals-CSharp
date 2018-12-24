@@ -1,0 +1,3 @@
+C:\Users\ALEN\Desktop\FUNDAMENT\2 variables\VARIABLE EXERCISE  1\911  Convert Speed Units\bin\Debug\911  Convert Speed Units.exe.config
+C:\Users\ALEN\Desktop\FUNDAMENT\2 variables\VARIABLE EXERCISE  1\911  Convert Speed Units\obj\Debug\911  Convert Speed Units.exe
+C:\Users\ALEN\Desktop\FUNDAMENT\2 variables\VARIABLE EXERCISE  1\911  Convert Speed Units\obj\Debug\911  Convert Speed Units.pdb

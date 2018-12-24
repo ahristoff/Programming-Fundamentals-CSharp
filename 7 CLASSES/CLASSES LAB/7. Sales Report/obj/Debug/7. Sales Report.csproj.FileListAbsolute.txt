@@ -1,0 +1,13 @@
+C:\Users\ALEN\Desktop\7 CLASSES\CLASSES LAB\LAB\7. Sales Report\bin\Debug\_7.Sales_Report.exe.config
+C:\Users\ALEN\Desktop\7 CLASSES\CLASSES LAB\LAB\7. Sales Report\bin\Debug\_7.Sales_Report.exe
+C:\Users\ALEN\Desktop\7 CLASSES\CLASSES LAB\LAB\7. Sales Report\bin\Debug\_7.Sales_Report.pdb
+C:\Users\ALEN\Desktop\7 CLASSES\CLASSES LAB\LAB\7. Sales Report\obj\Debug\7. Sales Report.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\7 CLASSES\CLASSES LAB\LAB\7. Sales Report\obj\Debug\_7.Sales_Report.exe
+C:\Users\ALEN\Desktop\7 CLASSES\CLASSES LAB\LAB\7. Sales Report\obj\Debug\_7.Sales_Report.pdb
+C:\Users\ALEN\Desktop\FUNDAMENTALS\7 CLASSES\CLASSES LAB\7. Sales Report\bin\Debug\_7.Sales_Report.exe.config
+C:\Users\ALEN\Desktop\FUNDAMENTALS\7 CLASSES\CLASSES LAB\7. Sales Report\bin\Debug\_7.Sales_Report.exe
+C:\Users\ALEN\Desktop\FUNDAMENTALS\7 CLASSES\CLASSES LAB\7. Sales Report\bin\Debug\_7.Sales_Report.pdb
+C:\Users\ALEN\Desktop\FUNDAMENTALS\7 CLASSES\CLASSES LAB\7. Sales Report\obj\Debug\7. Sales Report.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\FUNDAMENTALS\7 CLASSES\CLASSES LAB\7. Sales Report\obj\Debug\7. Sales Report.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\FUNDAMENTALS\7 CLASSES\CLASSES LAB\7. Sales Report\obj\Debug\_7.Sales_Report.exe
+C:\Users\ALEN\Desktop\FUNDAMENTALS\7 CLASSES\CLASSES LAB\7. Sales Report\obj\Debug\_7.Sales_Report.pdb

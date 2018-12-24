@@ -1,0 +1,6 @@
+C:\Users\ALEN\Desktop\methods\METHODS LAB\8. Multiply Evens by Odds\bin\Debug\_8.Multiply_Evens_by_Odds.exe.config
+C:\Users\ALEN\Desktop\methods\METHODS LAB\8. Multiply Evens by Odds\bin\Debug\_8.Multiply_Evens_by_Odds.exe
+C:\Users\ALEN\Desktop\methods\METHODS LAB\8. Multiply Evens by Odds\bin\Debug\_8.Multiply_Evens_by_Odds.pdb
+C:\Users\ALEN\Desktop\methods\METHODS LAB\8. Multiply Evens by Odds\obj\Debug\8. Multiply Evens by Odds.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\methods\METHODS LAB\8. Multiply Evens by Odds\obj\Debug\_8.Multiply_Evens_by_Odds.exe
+C:\Users\ALEN\Desktop\methods\METHODS LAB\8. Multiply Evens by Odds\obj\Debug\_8.Multiply_Evens_by_Odds.pdb

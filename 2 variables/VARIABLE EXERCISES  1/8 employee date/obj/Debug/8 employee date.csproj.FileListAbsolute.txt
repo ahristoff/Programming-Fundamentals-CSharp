@@ -1,0 +1,8 @@
+C:\Users\ALEN\Desktop\variable\VARIABLE EXERCISE\8 employee date\bin\Debug\8 employee date.exe.config
+C:\Users\ALEN\Desktop\variable\VARIABLE EXERCISE\8 employee date\bin\Debug\8 employee date.exe
+C:\Users\ALEN\Desktop\variable\VARIABLE EXERCISE\8 employee date\bin\Debug\8 employee date.pdb
+C:\Users\ALEN\Desktop\variable\VARIABLE EXERCISE\8 employee date\obj\Debug\8 employee date.exe
+C:\Users\ALEN\Desktop\variable\VARIABLE EXERCISE\8 employee date\obj\Debug\8 employee date.pdb
+C:\Users\ALEN\Desktop\FUNDAMENT\2 variables\VARIABLE EXERCISE  1\8 employee date\bin\Debug\8 employee date.exe.config
+C:\Users\ALEN\Desktop\FUNDAMENT\2 variables\VARIABLE EXERCISE  1\8 employee date\obj\Debug\8 employee date.exe
+C:\Users\ALEN\Desktop\FUNDAMENT\2 variables\VARIABLE EXERCISE  1\8 employee date\obj\Debug\8 employee date.pdb

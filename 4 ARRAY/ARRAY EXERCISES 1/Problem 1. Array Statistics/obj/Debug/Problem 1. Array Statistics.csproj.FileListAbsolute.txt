@@ -1,0 +1,6 @@
+C:\Users\ALEN\Desktop\FUNDAMENTALS\4 ARRAY\ARRAY EXERSICE 1\ARRAYS AND METHODS\Problem 1. Array Statistics\bin\Debug\Problem_1.Array_Statistics.exe.config
+C:\Users\ALEN\Desktop\FUNDAMENTALS\4 ARRAY\ARRAY EXERSICE 1\ARRAYS AND METHODS\Problem 1. Array Statistics\bin\Debug\Problem_1.Array_Statistics.exe
+C:\Users\ALEN\Desktop\FUNDAMENTALS\4 ARRAY\ARRAY EXERSICE 1\ARRAYS AND METHODS\Problem 1. Array Statistics\bin\Debug\Problem_1.Array_Statistics.pdb
+C:\Users\ALEN\Desktop\FUNDAMENTALS\4 ARRAY\ARRAY EXERSICE 1\ARRAYS AND METHODS\Problem 1. Array Statistics\obj\Debug\Problem 1. Array Statistics.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\FUNDAMENTALS\4 ARRAY\ARRAY EXERSICE 1\ARRAYS AND METHODS\Problem 1. Array Statistics\obj\Debug\Problem_1.Array_Statistics.exe
+C:\Users\ALEN\Desktop\FUNDAMENTALS\4 ARRAY\ARRAY EXERSICE 1\ARRAYS AND METHODS\Problem 1. Array Statistics\obj\Debug\Problem_1.Array_Statistics.pdb

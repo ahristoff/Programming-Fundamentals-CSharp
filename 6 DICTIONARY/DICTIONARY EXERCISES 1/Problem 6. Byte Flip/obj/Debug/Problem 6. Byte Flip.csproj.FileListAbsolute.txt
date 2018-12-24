@@ -1,0 +1,6 @@
+C:\Users\ALEN\Desktop\FUNDAMENTALS\6 DICTIONARY\DICTIONARY EXERSICE 1\EXERSICE DICTIONARY 1\Problem 6. Byte Flip\bin\Debug\Problem_6.Byte_Flip.exe.config
+C:\Users\ALEN\Desktop\FUNDAMENTALS\6 DICTIONARY\DICTIONARY EXERSICE 1\EXERSICE DICTIONARY 1\Problem 6. Byte Flip\bin\Debug\Problem_6.Byte_Flip.exe
+C:\Users\ALEN\Desktop\FUNDAMENTALS\6 DICTIONARY\DICTIONARY EXERSICE 1\EXERSICE DICTIONARY 1\Problem 6. Byte Flip\bin\Debug\Problem_6.Byte_Flip.pdb
+C:\Users\ALEN\Desktop\FUNDAMENTALS\6 DICTIONARY\DICTIONARY EXERSICE 1\EXERSICE DICTIONARY 1\Problem 6. Byte Flip\obj\Debug\Problem 6. Byte Flip.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\FUNDAMENTALS\6 DICTIONARY\DICTIONARY EXERSICE 1\EXERSICE DICTIONARY 1\Problem 6. Byte Flip\obj\Debug\Problem_6.Byte_Flip.exe
+C:\Users\ALEN\Desktop\FUNDAMENTALS\6 DICTIONARY\DICTIONARY EXERSICE 1\EXERSICE DICTIONARY 1\Problem 6. Byte Flip\obj\Debug\Problem_6.Byte_Flip.pdb

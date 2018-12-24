@@ -1,0 +1,16 @@
+C:\Users\ALEN\Desktop\7 CLASSES\CLASSES EXERSICE\classes exersice\5. Book Library\bin\Debug\_5.Book_Library.exe.config
+C:\Users\ALEN\Desktop\7 CLASSES\CLASSES EXERSICE\classes exersice\5. Book Library\bin\Debug\_5.Book_Library.exe
+C:\Users\ALEN\Desktop\7 CLASSES\CLASSES EXERSICE\classes exersice\5. Book Library\bin\Debug\_5.Book_Library.pdb
+C:\Users\ALEN\Desktop\7 CLASSES\CLASSES EXERSICE\classes exersice\5. Book Library\obj\Debug\5. Book Library.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\7 CLASSES\CLASSES EXERSICE\classes exersice\5. Book Library\obj\Debug\_5.Book_Library.exe
+C:\Users\ALEN\Desktop\7 CLASSES\CLASSES EXERSICE\classes exersice\5. Book Library\obj\Debug\_5.Book_Library.pdb
+C:\Users\ALEN\Desktop\FUNDAMENT\7 CLASSES\CLASSES EXERSICE\classes exersice\5. Book Library\bin\Debug\_5.Book_Library.exe.config
+C:\Users\ALEN\Desktop\FUNDAMENT\7 CLASSES\CLASSES EXERSICE\classes exersice\5. Book Library\obj\Debug\_5.Book_Library.exe
+C:\Users\ALEN\Desktop\FUNDAMENT\7 CLASSES\CLASSES EXERSICE\classes exersice\5. Book Library\obj\Debug\_5.Book_Library.pdb
+C:\Users\ALEN\Desktop\FUNDAMENTALS\7 CLASSES\CLASSES EXERCISES\5. Book Library\bin\Debug\_5.Book_Library.exe.config
+C:\Users\ALEN\Desktop\FUNDAMENTALS\7 CLASSES\CLASSES EXERCISES\5. Book Library\bin\Debug\_5.Book_Library.exe
+C:\Users\ALEN\Desktop\FUNDAMENTALS\7 CLASSES\CLASSES EXERCISES\5. Book Library\bin\Debug\_5.Book_Library.pdb
+C:\Users\ALEN\Desktop\FUNDAMENTALS\7 CLASSES\CLASSES EXERCISES\5. Book Library\obj\Debug\5. Book Library.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\FUNDAMENTALS\7 CLASSES\CLASSES EXERCISES\5. Book Library\obj\Debug\5. Book Library.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\FUNDAMENTALS\7 CLASSES\CLASSES EXERCISES\5. Book Library\obj\Debug\_5.Book_Library.exe
+C:\Users\ALEN\Desktop\FUNDAMENTALS\7 CLASSES\CLASSES EXERCISES\5. Book Library\obj\Debug\_5.Book_Library.pdb

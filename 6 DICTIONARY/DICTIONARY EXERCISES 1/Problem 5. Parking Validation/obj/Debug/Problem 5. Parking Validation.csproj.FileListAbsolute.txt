@@ -1,0 +1,13 @@
+C:\Users\ALEN\Desktop\FUNDAMENTALS\6 DICTIONARY\DICTIONARY EXERSICE 1\EXERSICE DICTIONARY 1\Problem 5. Parking Validation\bin\Debug\Problem_5.Parking_Validation.exe.config
+C:\Users\ALEN\Desktop\FUNDAMENTALS\6 DICTIONARY\DICTIONARY EXERSICE 1\EXERSICE DICTIONARY 1\Problem 5. Parking Validation\bin\Debug\Problem_5.Parking_Validation.exe
+C:\Users\ALEN\Desktop\FUNDAMENTALS\6 DICTIONARY\DICTIONARY EXERSICE 1\EXERSICE DICTIONARY 1\Problem 5. Parking Validation\bin\Debug\Problem_5.Parking_Validation.pdb
+C:\Users\ALEN\Desktop\FUNDAMENTALS\6 DICTIONARY\DICTIONARY EXERSICE 1\EXERSICE DICTIONARY 1\Problem 5. Parking Validation\obj\Debug\Problem 5. Parking Validation.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\FUNDAMENTALS\6 DICTIONARY\DICTIONARY EXERSICE 1\EXERSICE DICTIONARY 1\Problem 5. Parking Validation\obj\Debug\Problem_5.Parking_Validation.exe
+C:\Users\ALEN\Desktop\FUNDAMENTALS\6 DICTIONARY\DICTIONARY EXERSICE 1\EXERSICE DICTIONARY 1\Problem 5. Parking Validation\obj\Debug\Problem_5.Parking_Validation.pdb
+C:\Users\ALEN\Desktop\FUNDAMENTALS\6 DICTIONARY\DICTIONARY EXERCISES 1\Problem 5. Parking Validation\bin\Debug\Problem_5.Parking_Validation.exe.config
+C:\Users\ALEN\Desktop\FUNDAMENTALS\6 DICTIONARY\DICTIONARY EXERCISES 1\Problem 5. Parking Validation\bin\Debug\Problem_5.Parking_Validation.exe
+C:\Users\ALEN\Desktop\FUNDAMENTALS\6 DICTIONARY\DICTIONARY EXERCISES 1\Problem 5. Parking Validation\bin\Debug\Problem_5.Parking_Validation.pdb
+C:\Users\ALEN\Desktop\FUNDAMENTALS\6 DICTIONARY\DICTIONARY EXERCISES 1\Problem 5. Parking Validation\obj\Debug\Problem 5. Parking Validation.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\FUNDAMENTALS\6 DICTIONARY\DICTIONARY EXERCISES 1\Problem 5. Parking Validation\obj\Debug\Problem 5. Parking Validation.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\FUNDAMENTALS\6 DICTIONARY\DICTIONARY EXERCISES 1\Problem 5. Parking Validation\obj\Debug\Problem_5.Parking_Validation.exe
+C:\Users\ALEN\Desktop\FUNDAMENTALS\6 DICTIONARY\DICTIONARY EXERCISES 1\Problem 5. Parking Validation\obj\Debug\Problem_5.Parking_Validation.pdb

@@ -1,0 +1,16 @@
+C:\Users\ALEN\Desktop\1.1 lecture exercise\solution\1.1 exercise\Problem 4. Photo Gallery\bin\Debug\Problem_4.Photo_Gallery.exe.config
+C:\Users\ALEN\Desktop\1.1 lecture exercise\solution\1.1 exercise\Problem 4. Photo Gallery\bin\Debug\Problem_4.Photo_Gallery.exe
+C:\Users\ALEN\Desktop\1.1 lecture exercise\solution\1.1 exercise\Problem 4. Photo Gallery\bin\Debug\Problem_4.Photo_Gallery.pdb
+C:\Users\ALEN\Desktop\1.1 lecture exercise\solution\1.1 exercise\Problem 4. Photo Gallery\obj\Debug\Problem 4. Photo Gallery.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\1.1 lecture exercise\solution\1.1 exercise\Problem 4. Photo Gallery\obj\Debug\Problem_4.Photo_Gallery.exe
+C:\Users\ALEN\Desktop\1.1 lecture exercise\solution\1.1 exercise\Problem 4. Photo Gallery\obj\Debug\Problem_4.Photo_Gallery.pdb
+C:\Users\ALEN\Desktop\FUNDAMENT\1.1 lecture exercise\solution\1.1 exercise\Problem 4. Photo Gallery\bin\Debug\Problem_4.Photo_Gallery.exe.config
+C:\Users\ALEN\Desktop\FUNDAMENT\1.1 lecture exercise\solution\1.1 exercise\Problem 4. Photo Gallery\obj\Debug\Problem_4.Photo_Gallery.exe
+C:\Users\ALEN\Desktop\FUNDAMENT\1.1 lecture exercise\solution\1.1 exercise\Problem 4. Photo Gallery\obj\Debug\Problem_4.Photo_Gallery.pdb
+C:\Users\ALEN\Desktop\FUNDAMENTALS\1.1 lecture exercise\Exercises\Problem 4. Photo Gallery\bin\Debug\Problem_4.Photo_Gallery.exe.config
+C:\Users\ALEN\Desktop\FUNDAMENTALS\1.1 lecture exercise\Exercises\Problem 4. Photo Gallery\bin\Debug\Problem_4.Photo_Gallery.exe
+C:\Users\ALEN\Desktop\FUNDAMENTALS\1.1 lecture exercise\Exercises\Problem 4. Photo Gallery\bin\Debug\Problem_4.Photo_Gallery.pdb
+C:\Users\ALEN\Desktop\FUNDAMENTALS\1.1 lecture exercise\Exercises\Problem 4. Photo Gallery\obj\Debug\Problem 4. Photo Gallery.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\FUNDAMENTALS\1.1 lecture exercise\Exercises\Problem 4. Photo Gallery\obj\Debug\Problem 4. Photo Gallery.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\FUNDAMENTALS\1.1 lecture exercise\Exercises\Problem 4. Photo Gallery\obj\Debug\Problem_4.Photo_Gallery.exe
+C:\Users\ALEN\Desktop\FUNDAMENTALS\1.1 lecture exercise\Exercises\Problem 4. Photo Gallery\obj\Debug\Problem_4.Photo_Gallery.pdb

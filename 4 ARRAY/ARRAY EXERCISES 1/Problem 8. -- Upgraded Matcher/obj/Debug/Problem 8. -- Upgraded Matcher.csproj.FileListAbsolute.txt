@@ -1,0 +1,6 @@
+C:\Users\ALEN\Desktop\FUNDAMENTALS\4 ARRAY\ARRAY EXERSICE 1\ARRAYS AND METHODS\Problem 8. -- Upgraded Matcher\bin\Debug\Problem_8.___Upgraded_Matcher.exe.config
+C:\Users\ALEN\Desktop\FUNDAMENTALS\4 ARRAY\ARRAY EXERSICE 1\ARRAYS AND METHODS\Problem 8. -- Upgraded Matcher\bin\Debug\Problem_8.___Upgraded_Matcher.exe
+C:\Users\ALEN\Desktop\FUNDAMENTALS\4 ARRAY\ARRAY EXERSICE 1\ARRAYS AND METHODS\Problem 8. -- Upgraded Matcher\bin\Debug\Problem_8.___Upgraded_Matcher.pdb
+C:\Users\ALEN\Desktop\FUNDAMENTALS\4 ARRAY\ARRAY EXERSICE 1\ARRAYS AND METHODS\Problem 8. -- Upgraded Matcher\obj\Debug\Problem 8. -- Upgraded Matcher.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\FUNDAMENTALS\4 ARRAY\ARRAY EXERSICE 1\ARRAYS AND METHODS\Problem 8. -- Upgraded Matcher\obj\Debug\Problem_8.___Upgraded_Matcher.exe
+C:\Users\ALEN\Desktop\FUNDAMENTALS\4 ARRAY\ARRAY EXERSICE 1\ARRAYS AND METHODS\Problem 8. -- Upgraded Matcher\obj\Debug\Problem_8.___Upgraded_Matcher.pdb

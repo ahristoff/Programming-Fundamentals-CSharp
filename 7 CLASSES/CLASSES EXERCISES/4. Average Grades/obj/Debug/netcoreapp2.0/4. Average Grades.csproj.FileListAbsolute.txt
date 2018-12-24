@@ -1,0 +1,11 @@
+C:\Users\ALEN\Desktop\FUNDAMENTALS\7 CLASSES\CLASSES EXERCISES\4. Average Grades\bin\Debug\netcoreapp2.0\4. Average Grades.deps.json
+C:\Users\ALEN\Desktop\FUNDAMENTALS\7 CLASSES\CLASSES EXERCISES\4. Average Grades\bin\Debug\netcoreapp2.0\4. Average Grades.runtimeconfig.json
+C:\Users\ALEN\Desktop\FUNDAMENTALS\7 CLASSES\CLASSES EXERCISES\4. Average Grades\bin\Debug\netcoreapp2.0\4. Average Grades.runtimeconfig.dev.json
+C:\Users\ALEN\Desktop\FUNDAMENTALS\7 CLASSES\CLASSES EXERCISES\4. Average Grades\bin\Debug\netcoreapp2.0\4. Average Grades.dll
+C:\Users\ALEN\Desktop\FUNDAMENTALS\7 CLASSES\CLASSES EXERCISES\4. Average Grades\bin\Debug\netcoreapp2.0\4. Average Grades.pdb
+C:\Users\ALEN\Desktop\FUNDAMENTALS\7 CLASSES\CLASSES EXERCISES\4. Average Grades\obj\Debug\netcoreapp2.0\4. Average Grades.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\FUNDAMENTALS\7 CLASSES\CLASSES EXERCISES\4. Average Grades\obj\Debug\netcoreapp2.0\4. Average Grades.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\FUNDAMENTALS\7 CLASSES\CLASSES EXERCISES\4. Average Grades\obj\Debug\netcoreapp2.0\4. Average Grades.AssemblyInfoInputs.cache
+C:\Users\ALEN\Desktop\FUNDAMENTALS\7 CLASSES\CLASSES EXERCISES\4. Average Grades\obj\Debug\netcoreapp2.0\4. Average Grades.AssemblyInfo.cs
+C:\Users\ALEN\Desktop\FUNDAMENTALS\7 CLASSES\CLASSES EXERCISES\4. Average Grades\obj\Debug\netcoreapp2.0\4. Average Grades.dll
+C:\Users\ALEN\Desktop\FUNDAMENTALS\7 CLASSES\CLASSES EXERCISES\4. Average Grades\obj\Debug\netcoreapp2.0\4. Average Grades.pdb

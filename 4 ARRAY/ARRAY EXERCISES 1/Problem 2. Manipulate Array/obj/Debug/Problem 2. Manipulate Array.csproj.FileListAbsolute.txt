@@ -1,0 +1,13 @@
+C:\Users\ALEN\Desktop\FUNDAMENTALS\4 ARRAY\ARRAY EXERSICE 1\ARRAYS AND METHODS\Problem 2. Manipulate Array\obj\Debug\Problem 2. Manipulate Array.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\FUNDAMENTALS\4 ARRAY\ARRAY EXERSICE 1\ARRAYS AND METHODS\Problem 2. Manipulate Array\bin\Debug\Problem_2.Manipulate_Array.exe.config
+C:\Users\ALEN\Desktop\FUNDAMENTALS\4 ARRAY\ARRAY EXERSICE 1\ARRAYS AND METHODS\Problem 2. Manipulate Array\bin\Debug\Problem_2.Manipulate_Array.exe
+C:\Users\ALEN\Desktop\FUNDAMENTALS\4 ARRAY\ARRAY EXERSICE 1\ARRAYS AND METHODS\Problem 2. Manipulate Array\bin\Debug\Problem_2.Manipulate_Array.pdb
+C:\Users\ALEN\Desktop\FUNDAMENTALS\4 ARRAY\ARRAY EXERSICE 1\ARRAYS AND METHODS\Problem 2. Manipulate Array\obj\Debug\Problem_2.Manipulate_Array.exe
+C:\Users\ALEN\Desktop\FUNDAMENTALS\4 ARRAY\ARRAY EXERSICE 1\ARRAYS AND METHODS\Problem 2. Manipulate Array\obj\Debug\Problem_2.Manipulate_Array.pdb
+C:\Users\ALEN\Desktop\FUNDAMENTALS\4 ARRAY\ARRAY EXERCISES 1\Problem 2. Manipulate Array\bin\Debug\Problem_2.Manipulate_Array.exe.config
+C:\Users\ALEN\Desktop\FUNDAMENTALS\4 ARRAY\ARRAY EXERCISES 1\Problem 2. Manipulate Array\bin\Debug\Problem_2.Manipulate_Array.exe
+C:\Users\ALEN\Desktop\FUNDAMENTALS\4 ARRAY\ARRAY EXERCISES 1\Problem 2. Manipulate Array\bin\Debug\Problem_2.Manipulate_Array.pdb
+C:\Users\ALEN\Desktop\FUNDAMENTALS\4 ARRAY\ARRAY EXERCISES 1\Problem 2. Manipulate Array\obj\Debug\Problem 2. Manipulate Array.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\FUNDAMENTALS\4 ARRAY\ARRAY EXERCISES 1\Problem 2. Manipulate Array\obj\Debug\Problem 2. Manipulate Array.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\FUNDAMENTALS\4 ARRAY\ARRAY EXERCISES 1\Problem 2. Manipulate Array\obj\Debug\Problem_2.Manipulate_Array.exe
+C:\Users\ALEN\Desktop\FUNDAMENTALS\4 ARRAY\ARRAY EXERCISES 1\Problem 2. Manipulate Array\obj\Debug\Problem_2.Manipulate_Array.pdb

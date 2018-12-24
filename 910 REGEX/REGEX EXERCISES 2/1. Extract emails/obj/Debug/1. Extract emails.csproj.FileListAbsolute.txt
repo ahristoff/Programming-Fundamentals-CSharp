@@ -1,0 +1,14 @@
+C:\Users\ALEN\Desktop\FUNDAMENT\910 REGEX\REGEX EXERSICE\REGEX EXERSISE\1. Extract emails\bin\Debug\_1.Extract_emails.exe.config
+C:\Users\ALEN\Desktop\FUNDAMENTALS\910 REGEX\REGEX EXERSICE\REGEX EXERSISE\1. Extract emails\bin\Debug\_1.Extract_emails.exe.config
+C:\Users\ALEN\Desktop\FUNDAMENTALS\910 REGEX\REGEX EXERSICE\REGEX EXERSISE\1. Extract emails\bin\Debug\_1.Extract_emails.exe
+C:\Users\ALEN\Desktop\FUNDAMENTALS\910 REGEX\REGEX EXERSICE\REGEX EXERSISE\1. Extract emails\bin\Debug\_1.Extract_emails.pdb
+C:\Users\ALEN\Desktop\FUNDAMENTALS\910 REGEX\REGEX EXERSICE\REGEX EXERSISE\1. Extract emails\obj\Debug\1. Extract emails.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\FUNDAMENTALS\910 REGEX\REGEX EXERSICE\REGEX EXERSISE\1. Extract emails\obj\Debug\_1.Extract_emails.exe
+C:\Users\ALEN\Desktop\FUNDAMENTALS\910 REGEX\REGEX EXERSICE\REGEX EXERSISE\1. Extract emails\obj\Debug\_1.Extract_emails.pdb
+C:\Users\ALEN\Desktop\FUNDAMENTALS\910 REGEX\REGEX EXERCISES 2\1. Extract emails\bin\Debug\_1.Extract_emails.exe.config
+C:\Users\ALEN\Desktop\FUNDAMENTALS\910 REGEX\REGEX EXERCISES 2\1. Extract emails\bin\Debug\_1.Extract_emails.exe
+C:\Users\ALEN\Desktop\FUNDAMENTALS\910 REGEX\REGEX EXERCISES 2\1. Extract emails\bin\Debug\_1.Extract_emails.pdb
+C:\Users\ALEN\Desktop\FUNDAMENTALS\910 REGEX\REGEX EXERCISES 2\1. Extract emails\obj\Debug\1. Extract emails.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\FUNDAMENTALS\910 REGEX\REGEX EXERCISES 2\1. Extract emails\obj\Debug\1. Extract emails.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\FUNDAMENTALS\910 REGEX\REGEX EXERCISES 2\1. Extract emails\obj\Debug\_1.Extract_emails.exe
+C:\Users\ALEN\Desktop\FUNDAMENTALS\910 REGEX\REGEX EXERCISES 2\1. Extract emails\obj\Debug\_1.Extract_emails.pdb

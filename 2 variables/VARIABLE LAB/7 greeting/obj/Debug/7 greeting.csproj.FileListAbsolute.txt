@@ -1,0 +1,8 @@
+C:\Users\ALEN\Desktop\variable\ConsoleApplication1\7 greeting\bin\Debug\7 greeting.exe.config
+C:\Users\ALEN\Desktop\variable\ConsoleApplication1\7 greeting\bin\Debug\7 greeting.exe
+C:\Users\ALEN\Desktop\variable\ConsoleApplication1\7 greeting\bin\Debug\7 greeting.pdb
+C:\Users\ALEN\Desktop\variable\ConsoleApplication1\7 greeting\obj\Debug\7 greeting.exe
+C:\Users\ALEN\Desktop\variable\ConsoleApplication1\7 greeting\obj\Debug\7 greeting.pdb
+C:\Users\ALEN\Desktop\variable\VARIABLE LAB\7 greeting\bin\Debug\7 greeting.exe.config
+C:\Users\ALEN\Desktop\variable\VARIABLE LAB\7 greeting\obj\Debug\7 greeting.exe
+C:\Users\ALEN\Desktop\variable\VARIABLE LAB\7 greeting\obj\Debug\7 greeting.pdb

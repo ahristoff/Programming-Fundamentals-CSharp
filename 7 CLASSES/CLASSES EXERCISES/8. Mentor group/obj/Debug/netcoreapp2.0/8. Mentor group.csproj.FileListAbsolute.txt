@@ -1,0 +1,11 @@
+C:\Users\ALEN\Desktop\FUNDAMENTALS\7 CLASSES\CLASSES EXERCISES\8. Mentor group\bin\Debug\netcoreapp2.0\8. Mentor group.deps.json
+C:\Users\ALEN\Desktop\FUNDAMENTALS\7 CLASSES\CLASSES EXERCISES\8. Mentor group\bin\Debug\netcoreapp2.0\8. Mentor group.runtimeconfig.json
+C:\Users\ALEN\Desktop\FUNDAMENTALS\7 CLASSES\CLASSES EXERCISES\8. Mentor group\bin\Debug\netcoreapp2.0\8. Mentor group.runtimeconfig.dev.json
+C:\Users\ALEN\Desktop\FUNDAMENTALS\7 CLASSES\CLASSES EXERCISES\8. Mentor group\bin\Debug\netcoreapp2.0\8. Mentor group.dll
+C:\Users\ALEN\Desktop\FUNDAMENTALS\7 CLASSES\CLASSES EXERCISES\8. Mentor group\bin\Debug\netcoreapp2.0\8. Mentor group.pdb
+C:\Users\ALEN\Desktop\FUNDAMENTALS\7 CLASSES\CLASSES EXERCISES\8. Mentor group\obj\Debug\netcoreapp2.0\8. Mentor group.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\FUNDAMENTALS\7 CLASSES\CLASSES EXERCISES\8. Mentor group\obj\Debug\netcoreapp2.0\8. Mentor group.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\FUNDAMENTALS\7 CLASSES\CLASSES EXERCISES\8. Mentor group\obj\Debug\netcoreapp2.0\8. Mentor group.AssemblyInfoInputs.cache
+C:\Users\ALEN\Desktop\FUNDAMENTALS\7 CLASSES\CLASSES EXERCISES\8. Mentor group\obj\Debug\netcoreapp2.0\8. Mentor group.AssemblyInfo.cs
+C:\Users\ALEN\Desktop\FUNDAMENTALS\7 CLASSES\CLASSES EXERCISES\8. Mentor group\obj\Debug\netcoreapp2.0\8. Mentor group.dll
+C:\Users\ALEN\Desktop\FUNDAMENTALS\7 CLASSES\CLASSES EXERCISES\8. Mentor group\obj\Debug\netcoreapp2.0\8. Mentor group.pdb

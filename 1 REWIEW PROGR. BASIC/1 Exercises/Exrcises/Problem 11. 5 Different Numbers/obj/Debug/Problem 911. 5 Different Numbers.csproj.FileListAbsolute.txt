@@ -1,0 +1,8 @@
+C:\Users\ALEN\Desktop\lecture 1\EXERCISE\Problem 11. 5 Different Numbers\bin\Debug\Problem 11. 5 Different Numbers.exe.config
+C:\Users\ALEN\Desktop\lecture 1\EXERCISE\Problem 11. 5 Different Numbers\bin\Debug\Problem 11. 5 Different Numbers.exe
+C:\Users\ALEN\Desktop\lecture 1\EXERCISE\Problem 11. 5 Different Numbers\bin\Debug\Problem 11. 5 Different Numbers.pdb
+C:\Users\ALEN\Desktop\lecture 1\EXERCISE\Problem 11. 5 Different Numbers\obj\Debug\Problem 11. 5 Different Numbers.exe
+C:\Users\ALEN\Desktop\lecture 1\EXERCISE\Problem 11. 5 Different Numbers\obj\Debug\Problem 11. 5 Different Numbers.pdb
+C:\Users\ALEN\Desktop\FUNDAMENT\1 lecture exercise\EXERCISE\Problem 11. 5 Different Numbers\bin\Debug\Problem 11. 5 Different Numbers.exe.config
+C:\Users\ALEN\Desktop\FUNDAMENT\1 lecture exercise\EXERCISE\Problem 11. 5 Different Numbers\obj\Debug\Problem 11. 5 Different Numbers.exe
+C:\Users\ALEN\Desktop\FUNDAMENT\1 lecture exercise\EXERCISE\Problem 11. 5 Different Numbers\obj\Debug\Problem 11. 5 Different Numbers.pdb

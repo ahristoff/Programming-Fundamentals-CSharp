@@ -1,0 +1,13 @@
+C:\Users\ALEN\Desktop\FUNDAMENT\4 ARRAY\ARRAY EXERSICE\ARRAY\911. Equal Sums\bin\Debug\_911.Equal_Sums.exe.config
+C:\Users\ALEN\Desktop\FUNDAMENT\4 ARRAY\ARRAY EXERSICE\ARRAY\911. Equal Sums\bin\Debug\_911.Equal_Sums.exe
+C:\Users\ALEN\Desktop\FUNDAMENT\4 ARRAY\ARRAY EXERSICE\ARRAY\911. Equal Sums\bin\Debug\_911.Equal_Sums.pdb
+C:\Users\ALEN\Desktop\FUNDAMENT\4 ARRAY\ARRAY EXERSICE\ARRAY\911. Equal Sums\obj\Debug\911. Equal Sums.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\FUNDAMENT\4 ARRAY\ARRAY EXERSICE\ARRAY\911. Equal Sums\obj\Debug\_911.Equal_Sums.exe
+C:\Users\ALEN\Desktop\FUNDAMENT\4 ARRAY\ARRAY EXERSICE\ARRAY\911. Equal Sums\obj\Debug\_911.Equal_Sums.pdb
+C:\Users\ALEN\Desktop\FUNDAMENTALS\4 ARRAY\ARRAY EXERCISES 2\911. Equal Sums\bin\Debug\_911.Equal_Sums.exe.config
+C:\Users\ALEN\Desktop\FUNDAMENTALS\4 ARRAY\ARRAY EXERCISES 2\911. Equal Sums\bin\Debug\_911.Equal_Sums.exe
+C:\Users\ALEN\Desktop\FUNDAMENTALS\4 ARRAY\ARRAY EXERCISES 2\911. Equal Sums\bin\Debug\_911.Equal_Sums.pdb
+C:\Users\ALEN\Desktop\FUNDAMENTALS\4 ARRAY\ARRAY EXERCISES 2\911. Equal Sums\obj\Debug\911. Equal Sums.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\FUNDAMENTALS\4 ARRAY\ARRAY EXERCISES 2\911. Equal Sums\obj\Debug\911. Equal Sums.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\FUNDAMENTALS\4 ARRAY\ARRAY EXERCISES 2\911. Equal Sums\obj\Debug\_911.Equal_Sums.exe
+C:\Users\ALEN\Desktop\FUNDAMENTALS\4 ARRAY\ARRAY EXERCISES 2\911. Equal Sums\obj\Debug\_911.Equal_Sums.pdb

@@ -1,0 +1,13 @@
+C:\Users\ALEN\Desktop\FUNDAMENTALS\EXAM PREPARATION\4\4 SOLUTION\EXAM PREPARATION 4\Problem 3. Football Standings\bin\Debug\Problem_3.Football_Standings.exe.config
+C:\Users\ALEN\Desktop\FUNDAMENTALS\EXAM PREPARATION\4\4 SOLUTION\EXAM PREPARATION 4\Problem 3. Football Standings\bin\Debug\Problem_3.Football_Standings.exe
+C:\Users\ALEN\Desktop\FUNDAMENTALS\EXAM PREPARATION\4\4 SOLUTION\EXAM PREPARATION 4\Problem 3. Football Standings\bin\Debug\Problem_3.Football_Standings.pdb
+C:\Users\ALEN\Desktop\FUNDAMENTALS\EXAM PREPARATION\4\4 SOLUTION\EXAM PREPARATION 4\Problem 3. Football Standings\obj\Debug\Problem 3. Football Standings.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\FUNDAMENTALS\EXAM PREPARATION\4\4 SOLUTION\EXAM PREPARATION 4\Problem 3. Football Standings\obj\Debug\Problem_3.Football_Standings.exe
+C:\Users\ALEN\Desktop\FUNDAMENTALS\EXAM PREPARATION\4\4 SOLUTION\EXAM PREPARATION 4\Problem 3. Football Standings\obj\Debug\Problem_3.Football_Standings.pdb
+C:\Users\ALEN\Desktop\FUNDAMENTALS\EXAM PREPARATION\4\4 SOLUTIONS\Problem 3. Football Standings\bin\Debug\Problem_3.Football_Standings.exe.config
+C:\Users\ALEN\Desktop\FUNDAMENTALS\EXAM PREPARATION\4\4 SOLUTIONS\Problem 3. Football Standings\bin\Debug\Problem_3.Football_Standings.exe
+C:\Users\ALEN\Desktop\FUNDAMENTALS\EXAM PREPARATION\4\4 SOLUTIONS\Problem 3. Football Standings\bin\Debug\Problem_3.Football_Standings.pdb
+C:\Users\ALEN\Desktop\FUNDAMENTALS\EXAM PREPARATION\4\4 SOLUTIONS\Problem 3. Football Standings\obj\Debug\Problem 3. Football Standings.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\FUNDAMENTALS\EXAM PREPARATION\4\4 SOLUTIONS\Problem 3. Football Standings\obj\Debug\Problem 3. Football Standings.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\FUNDAMENTALS\EXAM PREPARATION\4\4 SOLUTIONS\Problem 3. Football Standings\obj\Debug\Problem_3.Football_Standings.exe
+C:\Users\ALEN\Desktop\FUNDAMENTALS\EXAM PREPARATION\4\4 SOLUTIONS\Problem 3. Football Standings\obj\Debug\Problem_3.Football_Standings.pdb

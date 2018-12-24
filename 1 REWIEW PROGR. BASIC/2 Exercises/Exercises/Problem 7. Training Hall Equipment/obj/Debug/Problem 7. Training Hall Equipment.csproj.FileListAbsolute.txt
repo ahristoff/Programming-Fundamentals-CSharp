@@ -1,0 +1,14 @@
+C:\Users\ALEN\Desktop\1.1 lecture exercise\solution\1.1 exercise\Problem 7. Training Hall Equipment\bin\Debug\Problem_7.Training_Hall_Equipment.exe.config
+C:\Users\ALEN\Desktop\1.1 lecture exercise\solution\1.1 exercise\Problem 7. Training Hall Equipment\bin\Debug\Problem_7.Training_Hall_Equipment.exe
+C:\Users\ALEN\Desktop\1.1 lecture exercise\solution\1.1 exercise\Problem 7. Training Hall Equipment\bin\Debug\Problem_7.Training_Hall_Equipment.pdb
+C:\Users\ALEN\Desktop\1.1 lecture exercise\solution\1.1 exercise\Problem 7. Training Hall Equipment\obj\Debug\Problem_7.Training_Hall_Equipment.exe
+C:\Users\ALEN\Desktop\1.1 lecture exercise\solution\1.1 exercise\Problem 7. Training Hall Equipment\obj\Debug\Problem_7.Training_Hall_Equipment.pdb
+C:\Users\ALEN\Desktop\FUNDAMENT\1.1 lecture exercise\solution\1.1 exercise\Problem 7. Training Hall Equipment\bin\Debug\Problem_7.Training_Hall_Equipment.exe.config
+C:\Users\ALEN\Desktop\FUNDAMENT\1.1 lecture exercise\solution\1.1 exercise\Problem 7. Training Hall Equipment\obj\Debug\Problem_7.Training_Hall_Equipment.exe
+C:\Users\ALEN\Desktop\FUNDAMENT\1.1 lecture exercise\solution\1.1 exercise\Problem 7. Training Hall Equipment\obj\Debug\Problem_7.Training_Hall_Equipment.pdb
+C:\Users\ALEN\Desktop\FUNDAMENTALS\1.1 lecture exercise\Exercises\Problem 7. Training Hall Equipment\bin\Debug\Problem_7.Training_Hall_Equipment.exe.config
+C:\Users\ALEN\Desktop\FUNDAMENTALS\1.1 lecture exercise\Exercises\Problem 7. Training Hall Equipment\bin\Debug\Problem_7.Training_Hall_Equipment.exe
+C:\Users\ALEN\Desktop\FUNDAMENTALS\1.1 lecture exercise\Exercises\Problem 7. Training Hall Equipment\bin\Debug\Problem_7.Training_Hall_Equipment.pdb
+C:\Users\ALEN\Desktop\FUNDAMENTALS\1.1 lecture exercise\Exercises\Problem 7. Training Hall Equipment\obj\Debug\Problem 7. Training Hall Equipment.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\FUNDAMENTALS\1.1 lecture exercise\Exercises\Problem 7. Training Hall Equipment\obj\Debug\Problem_7.Training_Hall_Equipment.exe
+C:\Users\ALEN\Desktop\FUNDAMENTALS\1.1 lecture exercise\Exercises\Problem 7. Training Hall Equipment\obj\Debug\Problem_7.Training_Hall_Equipment.pdb

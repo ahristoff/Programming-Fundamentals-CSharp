@@ -1,0 +1,12 @@
+C:\Users\ALEN\Desktop\methods\METHODS LAB\3  Printing Triangle\bin\Debug\3  Printing Triangle.exe.config
+C:\Users\ALEN\Desktop\methods\METHODS LAB\3  Printing Triangle\bin\Debug\3  Printing Triangle.exe
+C:\Users\ALEN\Desktop\methods\METHODS LAB\3  Printing Triangle\bin\Debug\3  Printing Triangle.pdb
+C:\Users\ALEN\Desktop\methods\METHODS LAB\3  Printing Triangle\obj\Debug\3  Printing Triangle.exe
+C:\Users\ALEN\Desktop\methods\METHODS LAB\3  Printing Triangle\obj\Debug\3  Printing Triangle.pdb
+C:\Users\ALEN\Desktop\FUNDAMENTALS\3 methods\METHODS LAB\3  Printing Triangle\bin\Debug\3  Printing Triangle.exe.config
+C:\Users\ALEN\Desktop\FUNDAMENTALS\3 methods\METHODS LAB\3  Printing Triangle\bin\Debug\3  Printing Triangle.exe
+C:\Users\ALEN\Desktop\FUNDAMENTALS\3 methods\METHODS LAB\3  Printing Triangle\bin\Debug\3  Printing Triangle.pdb
+C:\Users\ALEN\Desktop\FUNDAMENTALS\3 methods\METHODS LAB\3  Printing Triangle\obj\Debug\3  Printing Triangle.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\FUNDAMENTALS\3 methods\METHODS LAB\3  Printing Triangle\obj\Debug\3  Printing Triangle.exe
+C:\Users\ALEN\Desktop\FUNDAMENTALS\3 methods\METHODS LAB\3  Printing Triangle\obj\Debug\3  Printing Triangle.pdb
+C:\Users\ALEN\Desktop\FUNDAMENTALS\3 methods\METHODS LAB\3  Printing Triangle\obj\Debug\3  Printing Triangle.csproj.CoreCompileInputs.cache

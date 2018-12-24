@@ -1,0 +1,12 @@
+C:\Users\ALEN\Desktop\FUNDAMENT\2 variables\VARIABLE EXERCISE 2\variables 2\Problem 7.  Sentence the Thief\bin\Debug\Problem_7.Sentence_the_Thief.exe.config
+C:\Users\ALEN\Desktop\FUNDAMENT\2 variables\VARIABLE EXERCISE 2\variables 2\Problem 7.  Sentence the Thief\bin\Debug\Problem_7.Sentence_the_Thief.exe
+C:\Users\ALEN\Desktop\FUNDAMENT\2 variables\VARIABLE EXERCISE 2\variables 2\Problem 7.  Sentence the Thief\bin\Debug\Problem_7.Sentence_the_Thief.pdb
+C:\Users\ALEN\Desktop\FUNDAMENT\2 variables\VARIABLE EXERCISE 2\variables 2\Problem 7.  Sentence the Thief\obj\Debug\Problem_7.Sentence_the_Thief.exe
+C:\Users\ALEN\Desktop\FUNDAMENT\2 variables\VARIABLE EXERCISE 2\variables 2\Problem 7.  Sentence the Thief\obj\Debug\Problem_7.Sentence_the_Thief.pdb
+C:\Users\ALEN\Desktop\FUNDAMENTALS\2 variables\VARIABLE EXERCISE 2\Problem 7.  Sentence the Thief\bin\Debug\Problem_7.Sentence_the_Thief.exe.config
+C:\Users\ALEN\Desktop\FUNDAMENTALS\2 variables\VARIABLE EXERCISE 2\Problem 7.  Sentence the Thief\bin\Debug\Problem_7.Sentence_the_Thief.exe
+C:\Users\ALEN\Desktop\FUNDAMENTALS\2 variables\VARIABLE EXERCISE 2\Problem 7.  Sentence the Thief\bin\Debug\Problem_7.Sentence_the_Thief.pdb
+C:\Users\ALEN\Desktop\FUNDAMENTALS\2 variables\VARIABLE EXERCISE 2\Problem 7.  Sentence the Thief\obj\Debug\Problem 7.  Sentence the Thief.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\FUNDAMENTALS\2 variables\VARIABLE EXERCISE 2\Problem 7.  Sentence the Thief\obj\Debug\Problem 7.  Sentence the Thief.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\FUNDAMENTALS\2 variables\VARIABLE EXERCISE 2\Problem 7.  Sentence the Thief\obj\Debug\Problem_7.Sentence_the_Thief.exe
+C:\Users\ALEN\Desktop\FUNDAMENTALS\2 variables\VARIABLE EXERCISE 2\Problem 7.  Sentence the Thief\obj\Debug\Problem_7.Sentence_the_Thief.pdb

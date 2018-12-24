@@ -1,0 +1,19 @@
+C:\Users\ALEN\Desktop\FUNDAMENT\4 ARRAY\ARRAY LAB\ARRAY LAB\8. Condense Array to Number\bin\Debug\_8.Condense_Array_to_Number.exe.config
+C:\Users\ALEN\Desktop\FUNDAMENT\4 ARRAY\ARRAY LAB\ARRAY LAB\8. Condense Array to Number\bin\Debug\_8.Condense_Array_to_Number.exe
+C:\Users\ALEN\Desktop\FUNDAMENT\4 ARRAY\ARRAY LAB\ARRAY LAB\8. Condense Array to Number\bin\Debug\_8.Condense_Array_to_Number.pdb
+C:\Users\ALEN\Desktop\FUNDAMENT\4 ARRAY\ARRAY LAB\ARRAY LAB\8. Condense Array to Number\obj\Debug\_8.Condense_Array_to_Number.exe
+C:\Users\ALEN\Desktop\FUNDAMENT\4 ARRAY\ARRAY LAB\ARRAY LAB\8. Condense Array to Number\obj\Debug\_8.Condense_Array_to_Number.pdb
+C:\Users\ALEN\Desktop\FUNDAMENT\4 ARRAY\ARRAY LAB\ARRAY LAB\8. Condense Array to Number\obj\Debug\8. Condense Array to Number.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\FUNDAMENTALS\4 ARRAY\ARRAY LAB\ARRAY LAB\8. Condense Array to Number\bin\Debug\_8.Condense_Array_to_Number.exe.config
+C:\Users\ALEN\Desktop\FUNDAMENTALS\4 ARRAY\ARRAY LAB\ARRAY LAB\8. Condense Array to Number\bin\Debug\_8.Condense_Array_to_Number.exe
+C:\Users\ALEN\Desktop\FUNDAMENTALS\4 ARRAY\ARRAY LAB\ARRAY LAB\8. Condense Array to Number\bin\Debug\_8.Condense_Array_to_Number.pdb
+C:\Users\ALEN\Desktop\FUNDAMENTALS\4 ARRAY\ARRAY LAB\ARRAY LAB\8. Condense Array to Number\obj\Debug\8. Condense Array to Number.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\FUNDAMENTALS\4 ARRAY\ARRAY LAB\ARRAY LAB\8. Condense Array to Number\obj\Debug\_8.Condense_Array_to_Number.exe
+C:\Users\ALEN\Desktop\FUNDAMENTALS\4 ARRAY\ARRAY LAB\ARRAY LAB\8. Condense Array to Number\obj\Debug\_8.Condense_Array_to_Number.pdb
+C:\Users\ALEN\Desktop\FUNDAMENTALS\4 ARRAY\ARRAY LAB\8. Condense Array to Number\bin\Debug\_8.Condense_Array_to_Number.exe.config
+C:\Users\ALEN\Desktop\FUNDAMENTALS\4 ARRAY\ARRAY LAB\8. Condense Array to Number\bin\Debug\_8.Condense_Array_to_Number.exe
+C:\Users\ALEN\Desktop\FUNDAMENTALS\4 ARRAY\ARRAY LAB\8. Condense Array to Number\bin\Debug\_8.Condense_Array_to_Number.pdb
+C:\Users\ALEN\Desktop\FUNDAMENTALS\4 ARRAY\ARRAY LAB\8. Condense Array to Number\obj\Debug\8. Condense Array to Number.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\FUNDAMENTALS\4 ARRAY\ARRAY LAB\8. Condense Array to Number\obj\Debug\8. Condense Array to Number.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\FUNDAMENTALS\4 ARRAY\ARRAY LAB\8. Condense Array to Number\obj\Debug\_8.Condense_Array_to_Number.exe
+C:\Users\ALEN\Desktop\FUNDAMENTALS\4 ARRAY\ARRAY LAB\8. Condense Array to Number\obj\Debug\_8.Condense_Array_to_Number.pdb

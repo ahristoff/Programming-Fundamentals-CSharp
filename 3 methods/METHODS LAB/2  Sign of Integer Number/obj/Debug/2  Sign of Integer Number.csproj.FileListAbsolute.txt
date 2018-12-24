@@ -1,0 +1,13 @@
+C:\Users\ALEN\Desktop\methods\METHODS LAB\2  Sign of Integer Number\bin\Debug\2  Sign of Integer Number.exe.config
+C:\Users\ALEN\Desktop\methods\METHODS LAB\2  Sign of Integer Number\bin\Debug\2  Sign of Integer Number.exe
+C:\Users\ALEN\Desktop\methods\METHODS LAB\2  Sign of Integer Number\bin\Debug\2  Sign of Integer Number.pdb
+C:\Users\ALEN\Desktop\methods\METHODS LAB\2  Sign of Integer Number\obj\Debug\2  Sign of Integer Number.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\methods\METHODS LAB\2  Sign of Integer Number\obj\Debug\2  Sign of Integer Number.exe
+C:\Users\ALEN\Desktop\methods\METHODS LAB\2  Sign of Integer Number\obj\Debug\2  Sign of Integer Number.pdb
+C:\Users\ALEN\Desktop\FUNDAMENTALS\3 methods\METHODS LAB\2  Sign of Integer Number\bin\Debug\2  Sign of Integer Number.exe.config
+C:\Users\ALEN\Desktop\FUNDAMENTALS\3 methods\METHODS LAB\2  Sign of Integer Number\bin\Debug\2  Sign of Integer Number.exe
+C:\Users\ALEN\Desktop\FUNDAMENTALS\3 methods\METHODS LAB\2  Sign of Integer Number\bin\Debug\2  Sign of Integer Number.pdb
+C:\Users\ALEN\Desktop\FUNDAMENTALS\3 methods\METHODS LAB\2  Sign of Integer Number\obj\Debug\2  Sign of Integer Number.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\FUNDAMENTALS\3 methods\METHODS LAB\2  Sign of Integer Number\obj\Debug\2  Sign of Integer Number.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\FUNDAMENTALS\3 methods\METHODS LAB\2  Sign of Integer Number\obj\Debug\2  Sign of Integer Number.exe
+C:\Users\ALEN\Desktop\FUNDAMENTALS\3 methods\METHODS LAB\2  Sign of Integer Number\obj\Debug\2  Sign of Integer Number.pdb

@@ -1,0 +1,5 @@
+C:\Users\ALEN\Desktop\FUNDAMENT\4 ARRAY\ARRAY LAB\ARRAY LAB\6. Reverse an Array of Strings\bin\Debug\_6.Reverse_an_Array_of_Strings.exe.config
+C:\Users\ALEN\Desktop\FUNDAMENT\4 ARRAY\ARRAY LAB\ARRAY LAB\6. Reverse an Array of Strings\bin\Debug\_6.Reverse_an_Array_of_Strings.exe
+C:\Users\ALEN\Desktop\FUNDAMENT\4 ARRAY\ARRAY LAB\ARRAY LAB\6. Reverse an Array of Strings\bin\Debug\_6.Reverse_an_Array_of_Strings.pdb
+C:\Users\ALEN\Desktop\FUNDAMENT\4 ARRAY\ARRAY LAB\ARRAY LAB\6. Reverse an Array of Strings\obj\Debug\_6.Reverse_an_Array_of_Strings.exe
+C:\Users\ALEN\Desktop\FUNDAMENT\4 ARRAY\ARRAY LAB\ARRAY LAB\6. Reverse an Array of Strings\obj\Debug\_6.Reverse_an_Array_of_Strings.pdb

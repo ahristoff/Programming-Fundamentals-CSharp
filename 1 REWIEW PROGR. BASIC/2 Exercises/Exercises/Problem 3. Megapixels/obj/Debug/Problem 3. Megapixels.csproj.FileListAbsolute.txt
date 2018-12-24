@@ -1,0 +1,8 @@
+C:\Users\ALEN\Desktop\1.1 lecture exercise\solution\1.1 exercise\Problem 3. Megapixels\bin\Debug\Problem_3.Megapixels.exe.config
+C:\Users\ALEN\Desktop\1.1 lecture exercise\solution\1.1 exercise\Problem 3. Megapixels\bin\Debug\Problem_3.Megapixels.exe
+C:\Users\ALEN\Desktop\1.1 lecture exercise\solution\1.1 exercise\Problem 3. Megapixels\bin\Debug\Problem_3.Megapixels.pdb
+C:\Users\ALEN\Desktop\1.1 lecture exercise\solution\1.1 exercise\Problem 3. Megapixels\obj\Debug\Problem_3.Megapixels.exe
+C:\Users\ALEN\Desktop\1.1 lecture exercise\solution\1.1 exercise\Problem 3. Megapixels\obj\Debug\Problem_3.Megapixels.pdb
+C:\Users\ALEN\Desktop\FUNDAMENT\1.1 lecture exercise\solution\1.1 exercise\Problem 3. Megapixels\bin\Debug\Problem_3.Megapixels.exe.config
+C:\Users\ALEN\Desktop\FUNDAMENT\1.1 lecture exercise\solution\1.1 exercise\Problem 3. Megapixels\obj\Debug\Problem_3.Megapixels.exe
+C:\Users\ALEN\Desktop\FUNDAMENT\1.1 lecture exercise\solution\1.1 exercise\Problem 3. Megapixels\obj\Debug\Problem_3.Megapixels.pdb

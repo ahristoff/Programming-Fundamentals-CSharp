@@ -1,0 +1,13 @@
+C:\Users\ALEN\Desktop\FUNDAMENTALS\910 REGEX\REGEX EXERSICE 1\REGEX EXERSICE 1\6. Email Statistics\bin\Debug\_6.Email_Statistics.exe.config
+C:\Users\ALEN\Desktop\FUNDAMENTALS\910 REGEX\REGEX EXERSICE 1\REGEX EXERSICE 1\6. Email Statistics\bin\Debug\_6.Email_Statistics.exe
+C:\Users\ALEN\Desktop\FUNDAMENTALS\910 REGEX\REGEX EXERSICE 1\REGEX EXERSICE 1\6. Email Statistics\bin\Debug\_6.Email_Statistics.pdb
+C:\Users\ALEN\Desktop\FUNDAMENTALS\910 REGEX\REGEX EXERSICE 1\REGEX EXERSICE 1\6. Email Statistics\obj\Debug\6. Email Statistics.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\FUNDAMENTALS\910 REGEX\REGEX EXERSICE 1\REGEX EXERSICE 1\6. Email Statistics\obj\Debug\_6.Email_Statistics.exe
+C:\Users\ALEN\Desktop\FUNDAMENTALS\910 REGEX\REGEX EXERSICE 1\REGEX EXERSICE 1\6. Email Statistics\obj\Debug\_6.Email_Statistics.pdb
+C:\Users\ALEN\Desktop\FUNDAMENTALS\910 REGEX\REGEX EXERCISES 1\6. Email Statistics\bin\Debug\_6.Email_Statistics.exe.config
+C:\Users\ALEN\Desktop\FUNDAMENTALS\910 REGEX\REGEX EXERCISES 1\6. Email Statistics\bin\Debug\_6.Email_Statistics.exe
+C:\Users\ALEN\Desktop\FUNDAMENTALS\910 REGEX\REGEX EXERCISES 1\6. Email Statistics\bin\Debug\_6.Email_Statistics.pdb
+C:\Users\ALEN\Desktop\FUNDAMENTALS\910 REGEX\REGEX EXERCISES 1\6. Email Statistics\obj\Debug\6. Email Statistics.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\FUNDAMENTALS\910 REGEX\REGEX EXERCISES 1\6. Email Statistics\obj\Debug\6. Email Statistics.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\FUNDAMENTALS\910 REGEX\REGEX EXERCISES 1\6. Email Statistics\obj\Debug\_6.Email_Statistics.exe
+C:\Users\ALEN\Desktop\FUNDAMENTALS\910 REGEX\REGEX EXERCISES 1\6. Email Statistics\obj\Debug\_6.Email_Statistics.pdb

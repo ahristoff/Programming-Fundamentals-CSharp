@@ -1,0 +1,9 @@
+C:\Users\ALEN\Desktop\variable\ConsoleApplication1\9 Refactor Special Numbers\bin\Debug\9 Refactor Special Numbers.exe.config
+C:\Users\ALEN\Desktop\variable\ConsoleApplication1\9 Refactor Special Numbers\bin\Debug\9 Refactor Special Numbers.exe
+C:\Users\ALEN\Desktop\variable\ConsoleApplication1\9 Refactor Special Numbers\bin\Debug\9 Refactor Special Numbers.pdb
+C:\Users\ALEN\Desktop\variable\ConsoleApplication1\9 Refactor Special Numbers\obj\Debug\9 Refactor Special Numbers.exe
+C:\Users\ALEN\Desktop\variable\ConsoleApplication1\9 Refactor Special Numbers\obj\Debug\9 Refactor Special Numbers.pdb
+C:\Users\ALEN\Desktop\variable\ConsoleApplication1\9 Refactor Special Numbers\obj\Debug\9 Refactor Special Numbers.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\variable\VARIABLE LAB\9 Refactor Special Numbers\bin\Debug\9 Refactor Special Numbers.exe.config
+C:\Users\ALEN\Desktop\variable\VARIABLE LAB\9 Refactor Special Numbers\obj\Debug\9 Refactor Special Numbers.exe
+C:\Users\ALEN\Desktop\variable\VARIABLE LAB\9 Refactor Special Numbers\obj\Debug\9 Refactor Special Numbers.pdb

@@ -1,0 +1,8 @@
+C:\Users\ALEN\Desktop\variable\VARIABLE EXERCISE\916  Comparing Floats\bin\Debug\916  Comparing Floats.exe.config
+C:\Users\ALEN\Desktop\variable\VARIABLE EXERCISE\916  Comparing Floats\bin\Debug\916  Comparing Floats.exe
+C:\Users\ALEN\Desktop\variable\VARIABLE EXERCISE\916  Comparing Floats\bin\Debug\916  Comparing Floats.pdb
+C:\Users\ALEN\Desktop\variable\VARIABLE EXERCISE\916  Comparing Floats\obj\Debug\916  Comparing Floats.exe
+C:\Users\ALEN\Desktop\variable\VARIABLE EXERCISE\916  Comparing Floats\obj\Debug\916  Comparing Floats.pdb
+C:\Users\ALEN\Desktop\FUNDAMENT\2 variables\VARIABLE EXERCISE  1\916  Comparing Floats\bin\Debug\916  Comparing Floats.exe.config
+C:\Users\ALEN\Desktop\FUNDAMENT\2 variables\VARIABLE EXERCISE  1\916  Comparing Floats\obj\Debug\916  Comparing Floats.exe
+C:\Users\ALEN\Desktop\FUNDAMENT\2 variables\VARIABLE EXERCISE  1\916  Comparing Floats\obj\Debug\916  Comparing Floats.pdb

@@ -1,0 +1,6 @@
+C:\Users\ALEN\Desktop\FUNDAMENT\2 variables\VARIABLE EXERCISE 2\variables 2\Problem 2. Number Checker\bin\Debug\Problem_2.Number_Checker.exe.config
+C:\Users\ALEN\Desktop\FUNDAMENT\2 variables\VARIABLE EXERCISE 2\variables 2\Problem 2. Number Checker\bin\Debug\Problem_2.Number_Checker.exe
+C:\Users\ALEN\Desktop\FUNDAMENT\2 variables\VARIABLE EXERCISE 2\variables 2\Problem 2. Number Checker\bin\Debug\Problem_2.Number_Checker.pdb
+C:\Users\ALEN\Desktop\FUNDAMENT\2 variables\VARIABLE EXERCISE 2\variables 2\Problem 2. Number Checker\obj\Debug\Problem_2.Number_Checker.exe
+C:\Users\ALEN\Desktop\FUNDAMENT\2 variables\VARIABLE EXERCISE 2\variables 2\Problem 2. Number Checker\obj\Debug\Problem_2.Number_Checker.pdb
+C:\Users\ALEN\Desktop\FUNDAMENT\2 variables\VARIABLE EXERCISE 2\variables 2\Problem 2. Number Checker\obj\Debug\Problem 2. Number Checker.csprojResolveAssemblyReference.cache

@@ -1,0 +1,7 @@
+C:\Users\ALEN\Desktop\FUNDAMENTALS\3 methods\METHODS LAB\1.-- Blank Receipt\obj\Debug\1.-- Blank Receipt.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\FUNDAMENTALS\3 methods\METHODS LAB\1.-- Blank Receipt\bin\Debug\1.-- Blank Receipt.exe.config
+C:\Users\ALEN\Desktop\FUNDAMENTALS\3 methods\METHODS LAB\1.-- Blank Receipt\bin\Debug\1.-- Blank Receipt.exe
+C:\Users\ALEN\Desktop\FUNDAMENTALS\3 methods\METHODS LAB\1.-- Blank Receipt\bin\Debug\1.-- Blank Receipt.pdb
+C:\Users\ALEN\Desktop\FUNDAMENTALS\3 methods\METHODS LAB\1.-- Blank Receipt\obj\Debug\1.-- Blank Receipt.exe
+C:\Users\ALEN\Desktop\FUNDAMENTALS\3 methods\METHODS LAB\1.-- Blank Receipt\obj\Debug\1.-- Blank Receipt.pdb
+C:\Users\ALEN\Desktop\FUNDAMENTALS\3 methods\METHODS LAB\1.-- Blank Receipt\obj\Debug\1.-- Blank Receipt.csproj.CoreCompileInputs.cache

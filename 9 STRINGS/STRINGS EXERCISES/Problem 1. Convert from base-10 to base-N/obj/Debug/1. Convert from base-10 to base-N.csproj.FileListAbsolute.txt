@@ -1,0 +1,6 @@
+C:\Users\ALEN\Desktop\FUNDAMENTALS\9 STRINGS\STRINGS EXERSICE\STRINGS\Problem 1. Convert from base-10 to base-N\bin\Debug\Problem_1.Convert_from_base_10_to_base_N.exe.config
+C:\Users\ALEN\Desktop\FUNDAMENTALS\9 STRINGS\STRINGS EXERSICE\STRINGS\Problem 1. Convert from base-10 to base-N\bin\Debug\Problem_1.Convert_from_base_10_to_base_N.exe
+C:\Users\ALEN\Desktop\FUNDAMENTALS\9 STRINGS\STRINGS EXERSICE\STRINGS\Problem 1. Convert from base-10 to base-N\bin\Debug\Problem_1.Convert_from_base_10_to_base_N.pdb
+C:\Users\ALEN\Desktop\FUNDAMENTALS\9 STRINGS\STRINGS EXERSICE\STRINGS\Problem 1. Convert from base-10 to base-N\obj\Debug\1. Convert from base-10 to base-N.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\FUNDAMENTALS\9 STRINGS\STRINGS EXERSICE\STRINGS\Problem 1. Convert from base-10 to base-N\obj\Debug\Problem_1.Convert_from_base_10_to_base_N.exe
+C:\Users\ALEN\Desktop\FUNDAMENTALS\9 STRINGS\STRINGS EXERSICE\STRINGS\Problem 1. Convert from base-10 to base-N\obj\Debug\Problem_1.Convert_from_base_10_to_base_N.pdb

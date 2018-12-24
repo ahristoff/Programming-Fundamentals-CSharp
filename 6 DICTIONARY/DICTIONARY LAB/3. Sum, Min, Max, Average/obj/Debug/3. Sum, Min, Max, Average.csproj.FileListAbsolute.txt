@@ -1,0 +1,5 @@
+C:\Users\ALEN\Desktop\DICTIONARY\DICTIONARY LAB\DICTIONARY LAB\3. Sum, Min, Max, Average\bin\Debug\_3.Sum__Min__Max__Average.exe.config
+C:\Users\ALEN\Desktop\DICTIONARY\DICTIONARY LAB\DICTIONARY LAB\3. Sum, Min, Max, Average\bin\Debug\_3.Sum__Min__Max__Average.exe
+C:\Users\ALEN\Desktop\DICTIONARY\DICTIONARY LAB\DICTIONARY LAB\3. Sum, Min, Max, Average\bin\Debug\_3.Sum__Min__Max__Average.pdb
+C:\Users\ALEN\Desktop\DICTIONARY\DICTIONARY LAB\DICTIONARY LAB\3. Sum, Min, Max, Average\obj\Debug\_3.Sum__Min__Max__Average.exe
+C:\Users\ALEN\Desktop\DICTIONARY\DICTIONARY LAB\DICTIONARY LAB\3. Sum, Min, Max, Average\obj\Debug\_3.Sum__Min__Max__Average.pdb

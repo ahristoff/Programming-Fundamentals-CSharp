@@ -1,0 +1,12 @@
+C:\Users\ALEN\Desktop\FUNDAMENT\4 ARRAY\ARRAY EXERSICE\ARRAY\3. Fold and Sum\bin\Debug\_3.Fold_and_Sum.exe.config
+C:\Users\ALEN\Desktop\FUNDAMENT\4 ARRAY\ARRAY EXERSICE\ARRAY\3. Fold and Sum\bin\Debug\_3.Fold_and_Sum.exe
+C:\Users\ALEN\Desktop\FUNDAMENT\4 ARRAY\ARRAY EXERSICE\ARRAY\3. Fold and Sum\bin\Debug\_3.Fold_and_Sum.pdb
+C:\Users\ALEN\Desktop\FUNDAMENT\4 ARRAY\ARRAY EXERSICE\ARRAY\3. Fold and Sum\obj\Debug\3. Fold and Sum.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\FUNDAMENT\4 ARRAY\ARRAY EXERSICE\ARRAY\3. Fold and Sum\obj\Debug\_3.Fold_and_Sum.exe
+C:\Users\ALEN\Desktop\FUNDAMENT\4 ARRAY\ARRAY EXERSICE\ARRAY\3. Fold and Sum\obj\Debug\_3.Fold_and_Sum.pdb
+C:\Users\ALEN\Desktop\FUNDAMENTALS\4 ARRAY\ARRAY EXERSICE\ARRAY\3. Fold and Sum\bin\Debug\_3.Fold_and_Sum.exe.config
+C:\Users\ALEN\Desktop\FUNDAMENTALS\4 ARRAY\ARRAY EXERSICE\ARRAY\3. Fold and Sum\bin\Debug\_3.Fold_and_Sum.exe
+C:\Users\ALEN\Desktop\FUNDAMENTALS\4 ARRAY\ARRAY EXERSICE\ARRAY\3. Fold and Sum\bin\Debug\_3.Fold_and_Sum.pdb
+C:\Users\ALEN\Desktop\FUNDAMENTALS\4 ARRAY\ARRAY EXERSICE\ARRAY\3. Fold and Sum\obj\Debug\3. Fold and Sum.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\FUNDAMENTALS\4 ARRAY\ARRAY EXERSICE\ARRAY\3. Fold and Sum\obj\Debug\_3.Fold_and_Sum.exe
+C:\Users\ALEN\Desktop\FUNDAMENTALS\4 ARRAY\ARRAY EXERSICE\ARRAY\3. Fold and Sum\obj\Debug\_3.Fold_and_Sum.pdb

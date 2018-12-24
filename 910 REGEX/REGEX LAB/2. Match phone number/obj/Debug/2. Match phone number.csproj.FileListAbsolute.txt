@@ -1,0 +1,13 @@
+C:\Users\ALEN\Desktop\FUNDAMENT\910 REGEX\REGEX LAB\REGEX LAB\2. Match phone number\bin\Debug\_2.Match_phone_number.exe.config
+C:\Users\ALEN\Desktop\FUNDAMENTALS\910 REGEX\REGEX LAB\REGEX LAB\2. Match phone number\bin\Debug\_2.Match_phone_number.exe.config
+C:\Users\ALEN\Desktop\FUNDAMENTALS\910 REGEX\REGEX LAB\REGEX LAB\2. Match phone number\bin\Debug\_2.Match_phone_number.exe
+C:\Users\ALEN\Desktop\FUNDAMENTALS\910 REGEX\REGEX LAB\REGEX LAB\2. Match phone number\bin\Debug\_2.Match_phone_number.pdb
+C:\Users\ALEN\Desktop\FUNDAMENTALS\910 REGEX\REGEX LAB\REGEX LAB\2. Match phone number\obj\Debug\_2.Match_phone_number.exe
+C:\Users\ALEN\Desktop\FUNDAMENTALS\910 REGEX\REGEX LAB\REGEX LAB\2. Match phone number\obj\Debug\_2.Match_phone_number.pdb
+C:\Users\ALEN\Desktop\FUNDAMENTALS\910 REGEX\REGEX LAB\2. Match phone number\bin\Debug\_2.Match_phone_number.exe.config
+C:\Users\ALEN\Desktop\FUNDAMENTALS\910 REGEX\REGEX LAB\2. Match phone number\bin\Debug\_2.Match_phone_number.exe
+C:\Users\ALEN\Desktop\FUNDAMENTALS\910 REGEX\REGEX LAB\2. Match phone number\bin\Debug\_2.Match_phone_number.pdb
+C:\Users\ALEN\Desktop\FUNDAMENTALS\910 REGEX\REGEX LAB\2. Match phone number\obj\Debug\2. Match phone number.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\FUNDAMENTALS\910 REGEX\REGEX LAB\2. Match phone number\obj\Debug\2. Match phone number.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\FUNDAMENTALS\910 REGEX\REGEX LAB\2. Match phone number\obj\Debug\_2.Match_phone_number.exe
+C:\Users\ALEN\Desktop\FUNDAMENTALS\910 REGEX\REGEX LAB\2. Match phone number\obj\Debug\_2.Match_phone_number.pdb

@@ -1,0 +1,6 @@
+C:\Users\ALEN\Desktop\LIST\LIST LAB\List LAB\4. Split by Word Casing\bin\Debug\_4.Split_by_Word_Casing.exe.config
+C:\Users\ALEN\Desktop\LIST\LIST LAB\List LAB\4. Split by Word Casing\bin\Debug\_4.Split_by_Word_Casing.exe
+C:\Users\ALEN\Desktop\LIST\LIST LAB\List LAB\4. Split by Word Casing\bin\Debug\_4.Split_by_Word_Casing.pdb
+C:\Users\ALEN\Desktop\LIST\LIST LAB\List LAB\4. Split by Word Casing\obj\Debug\4. Split by Word Casing.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\LIST\LIST LAB\List LAB\4. Split by Word Casing\obj\Debug\_4.Split_by_Word_Casing.exe
+C:\Users\ALEN\Desktop\LIST\LIST LAB\List LAB\4. Split by Word Casing\obj\Debug\_4.Split_by_Word_Casing.pdb

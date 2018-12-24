@@ -1,0 +1,13 @@
+C:\Users\ALEN\Desktop\FUNDAMENTALS\EXAM PREPARATION\1\1 SOLUTION\EXAM PREPARATION 1\Problem 1. Sino The Walker\bin\Debug\Problem_1.Sino_The_Walker.exe.config
+C:\Users\ALEN\Desktop\FUNDAMENTALS\EXAM PREPARATION\1\1 SOLUTION\EXAM PREPARATION 1\Problem 1. Sino The Walker\bin\Debug\Problem_1.Sino_The_Walker.exe
+C:\Users\ALEN\Desktop\FUNDAMENTALS\EXAM PREPARATION\1\1 SOLUTION\EXAM PREPARATION 1\Problem 1. Sino The Walker\bin\Debug\Problem_1.Sino_The_Walker.pdb
+C:\Users\ALEN\Desktop\FUNDAMENTALS\EXAM PREPARATION\1\1 SOLUTION\EXAM PREPARATION 1\Problem 1. Sino The Walker\obj\Debug\Problem 1. Sino The Walker.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\FUNDAMENTALS\EXAM PREPARATION\1\1 SOLUTION\EXAM PREPARATION 1\Problem 1. Sino The Walker\obj\Debug\Problem_1.Sino_The_Walker.exe
+C:\Users\ALEN\Desktop\FUNDAMENTALS\EXAM PREPARATION\1\1 SOLUTION\EXAM PREPARATION 1\Problem 1. Sino The Walker\obj\Debug\Problem_1.Sino_The_Walker.pdb
+C:\Users\ALEN\Desktop\FUNDAMENTALS\EXAM PREPARATION\1\1 SOLUTIONS\EXAM PREPARATION 1\Problem 1. Sino The Walker\bin\Debug\Problem_1.Sino_The_Walker.exe.config
+C:\Users\ALEN\Desktop\FUNDAMENTALS\EXAM PREPARATION\1\1 SOLUTIONS\EXAM PREPARATION 1\Problem 1. Sino The Walker\bin\Debug\Problem_1.Sino_The_Walker.exe
+C:\Users\ALEN\Desktop\FUNDAMENTALS\EXAM PREPARATION\1\1 SOLUTIONS\EXAM PREPARATION 1\Problem 1. Sino The Walker\bin\Debug\Problem_1.Sino_The_Walker.pdb
+C:\Users\ALEN\Desktop\FUNDAMENTALS\EXAM PREPARATION\1\1 SOLUTIONS\EXAM PREPARATION 1\Problem 1. Sino The Walker\obj\Debug\Problem 1. Sino The Walker.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\FUNDAMENTALS\EXAM PREPARATION\1\1 SOLUTIONS\EXAM PREPARATION 1\Problem 1. Sino The Walker\obj\Debug\Problem 1. Sino The Walker.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\FUNDAMENTALS\EXAM PREPARATION\1\1 SOLUTIONS\EXAM PREPARATION 1\Problem 1. Sino The Walker\obj\Debug\Problem_1.Sino_The_Walker.exe
+C:\Users\ALEN\Desktop\FUNDAMENTALS\EXAM PREPARATION\1\1 SOLUTIONS\EXAM PREPARATION 1\Problem 1. Sino The Walker\obj\Debug\Problem_1.Sino_The_Walker.pdb

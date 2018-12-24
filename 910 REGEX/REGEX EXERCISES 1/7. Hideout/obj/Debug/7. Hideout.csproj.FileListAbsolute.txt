@@ -1,0 +1,11 @@
+C:\Users\ALEN\Desktop\FUNDAMENTALS\910 REGEX\REGEX EXERSICE 1\REGEX EXERSICE 1\7. Hideout\bin\Debug\_7.Hideout.exe.config
+C:\Users\ALEN\Desktop\FUNDAMENTALS\910 REGEX\REGEX EXERSICE 1\REGEX EXERSICE 1\7. Hideout\bin\Debug\_7.Hideout.exe
+C:\Users\ALEN\Desktop\FUNDAMENTALS\910 REGEX\REGEX EXERSICE 1\REGEX EXERSICE 1\7. Hideout\bin\Debug\_7.Hideout.pdb
+C:\Users\ALEN\Desktop\FUNDAMENTALS\910 REGEX\REGEX EXERSICE 1\REGEX EXERSICE 1\7. Hideout\obj\Debug\_7.Hideout.exe
+C:\Users\ALEN\Desktop\FUNDAMENTALS\910 REGEX\REGEX EXERSICE 1\REGEX EXERSICE 1\7. Hideout\obj\Debug\_7.Hideout.pdb
+C:\Users\ALEN\Desktop\FUNDAMENTALS\910 REGEX\REGEX EXERCISES 1\7. Hideout\bin\Debug\_7.Hideout.exe.config
+C:\Users\ALEN\Desktop\FUNDAMENTALS\910 REGEX\REGEX EXERCISES 1\7. Hideout\bin\Debug\_7.Hideout.exe
+C:\Users\ALEN\Desktop\FUNDAMENTALS\910 REGEX\REGEX EXERCISES 1\7. Hideout\bin\Debug\_7.Hideout.pdb
+C:\Users\ALEN\Desktop\FUNDAMENTALS\910 REGEX\REGEX EXERCISES 1\7. Hideout\obj\Debug\7. Hideout.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\FUNDAMENTALS\910 REGEX\REGEX EXERCISES 1\7. Hideout\obj\Debug\_7.Hideout.exe
+C:\Users\ALEN\Desktop\FUNDAMENTALS\910 REGEX\REGEX EXERCISES 1\7. Hideout\obj\Debug\_7.Hideout.pdb

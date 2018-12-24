@@ -1,0 +1,16 @@
+C:\Users\ALEN\Desktop\lecture 1\EXERCISE\Problem 3. Restaurant Discount\bin\Debug\Problem_3.Restaurant_Discount.exe.config
+C:\Users\ALEN\Desktop\lecture 1\EXERCISE\Problem 3. Restaurant Discount\bin\Debug\Problem_3.Restaurant_Discount.exe
+C:\Users\ALEN\Desktop\lecture 1\EXERCISE\Problem 3. Restaurant Discount\bin\Debug\Problem_3.Restaurant_Discount.pdb
+C:\Users\ALEN\Desktop\lecture 1\EXERCISE\Problem 3. Restaurant Discount\obj\Debug\Problem 3. Restaurant Discount.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\lecture 1\EXERCISE\Problem 3. Restaurant Discount\obj\Debug\Problem_3.Restaurant_Discount.exe
+C:\Users\ALEN\Desktop\lecture 1\EXERCISE\Problem 3. Restaurant Discount\obj\Debug\Problem_3.Restaurant_Discount.pdb
+C:\Users\ALEN\Desktop\FUNDAMENT\1 lecture exercise\EXERCISE\Problem 3. Restaurant Discount\bin\Debug\Problem_3.Restaurant_Discount.exe.config
+C:\Users\ALEN\Desktop\FUNDAMENT\1 lecture exercise\EXERCISE\Problem 3. Restaurant Discount\obj\Debug\Problem_3.Restaurant_Discount.exe
+C:\Users\ALEN\Desktop\FUNDAMENT\1 lecture exercise\EXERCISE\Problem 3. Restaurant Discount\obj\Debug\Problem_3.Restaurant_Discount.pdb
+C:\Users\ALEN\Desktop\FUNDAMENTALS\1 lecture exercise\Exrcises\Problem 3. Restaurant Discount\bin\Debug\Problem_3.Restaurant_Discount.exe.config
+C:\Users\ALEN\Desktop\FUNDAMENTALS\1 lecture exercise\Exrcises\Problem 3. Restaurant Discount\bin\Debug\Problem_3.Restaurant_Discount.exe
+C:\Users\ALEN\Desktop\FUNDAMENTALS\1 lecture exercise\Exrcises\Problem 3. Restaurant Discount\bin\Debug\Problem_3.Restaurant_Discount.pdb
+C:\Users\ALEN\Desktop\FUNDAMENTALS\1 lecture exercise\Exrcises\Problem 3. Restaurant Discount\obj\Debug\Problem 3. Restaurant Discount.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\FUNDAMENTALS\1 lecture exercise\Exrcises\Problem 3. Restaurant Discount\obj\Debug\Problem 3. Restaurant Discount.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\FUNDAMENTALS\1 lecture exercise\Exrcises\Problem 3. Restaurant Discount\obj\Debug\Problem_3.Restaurant_Discount.exe
+C:\Users\ALEN\Desktop\FUNDAMENTALS\1 lecture exercise\Exrcises\Problem 3. Restaurant Discount\obj\Debug\Problem_3.Restaurant_Discount.pdb

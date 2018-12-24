@@ -1,0 +1,10 @@
+C:\Users\ALEN\Desktop\FUNDAMENTALS\5 LIST\LIST EXERSICE\5. Array Manipulator\bin\Debug\netcoreapp2.0\5. Array Manipulator.deps.json
+C:\Users\ALEN\Desktop\FUNDAMENTALS\5 LIST\LIST EXERSICE\5. Array Manipulator\bin\Debug\netcoreapp2.0\5. Array Manipulator.runtimeconfig.json
+C:\Users\ALEN\Desktop\FUNDAMENTALS\5 LIST\LIST EXERSICE\5. Array Manipulator\bin\Debug\netcoreapp2.0\5. Array Manipulator.runtimeconfig.dev.json
+C:\Users\ALEN\Desktop\FUNDAMENTALS\5 LIST\LIST EXERSICE\5. Array Manipulator\bin\Debug\netcoreapp2.0\5. Array Manipulator.dll
+C:\Users\ALEN\Desktop\FUNDAMENTALS\5 LIST\LIST EXERSICE\5. Array Manipulator\bin\Debug\netcoreapp2.0\5. Array Manipulator.pdb
+C:\Users\ALEN\Desktop\FUNDAMENTALS\5 LIST\LIST EXERSICE\5. Array Manipulator\obj\Debug\netcoreapp2.0\5. Array Manipulator.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\FUNDAMENTALS\5 LIST\LIST EXERSICE\5. Array Manipulator\obj\Debug\netcoreapp2.0\5. Array Manipulator.AssemblyInfoInputs.cache
+C:\Users\ALEN\Desktop\FUNDAMENTALS\5 LIST\LIST EXERSICE\5. Array Manipulator\obj\Debug\netcoreapp2.0\5. Array Manipulator.AssemblyInfo.cs
+C:\Users\ALEN\Desktop\FUNDAMENTALS\5 LIST\LIST EXERSICE\5. Array Manipulator\obj\Debug\netcoreapp2.0\5. Array Manipulator.dll
+C:\Users\ALEN\Desktop\FUNDAMENTALS\5 LIST\LIST EXERSICE\5. Array Manipulator\obj\Debug\netcoreapp2.0\5. Array Manipulator.pdb

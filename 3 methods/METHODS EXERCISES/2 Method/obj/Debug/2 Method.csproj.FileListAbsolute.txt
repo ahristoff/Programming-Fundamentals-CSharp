@@ -1,0 +1,9 @@
+C:\Users\ALEN\Desktop\methods\METHODS EXERCISE\methods exercise\2 Method\bin\Debug\2 Method.exe.config
+C:\Users\ALEN\Desktop\methods\METHODS EXERCISE\methods exercise\2 Method\bin\Debug\2 Method.exe
+C:\Users\ALEN\Desktop\methods\METHODS EXERCISE\methods exercise\2 Method\bin\Debug\2 Method.pdb
+C:\Users\ALEN\Desktop\methods\METHODS EXERCISE\methods exercise\2 Method\obj\Debug\2 Method.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\methods\METHODS EXERCISE\methods exercise\2 Method\obj\Debug\2 Method.exe
+C:\Users\ALEN\Desktop\methods\METHODS EXERCISE\methods exercise\2 Method\obj\Debug\2 Method.pdb
+C:\Users\ALEN\Desktop\FUNDAMENT\3 methods\METHODS EXERCISE\methods exercise\2 Method\bin\Debug\2 Method.exe.config
+C:\Users\ALEN\Desktop\FUNDAMENT\3 methods\METHODS EXERCISE\methods exercise\2 Method\obj\Debug\2 Method.exe
+C:\Users\ALEN\Desktop\FUNDAMENT\3 methods\METHODS EXERCISE\methods exercise\2 Method\obj\Debug\2 Method.pdb

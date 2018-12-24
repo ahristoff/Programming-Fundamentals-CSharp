@@ -1,0 +1,8 @@
+C:\Users\ALEN\Desktop\lecture 1\EXERCISE\Problem 914.  Magic Letter\bin\Debug\Problem_914.Magic_Letter.exe.config
+C:\Users\ALEN\Desktop\lecture 1\EXERCISE\Problem 914.  Magic Letter\bin\Debug\Problem_914.Magic_Letter.exe
+C:\Users\ALEN\Desktop\lecture 1\EXERCISE\Problem 914.  Magic Letter\bin\Debug\Problem_914.Magic_Letter.pdb
+C:\Users\ALEN\Desktop\lecture 1\EXERCISE\Problem 914.  Magic Letter\obj\Debug\Problem_914.Magic_Letter.exe
+C:\Users\ALEN\Desktop\lecture 1\EXERCISE\Problem 914.  Magic Letter\obj\Debug\Problem_914.Magic_Letter.pdb
+C:\Users\ALEN\Desktop\FUNDAMENT\1 lecture exercise\EXERCISE\Problem 914.  Magic Letter\bin\Debug\Problem_914.Magic_Letter.exe.config
+C:\Users\ALEN\Desktop\FUNDAMENT\1 lecture exercise\EXERCISE\Problem 914.  Magic Letter\obj\Debug\Problem_914.Magic_Letter.exe
+C:\Users\ALEN\Desktop\FUNDAMENT\1 lecture exercise\EXERCISE\Problem 914.  Magic Letter\obj\Debug\Problem_914.Magic_Letter.pdb

@@ -1,0 +1,5 @@
+C:\Users\ALEN\Desktop\FUNDAMENT\2 variables\VARIABLE EXERCISE 2\variables 2\Problem 9. Make a Word\bin\Debug\Problem_9.Make_a_Word.exe.config
+C:\Users\ALEN\Desktop\FUNDAMENT\2 variables\VARIABLE EXERCISE 2\variables 2\Problem 9. Make a Word\bin\Debug\Problem_9.Make_a_Word.exe
+C:\Users\ALEN\Desktop\FUNDAMENT\2 variables\VARIABLE EXERCISE 2\variables 2\Problem 9. Make a Word\bin\Debug\Problem_9.Make_a_Word.pdb
+C:\Users\ALEN\Desktop\FUNDAMENT\2 variables\VARIABLE EXERCISE 2\variables 2\Problem 9. Make a Word\obj\Debug\Problem_9.Make_a_Word.exe
+C:\Users\ALEN\Desktop\FUNDAMENT\2 variables\VARIABLE EXERCISE 2\variables 2\Problem 9. Make a Word\obj\Debug\Problem_9.Make_a_Word.pdb

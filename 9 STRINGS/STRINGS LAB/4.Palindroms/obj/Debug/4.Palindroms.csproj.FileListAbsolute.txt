@@ -1,0 +1,6 @@
+C:\Users\ALEN\Desktop\FUNDAMENTALS\9 STRINGS\STRINGS LAB\STRINGS lab\4.Palindroms\bin\Debug\4.Palindroms.exe.config
+C:\Users\ALEN\Desktop\FUNDAMENTALS\9 STRINGS\STRINGS LAB\STRINGS lab\4.Palindroms\bin\Debug\4.Palindroms.exe
+C:\Users\ALEN\Desktop\FUNDAMENTALS\9 STRINGS\STRINGS LAB\STRINGS lab\4.Palindroms\bin\Debug\4.Palindroms.pdb
+C:\Users\ALEN\Desktop\FUNDAMENTALS\9 STRINGS\STRINGS LAB\STRINGS lab\4.Palindroms\obj\Debug\4.Palindroms.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\FUNDAMENTALS\9 STRINGS\STRINGS LAB\STRINGS lab\4.Palindroms\obj\Debug\4.Palindroms.exe
+C:\Users\ALEN\Desktop\FUNDAMENTALS\9 STRINGS\STRINGS LAB\STRINGS lab\4.Palindroms\obj\Debug\4.Palindroms.pdb

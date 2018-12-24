@@ -1,0 +1,5 @@
+C:\Users\ALEN\Desktop\FUNDAMENT\2 variables\VARIABLE EXERCISE 2\variables 2\Problem 4. Tourist Information\bin\Debug\Problem_4.Tourist_Information.exe.config
+C:\Users\ALEN\Desktop\FUNDAMENT\2 variables\VARIABLE EXERCISE 2\variables 2\Problem 4. Tourist Information\bin\Debug\Problem_4.Tourist_Information.exe
+C:\Users\ALEN\Desktop\FUNDAMENT\2 variables\VARIABLE EXERCISE 2\variables 2\Problem 4. Tourist Information\bin\Debug\Problem_4.Tourist_Information.pdb
+C:\Users\ALEN\Desktop\FUNDAMENT\2 variables\VARIABLE EXERCISE 2\variables 2\Problem 4. Tourist Information\obj\Debug\Problem_4.Tourist_Information.exe
+C:\Users\ALEN\Desktop\FUNDAMENT\2 variables\VARIABLE EXERCISE 2\variables 2\Problem 4. Tourist Information\obj\Debug\Problem_4.Tourist_Information.pdb

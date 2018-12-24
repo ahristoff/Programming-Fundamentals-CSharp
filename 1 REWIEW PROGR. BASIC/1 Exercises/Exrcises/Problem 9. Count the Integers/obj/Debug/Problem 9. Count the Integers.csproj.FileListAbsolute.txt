@@ -1,0 +1,9 @@
+C:\Users\ALEN\Desktop\lecture 1\EXERCISE\Problem 9. Count the Integers\bin\Debug\Problem_9.Count_the_Integers.exe.config
+C:\Users\ALEN\Desktop\lecture 1\EXERCISE\Problem 9. Count the Integers\bin\Debug\Problem_9.Count_the_Integers.exe
+C:\Users\ALEN\Desktop\lecture 1\EXERCISE\Problem 9. Count the Integers\bin\Debug\Problem_9.Count_the_Integers.pdb
+C:\Users\ALEN\Desktop\lecture 1\EXERCISE\Problem 9. Count the Integers\obj\Debug\Problem 9. Count the Integers.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\lecture 1\EXERCISE\Problem 9. Count the Integers\obj\Debug\Problem_9.Count_the_Integers.exe
+C:\Users\ALEN\Desktop\lecture 1\EXERCISE\Problem 9. Count the Integers\obj\Debug\Problem_9.Count_the_Integers.pdb
+C:\Users\ALEN\Desktop\FUNDAMENT\1 lecture exercise\EXERCISE\Problem 9. Count the Integers\bin\Debug\Problem_9.Count_the_Integers.exe.config
+C:\Users\ALEN\Desktop\FUNDAMENT\1 lecture exercise\EXERCISE\Problem 9. Count the Integers\obj\Debug\Problem_9.Count_the_Integers.exe
+C:\Users\ALEN\Desktop\FUNDAMENT\1 lecture exercise\EXERCISE\Problem 9. Count the Integers\obj\Debug\Problem_9.Count_the_Integers.pdb

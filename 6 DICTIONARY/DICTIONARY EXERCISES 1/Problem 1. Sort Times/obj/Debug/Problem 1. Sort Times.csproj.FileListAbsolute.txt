@@ -1,0 +1,13 @@
+C:\Users\ALEN\Desktop\FUNDAMENTALS\6 DICTIONARY\DICTIONARY EXERSICE 1\EXERSICE DICTIONARY 1\Problem 1. Sort Times\bin\Debug\Problem_1.Sort_Times.exe.config
+C:\Users\ALEN\Desktop\FUNDAMENTALS\6 DICTIONARY\DICTIONARY EXERSICE 1\EXERSICE DICTIONARY 1\Problem 1. Sort Times\bin\Debug\Problem_1.Sort_Times.exe
+C:\Users\ALEN\Desktop\FUNDAMENTALS\6 DICTIONARY\DICTIONARY EXERSICE 1\EXERSICE DICTIONARY 1\Problem 1. Sort Times\bin\Debug\Problem_1.Sort_Times.pdb
+C:\Users\ALEN\Desktop\FUNDAMENTALS\6 DICTIONARY\DICTIONARY EXERSICE 1\EXERSICE DICTIONARY 1\Problem 1. Sort Times\obj\Debug\Problem 1. Sort Times.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\FUNDAMENTALS\6 DICTIONARY\DICTIONARY EXERSICE 1\EXERSICE DICTIONARY 1\Problem 1. Sort Times\obj\Debug\Problem_1.Sort_Times.exe
+C:\Users\ALEN\Desktop\FUNDAMENTALS\6 DICTIONARY\DICTIONARY EXERSICE 1\EXERSICE DICTIONARY 1\Problem 1. Sort Times\obj\Debug\Problem_1.Sort_Times.pdb
+C:\Users\ALEN\Desktop\FUNDAMENTALS\6 DICTIONARY\DICTIONARY EXERCISES 1\Problem 1. Sort Times\bin\Debug\Problem_1.Sort_Times.exe.config
+C:\Users\ALEN\Desktop\FUNDAMENTALS\6 DICTIONARY\DICTIONARY EXERCISES 1\Problem 1. Sort Times\bin\Debug\Problem_1.Sort_Times.exe
+C:\Users\ALEN\Desktop\FUNDAMENTALS\6 DICTIONARY\DICTIONARY EXERCISES 1\Problem 1. Sort Times\bin\Debug\Problem_1.Sort_Times.pdb
+C:\Users\ALEN\Desktop\FUNDAMENTALS\6 DICTIONARY\DICTIONARY EXERCISES 1\Problem 1. Sort Times\obj\Debug\Problem 1. Sort Times.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\FUNDAMENTALS\6 DICTIONARY\DICTIONARY EXERCISES 1\Problem 1. Sort Times\obj\Debug\Problem 1. Sort Times.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\FUNDAMENTALS\6 DICTIONARY\DICTIONARY EXERCISES 1\Problem 1. Sort Times\obj\Debug\Problem_1.Sort_Times.exe
+C:\Users\ALEN\Desktop\FUNDAMENTALS\6 DICTIONARY\DICTIONARY EXERCISES 1\Problem 1. Sort Times\obj\Debug\Problem_1.Sort_Times.pdb

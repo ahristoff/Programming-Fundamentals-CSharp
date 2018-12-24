@@ -1,0 +1,19 @@
+C:\Users\ALEN\Desktop\variable\VARIABLE EXERCISE\913 13. Vowel or Digit\bin\Debug\_913_13.Vowel_or_Digit.exe.config
+C:\Users\ALEN\Desktop\variable\VARIABLE EXERCISE\913 13. Vowel or Digit\bin\Debug\_913_13.Vowel_or_Digit.exe
+C:\Users\ALEN\Desktop\variable\VARIABLE EXERCISE\913 13. Vowel or Digit\bin\Debug\_913_13.Vowel_or_Digit.pdb
+C:\Users\ALEN\Desktop\variable\VARIABLE EXERCISE\913 13. Vowel or Digit\obj\Debug\_913_13.Vowel_or_Digit.exe
+C:\Users\ALEN\Desktop\variable\VARIABLE EXERCISE\913 13. Vowel or Digit\obj\Debug\_913_13.Vowel_or_Digit.pdb
+C:\Users\ALEN\Desktop\variable\VARIABLE EXERCISE\913 13. Vowel or Digit\obj\Debug\913 13. Vowel or Digit.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\FUNDAMENT\2 variables\VARIABLE EXERCISE  1\913 13. Vowel or Digit\bin\Debug\_913_13.Vowel_or_Digit.exe.config
+C:\Users\ALEN\Desktop\FUNDAMENT\2 variables\VARIABLE EXERCISE  1\913 13. Vowel or Digit\obj\Debug\_913_13.Vowel_or_Digit.exe
+C:\Users\ALEN\Desktop\FUNDAMENT\2 variables\VARIABLE EXERCISE  1\913 13. Vowel or Digit\obj\Debug\_913_13.Vowel_or_Digit.pdb
+C:\Users\ALEN\Desktop\FUNDAMENT\2 variables\VARIABLE EXERCISE  1\913 13. Vowel or Digit\bin\Debug\_913_13.Vowel_or_Digit.exe
+C:\Users\ALEN\Desktop\FUNDAMENT\2 variables\VARIABLE EXERCISE  1\913 13. Vowel or Digit\bin\Debug\_913_13.Vowel_or_Digit.pdb
+C:\Users\ALEN\Desktop\FUNDAMENT\2 variables\VARIABLE EXERCISE  1\913 13. Vowel or Digit\obj\Debug\913 13. Vowel or Digit.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\FUNDAMENTALS\2 variables\VARIABLE EXERCISE  1\913 13. Vowel or Digit\bin\Debug\_913_13.Vowel_or_Digit.exe.config
+C:\Users\ALEN\Desktop\FUNDAMENTALS\2 variables\VARIABLE EXERCISE  1\913 13. Vowel or Digit\bin\Debug\_913_13.Vowel_or_Digit.exe
+C:\Users\ALEN\Desktop\FUNDAMENTALS\2 variables\VARIABLE EXERCISE  1\913 13. Vowel or Digit\bin\Debug\_913_13.Vowel_or_Digit.pdb
+C:\Users\ALEN\Desktop\FUNDAMENTALS\2 variables\VARIABLE EXERCISE  1\913 13. Vowel or Digit\obj\Debug\913 13. Vowel or Digit.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\FUNDAMENTALS\2 variables\VARIABLE EXERCISE  1\913 13. Vowel or Digit\obj\Debug\913 13. Vowel or Digit.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\FUNDAMENTALS\2 variables\VARIABLE EXERCISE  1\913 13. Vowel or Digit\obj\Debug\_913_13.Vowel_or_Digit.exe
+C:\Users\ALEN\Desktop\FUNDAMENTALS\2 variables\VARIABLE EXERCISE  1\913 13. Vowel or Digit\obj\Debug\_913_13.Vowel_or_Digit.pdb

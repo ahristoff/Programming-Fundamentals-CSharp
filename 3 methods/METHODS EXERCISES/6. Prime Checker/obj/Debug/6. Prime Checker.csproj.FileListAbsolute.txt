@@ -1,0 +1,16 @@
+C:\Users\ALEN\Desktop\methods\METHODS EXERCISE\methods exercise\6. Prime Checker\bin\Debug\_6.Prime_Checker.exe.config
+C:\Users\ALEN\Desktop\methods\METHODS EXERCISE\methods exercise\6. Prime Checker\bin\Debug\_6.Prime_Checker.exe
+C:\Users\ALEN\Desktop\methods\METHODS EXERCISE\methods exercise\6. Prime Checker\bin\Debug\_6.Prime_Checker.pdb
+C:\Users\ALEN\Desktop\methods\METHODS EXERCISE\methods exercise\6. Prime Checker\obj\Debug\_6.Prime_Checker.exe
+C:\Users\ALEN\Desktop\methods\METHODS EXERCISE\methods exercise\6. Prime Checker\obj\Debug\_6.Prime_Checker.pdb
+C:\Users\ALEN\Desktop\methods\METHODS EXERCISE\methods exercise\6. Prime Checker\obj\Debug\6. Prime Checker.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\FUNDAMENT\3 methods\METHODS EXERCISE\methods exercise\6. Prime Checker\bin\Debug\_6.Prime_Checker.exe.config
+C:\Users\ALEN\Desktop\FUNDAMENT\3 methods\METHODS EXERCISE\methods exercise\6. Prime Checker\obj\Debug\_6.Prime_Checker.exe
+C:\Users\ALEN\Desktop\FUNDAMENT\3 methods\METHODS EXERCISE\methods exercise\6. Prime Checker\obj\Debug\_6.Prime_Checker.pdb
+C:\Users\ALEN\Desktop\FUNDAMENTALS\3 methods\METHODS EXERCISES\6. Prime Checker\bin\Debug\_6.Prime_Checker.exe.config
+C:\Users\ALEN\Desktop\FUNDAMENTALS\3 methods\METHODS EXERCISES\6. Prime Checker\bin\Debug\_6.Prime_Checker.exe
+C:\Users\ALEN\Desktop\FUNDAMENTALS\3 methods\METHODS EXERCISES\6. Prime Checker\bin\Debug\_6.Prime_Checker.pdb
+C:\Users\ALEN\Desktop\FUNDAMENTALS\3 methods\METHODS EXERCISES\6. Prime Checker\obj\Debug\6. Prime Checker.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\FUNDAMENTALS\3 methods\METHODS EXERCISES\6. Prime Checker\obj\Debug\6. Prime Checker.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\FUNDAMENTALS\3 methods\METHODS EXERCISES\6. Prime Checker\obj\Debug\_6.Prime_Checker.exe
+C:\Users\ALEN\Desktop\FUNDAMENTALS\3 methods\METHODS EXERCISES\6. Prime Checker\obj\Debug\_6.Prime_Checker.pdb

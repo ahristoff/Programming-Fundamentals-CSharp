@@ -1,0 +1,9 @@
+C:\Users\ALEN\Desktop\methods\METHODS EXERCISE\methods exercise\10. Cube Properties\bin\Debug\_10.Cube_Properties.exe.config
+C:\Users\ALEN\Desktop\methods\METHODS EXERCISE\methods exercise\10. Cube Properties\bin\Debug\_10.Cube_Properties.exe
+C:\Users\ALEN\Desktop\methods\METHODS EXERCISE\methods exercise\10. Cube Properties\bin\Debug\_10.Cube_Properties.pdb
+C:\Users\ALEN\Desktop\methods\METHODS EXERCISE\methods exercise\10. Cube Properties\obj\Debug\910. Cube Properties.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\methods\METHODS EXERCISE\methods exercise\10. Cube Properties\obj\Debug\_10.Cube_Properties.exe
+C:\Users\ALEN\Desktop\methods\METHODS EXERCISE\methods exercise\10. Cube Properties\obj\Debug\_10.Cube_Properties.pdb
+C:\Users\ALEN\Desktop\FUNDAMENT\3 methods\METHODS EXERCISE\methods exercise\10. Cube Properties\bin\Debug\_10.Cube_Properties.exe.config
+C:\Users\ALEN\Desktop\FUNDAMENT\3 methods\METHODS EXERCISE\methods exercise\10. Cube Properties\obj\Debug\_10.Cube_Properties.exe
+C:\Users\ALEN\Desktop\FUNDAMENT\3 methods\METHODS EXERCISE\methods exercise\10. Cube Properties\obj\Debug\_10.Cube_Properties.pdb

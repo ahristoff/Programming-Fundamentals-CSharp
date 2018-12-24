@@ -1,0 +1,15 @@
+C:\Users\ALEN\Desktop\lecture 1\EXERCISE\Problem 1. Choose a Drink\bin\Debug\Problem_1.Choose_a_Drink.exe.config
+C:\Users\ALEN\Desktop\FUNDAMENT\1 lecture exercise\EXERCISE\Problem 1. Choose a Drink\bin\Debug\Problem_1.Choose_a_Drink.exe.config
+C:\Users\ALEN\Desktop\FUNDAMENTALS\1 lecture exercise\EXERCISE\Problem 1. Choose a Drink\bin\Debug\Problem_1.Choose_a_Drink.exe.config
+C:\Users\ALEN\Desktop\FUNDAMENTALS\1 lecture exercise\EXERCISE\Problem 1. Choose a Drink\bin\Debug\Problem_1.Choose_a_Drink.exe
+C:\Users\ALEN\Desktop\FUNDAMENTALS\1 lecture exercise\EXERCISE\Problem 1. Choose a Drink\bin\Debug\Problem_1.Choose_a_Drink.pdb
+C:\Users\ALEN\Desktop\FUNDAMENTALS\1 lecture exercise\EXERCISE\Problem 1. Choose a Drink\obj\Debug\Problem 1. Choose a Drink.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\FUNDAMENTALS\1 lecture exercise\EXERCISE\Problem 1. Choose a Drink\obj\Debug\Problem_1.Choose_a_Drink.exe
+C:\Users\ALEN\Desktop\FUNDAMENTALS\1 lecture exercise\EXERCISE\Problem 1. Choose a Drink\obj\Debug\Problem_1.Choose_a_Drink.pdb
+C:\Users\ALEN\Desktop\FUNDAMENTALS\1 lecture exercise\Exrcises\Problem 1. Choose a Drink\bin\Debug\Problem_1.Choose_a_Drink.exe.config
+C:\Users\ALEN\Desktop\FUNDAMENTALS\1 lecture exercise\Exrcises\Problem 1. Choose a Drink\bin\Debug\Problem_1.Choose_a_Drink.exe
+C:\Users\ALEN\Desktop\FUNDAMENTALS\1 lecture exercise\Exrcises\Problem 1. Choose a Drink\bin\Debug\Problem_1.Choose_a_Drink.pdb
+C:\Users\ALEN\Desktop\FUNDAMENTALS\1 lecture exercise\Exrcises\Problem 1. Choose a Drink\obj\Debug\Problem 1. Choose a Drink.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\FUNDAMENTALS\1 lecture exercise\Exrcises\Problem 1. Choose a Drink\obj\Debug\Problem 1. Choose a Drink.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\FUNDAMENTALS\1 lecture exercise\Exrcises\Problem 1. Choose a Drink\obj\Debug\Problem_1.Choose_a_Drink.exe
+C:\Users\ALEN\Desktop\FUNDAMENTALS\1 lecture exercise\Exrcises\Problem 1. Choose a Drink\obj\Debug\Problem_1.Choose_a_Drink.pdb

@@ -1,0 +1,10 @@
+C:\Users\ALEN\Desktop\DICTIONARY\DICTIONARY LAB\DICTIONARY LAB\4. Largest 3 Numbers\bin\Debug\_4.Largest_3_Numbers.exe.config
+C:\Users\ALEN\Desktop\DICTIONARY\DICTIONARY LAB\DICTIONARY LAB\4. Largest 3 Numbers\bin\Debug\_4.Largest_3_Numbers.exe
+C:\Users\ALEN\Desktop\DICTIONARY\DICTIONARY LAB\DICTIONARY LAB\4. Largest 3 Numbers\bin\Debug\_4.Largest_3_Numbers.pdb
+C:\Users\ALEN\Desktop\DICTIONARY\DICTIONARY LAB\DICTIONARY LAB\4. Largest 3 Numbers\obj\Debug\_4.Largest_3_Numbers.exe
+C:\Users\ALEN\Desktop\DICTIONARY\DICTIONARY LAB\DICTIONARY LAB\4. Largest 3 Numbers\obj\Debug\_4.Largest_3_Numbers.pdb
+C:\Users\ALEN\Desktop\FUNDAMENTALS\6 DICTIONARY\DICTIONARY LAB\DICTIONARY LAB\4. Largest 3 Numbers\bin\Debug\_4.Largest_3_Numbers.exe.config
+C:\Users\ALEN\Desktop\FUNDAMENTALS\6 DICTIONARY\DICTIONARY LAB\DICTIONARY LAB\4. Largest 3 Numbers\bin\Debug\_4.Largest_3_Numbers.exe
+C:\Users\ALEN\Desktop\FUNDAMENTALS\6 DICTIONARY\DICTIONARY LAB\DICTIONARY LAB\4. Largest 3 Numbers\bin\Debug\_4.Largest_3_Numbers.pdb
+C:\Users\ALEN\Desktop\FUNDAMENTALS\6 DICTIONARY\DICTIONARY LAB\DICTIONARY LAB\4. Largest 3 Numbers\obj\Debug\_4.Largest_3_Numbers.exe
+C:\Users\ALEN\Desktop\FUNDAMENTALS\6 DICTIONARY\DICTIONARY LAB\DICTIONARY LAB\4. Largest 3 Numbers\obj\Debug\_4.Largest_3_Numbers.pdb

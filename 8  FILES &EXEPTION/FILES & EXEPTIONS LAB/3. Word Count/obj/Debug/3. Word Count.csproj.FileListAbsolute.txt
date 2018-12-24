@@ -1,0 +1,13 @@
+C:\Users\ALEN\Desktop\FUNDAMENTALS\8  FILES &EXEPTION\F&EXEPTION LAB\F and EXEPTION LAB\3. Word Count\bin\Debug\_3.Word_Count.exe.config
+C:\Users\ALEN\Desktop\FUNDAMENTALS\8  FILES &EXEPTION\F&EXEPTION LAB\F and EXEPTION LAB\3. Word Count\bin\Debug\_3.Word_Count.exe
+C:\Users\ALEN\Desktop\FUNDAMENTALS\8  FILES &EXEPTION\F&EXEPTION LAB\F and EXEPTION LAB\3. Word Count\bin\Debug\_3.Word_Count.pdb
+C:\Users\ALEN\Desktop\FUNDAMENTALS\8  FILES &EXEPTION\F&EXEPTION LAB\F and EXEPTION LAB\3. Word Count\obj\Debug\3. Word Count.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\FUNDAMENTALS\8  FILES &EXEPTION\F&EXEPTION LAB\F and EXEPTION LAB\3. Word Count\obj\Debug\_3.Word_Count.exe
+C:\Users\ALEN\Desktop\FUNDAMENTALS\8  FILES &EXEPTION\F&EXEPTION LAB\F and EXEPTION LAB\3. Word Count\obj\Debug\_3.Word_Count.pdb
+C:\Users\ALEN\Desktop\FUNDAMENTALS\8  FILES &EXEPTION\FILES & EXEPTIONS LAB\3. Word Count\bin\Debug\_3.Word_Count.exe.config
+C:\Users\ALEN\Desktop\FUNDAMENTALS\8  FILES &EXEPTION\FILES & EXEPTIONS LAB\3. Word Count\bin\Debug\_3.Word_Count.exe
+C:\Users\ALEN\Desktop\FUNDAMENTALS\8  FILES &EXEPTION\FILES & EXEPTIONS LAB\3. Word Count\bin\Debug\_3.Word_Count.pdb
+C:\Users\ALEN\Desktop\FUNDAMENTALS\8  FILES &EXEPTION\FILES & EXEPTIONS LAB\3. Word Count\obj\Debug\3. Word Count.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\FUNDAMENTALS\8  FILES &EXEPTION\FILES & EXEPTIONS LAB\3. Word Count\obj\Debug\3. Word Count.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\FUNDAMENTALS\8  FILES &EXEPTION\FILES & EXEPTIONS LAB\3. Word Count\obj\Debug\_3.Word_Count.exe
+C:\Users\ALEN\Desktop\FUNDAMENTALS\8  FILES &EXEPTION\FILES & EXEPTIONS LAB\3. Word Count\obj\Debug\_3.Word_Count.pdb

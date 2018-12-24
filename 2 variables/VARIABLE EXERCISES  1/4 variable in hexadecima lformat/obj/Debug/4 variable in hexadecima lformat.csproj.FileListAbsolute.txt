@@ -1,0 +1,8 @@
+C:\Users\ALEN\Desktop\variable\VARIABLE EXERCISE\4 variable in hexadecima lformat\bin\Debug\4 variable in hexadecima lformat.exe.config
+C:\Users\ALEN\Desktop\variable\VARIABLE EXERCISE\4 variable in hexadecima lformat\bin\Debug\4 variable in hexadecima lformat.exe
+C:\Users\ALEN\Desktop\variable\VARIABLE EXERCISE\4 variable in hexadecima lformat\bin\Debug\4 variable in hexadecima lformat.pdb
+C:\Users\ALEN\Desktop\variable\VARIABLE EXERCISE\4 variable in hexadecima lformat\obj\Debug\4 variable in hexadecima lformat.exe
+C:\Users\ALEN\Desktop\variable\VARIABLE EXERCISE\4 variable in hexadecima lformat\obj\Debug\4 variable in hexadecima lformat.pdb
+C:\Users\ALEN\Desktop\FUNDAMENT\2 variables\VARIABLE EXERCISE  1\4 variable in hexadecima lformat\bin\Debug\4 variable in hexadecima lformat.exe.config
+C:\Users\ALEN\Desktop\FUNDAMENT\2 variables\VARIABLE EXERCISE  1\4 variable in hexadecima lformat\obj\Debug\4 variable in hexadecima lformat.exe
+C:\Users\ALEN\Desktop\FUNDAMENT\2 variables\VARIABLE EXERCISE  1\4 variable in hexadecima lformat\obj\Debug\4 variable in hexadecima lformat.pdb

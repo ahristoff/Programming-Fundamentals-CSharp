@@ -1,0 +1,13 @@
+C:\Users\ALEN\Desktop\FUNDAMENTALS\910 REGEX\REGEX LAB\REGEX LAB\5. Match Numbers\bin\Debug\_5.Match_Numbers.exe.config
+C:\Users\ALEN\Desktop\FUNDAMENTALS\910 REGEX\REGEX LAB\REGEX LAB\5. Match Numbers\bin\Debug\_5.Match_Numbers.exe
+C:\Users\ALEN\Desktop\FUNDAMENTALS\910 REGEX\REGEX LAB\REGEX LAB\5. Match Numbers\bin\Debug\_5.Match_Numbers.pdb
+C:\Users\ALEN\Desktop\FUNDAMENTALS\910 REGEX\REGEX LAB\REGEX LAB\5. Match Numbers\obj\Debug\5. Match Numbers.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\FUNDAMENTALS\910 REGEX\REGEX LAB\REGEX LAB\5. Match Numbers\obj\Debug\_5.Match_Numbers.exe
+C:\Users\ALEN\Desktop\FUNDAMENTALS\910 REGEX\REGEX LAB\REGEX LAB\5. Match Numbers\obj\Debug\_5.Match_Numbers.pdb
+C:\Users\ALEN\Desktop\FUNDAMENTALS\910 REGEX\REGEX LAB\5. Match Numbers\bin\Debug\_5.Match_Numbers.exe.config
+C:\Users\ALEN\Desktop\FUNDAMENTALS\910 REGEX\REGEX LAB\5. Match Numbers\bin\Debug\_5.Match_Numbers.exe
+C:\Users\ALEN\Desktop\FUNDAMENTALS\910 REGEX\REGEX LAB\5. Match Numbers\bin\Debug\_5.Match_Numbers.pdb
+C:\Users\ALEN\Desktop\FUNDAMENTALS\910 REGEX\REGEX LAB\5. Match Numbers\obj\Debug\5. Match Numbers.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\FUNDAMENTALS\910 REGEX\REGEX LAB\5. Match Numbers\obj\Debug\5. Match Numbers.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\FUNDAMENTALS\910 REGEX\REGEX LAB\5. Match Numbers\obj\Debug\_5.Match_Numbers.exe
+C:\Users\ALEN\Desktop\FUNDAMENTALS\910 REGEX\REGEX LAB\5. Match Numbers\obj\Debug\_5.Match_Numbers.pdb

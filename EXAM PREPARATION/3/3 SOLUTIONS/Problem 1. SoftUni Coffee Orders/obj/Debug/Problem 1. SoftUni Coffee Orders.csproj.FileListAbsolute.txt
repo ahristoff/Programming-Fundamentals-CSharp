@@ -1,0 +1,7 @@
+C:\Users\ALEN\Desktop\FUNDAMENTALS\EXAM PREPARATION\3\3 SOLUTIONS\Problem 1. SoftUni Coffee Orders\bin\Debug\Problem_1.SoftUni_Coffee_Orders.exe.config
+C:\Users\ALEN\Desktop\FUNDAMENTALS\EXAM PREPARATION\3\3 SOLUTIONS\Problem 1. SoftUni Coffee Orders\bin\Debug\Problem_1.SoftUni_Coffee_Orders.exe
+C:\Users\ALEN\Desktop\FUNDAMENTALS\EXAM PREPARATION\3\3 SOLUTIONS\Problem 1. SoftUni Coffee Orders\bin\Debug\Problem_1.SoftUni_Coffee_Orders.pdb
+C:\Users\ALEN\Desktop\FUNDAMENTALS\EXAM PREPARATION\3\3 SOLUTIONS\Problem 1. SoftUni Coffee Orders\obj\Debug\Problem 1. SoftUni Coffee Orders.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\FUNDAMENTALS\EXAM PREPARATION\3\3 SOLUTIONS\Problem 1. SoftUni Coffee Orders\obj\Debug\Problem 1. SoftUni Coffee Orders.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\FUNDAMENTALS\EXAM PREPARATION\3\3 SOLUTIONS\Problem 1. SoftUni Coffee Orders\obj\Debug\Problem_1.SoftUni_Coffee_Orders.exe
+C:\Users\ALEN\Desktop\FUNDAMENTALS\EXAM PREPARATION\3\3 SOLUTIONS\Problem 1. SoftUni Coffee Orders\obj\Debug\Problem_1.SoftUni_Coffee_Orders.pdb

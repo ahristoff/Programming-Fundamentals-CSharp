@@ -1,0 +1,6 @@
+C:\Users\ALEN\Desktop\7 CLASSES\CLASSES LAB\LAB\4. Distance Between Points\bin\Debug\_4.Distance_Between_Points.exe.config
+C:\Users\ALEN\Desktop\7 CLASSES\CLASSES LAB\LAB\4. Distance Between Points\bin\Debug\_4.Distance_Between_Points.exe
+C:\Users\ALEN\Desktop\7 CLASSES\CLASSES LAB\LAB\4. Distance Between Points\bin\Debug\_4.Distance_Between_Points.pdb
+C:\Users\ALEN\Desktop\7 CLASSES\CLASSES LAB\LAB\4. Distance Between Points\obj\Debug\4. Distance Between Points.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\7 CLASSES\CLASSES LAB\LAB\4. Distance Between Points\obj\Debug\_4.Distance_Between_Points.exe
+C:\Users\ALEN\Desktop\7 CLASSES\CLASSES LAB\LAB\4. Distance Between Points\obj\Debug\_4.Distance_Between_Points.pdb

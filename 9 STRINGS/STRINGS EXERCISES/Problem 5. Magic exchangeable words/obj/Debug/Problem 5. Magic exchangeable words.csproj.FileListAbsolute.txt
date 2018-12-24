@@ -1,0 +1,6 @@
+C:\Users\ALEN\Desktop\FUNDAMENTALS\9 STRINGS\STRINGS EXERSICE\STRINGS\Problem 5. Magic exchangeable words\bin\Debug\Problem_5.Magic_exchangeable_words.exe.config
+C:\Users\ALEN\Desktop\FUNDAMENTALS\9 STRINGS\STRINGS EXERSICE\STRINGS\Problem 5. Magic exchangeable words\bin\Debug\Problem_5.Magic_exchangeable_words.exe
+C:\Users\ALEN\Desktop\FUNDAMENTALS\9 STRINGS\STRINGS EXERSICE\STRINGS\Problem 5. Magic exchangeable words\bin\Debug\Problem_5.Magic_exchangeable_words.pdb
+C:\Users\ALEN\Desktop\FUNDAMENTALS\9 STRINGS\STRINGS EXERSICE\STRINGS\Problem 5. Magic exchangeable words\obj\Debug\Problem 5. Magic exchangeable words.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\FUNDAMENTALS\9 STRINGS\STRINGS EXERSICE\STRINGS\Problem 5. Magic exchangeable words\obj\Debug\Problem_5.Magic_exchangeable_words.exe
+C:\Users\ALEN\Desktop\FUNDAMENTALS\9 STRINGS\STRINGS EXERSICE\STRINGS\Problem 5. Magic exchangeable words\obj\Debug\Problem_5.Magic_exchangeable_words.pdb

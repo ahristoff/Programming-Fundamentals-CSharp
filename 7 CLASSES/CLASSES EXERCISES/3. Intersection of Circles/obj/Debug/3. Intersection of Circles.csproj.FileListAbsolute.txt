@@ -1,0 +1,16 @@
+C:\Users\ALEN\Desktop\7 CLASSES\CLASSES EXERSICE\classes exersice\3. Intersection of Circles\bin\Debug\_3.Intersection_of_Circles.exe.config
+C:\Users\ALEN\Desktop\7 CLASSES\CLASSES EXERSICE\classes exersice\3. Intersection of Circles\bin\Debug\_3.Intersection_of_Circles.exe
+C:\Users\ALEN\Desktop\7 CLASSES\CLASSES EXERSICE\classes exersice\3. Intersection of Circles\bin\Debug\_3.Intersection_of_Circles.pdb
+C:\Users\ALEN\Desktop\7 CLASSES\CLASSES EXERSICE\classes exersice\3. Intersection of Circles\obj\Debug\3. Intersection of Circles.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\7 CLASSES\CLASSES EXERSICE\classes exersice\3. Intersection of Circles\obj\Debug\_3.Intersection_of_Circles.exe
+C:\Users\ALEN\Desktop\7 CLASSES\CLASSES EXERSICE\classes exersice\3. Intersection of Circles\obj\Debug\_3.Intersection_of_Circles.pdb
+C:\Users\ALEN\Desktop\FUNDAMENT\7 CLASSES\CLASSES EXERSICE\classes exersice\3. Intersection of Circles\bin\Debug\_3.Intersection_of_Circles.exe.config
+C:\Users\ALEN\Desktop\FUNDAMENT\7 CLASSES\CLASSES EXERSICE\classes exersice\3. Intersection of Circles\obj\Debug\_3.Intersection_of_Circles.exe
+C:\Users\ALEN\Desktop\FUNDAMENT\7 CLASSES\CLASSES EXERSICE\classes exersice\3. Intersection of Circles\obj\Debug\_3.Intersection_of_Circles.pdb
+C:\Users\ALEN\Desktop\FUNDAMENTALS\7 CLASSES\CLASSES EXERCISES\3. Intersection of Circles\bin\Debug\_3.Intersection_of_Circles.exe.config
+C:\Users\ALEN\Desktop\FUNDAMENTALS\7 CLASSES\CLASSES EXERCISES\3. Intersection of Circles\bin\Debug\_3.Intersection_of_Circles.exe
+C:\Users\ALEN\Desktop\FUNDAMENTALS\7 CLASSES\CLASSES EXERCISES\3. Intersection of Circles\bin\Debug\_3.Intersection_of_Circles.pdb
+C:\Users\ALEN\Desktop\FUNDAMENTALS\7 CLASSES\CLASSES EXERCISES\3. Intersection of Circles\obj\Debug\3. Intersection of Circles.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\FUNDAMENTALS\7 CLASSES\CLASSES EXERCISES\3. Intersection of Circles\obj\Debug\3. Intersection of Circles.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\FUNDAMENTALS\7 CLASSES\CLASSES EXERCISES\3. Intersection of Circles\obj\Debug\_3.Intersection_of_Circles.exe
+C:\Users\ALEN\Desktop\FUNDAMENTALS\7 CLASSES\CLASSES EXERCISES\3. Intersection of Circles\obj\Debug\_3.Intersection_of_Circles.pdb

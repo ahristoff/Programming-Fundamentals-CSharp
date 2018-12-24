@@ -1,0 +1,6 @@
+C:\Users\ALEN\Desktop\FUNDAMENTALS\EXAM PREPARATION\3\3 SOLUTION\EXAM PREPARATION 3\Problem 4. Files\bin\Debug\Problem_4.Files.exe.config
+C:\Users\ALEN\Desktop\FUNDAMENTALS\EXAM PREPARATION\3\3 SOLUTION\EXAM PREPARATION 3\Problem 4. Files\bin\Debug\Problem_4.Files.exe
+C:\Users\ALEN\Desktop\FUNDAMENTALS\EXAM PREPARATION\3\3 SOLUTION\EXAM PREPARATION 3\Problem 4. Files\bin\Debug\Problem_4.Files.pdb
+C:\Users\ALEN\Desktop\FUNDAMENTALS\EXAM PREPARATION\3\3 SOLUTION\EXAM PREPARATION 3\Problem 4. Files\obj\Debug\Problem 4. Files.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\FUNDAMENTALS\EXAM PREPARATION\3\3 SOLUTION\EXAM PREPARATION 3\Problem 4. Files\obj\Debug\Problem_4.Files.exe
+C:\Users\ALEN\Desktop\FUNDAMENTALS\EXAM PREPARATION\3\3 SOLUTION\EXAM PREPARATION 3\Problem 4. Files\obj\Debug\Problem_4.Files.pdb

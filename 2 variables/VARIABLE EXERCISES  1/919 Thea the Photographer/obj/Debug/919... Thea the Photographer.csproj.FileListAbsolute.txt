@@ -1,0 +1,10 @@
+C:\Users\ALEN\Desktop\FUNDAMENT\2 variables\VARIABLE EXERCISE\919 Thea the Photographer\bin\Debug\919 Thea the Photographer.exe.config
+C:\Users\ALEN\Desktop\FUNDAMENT\2 variables\VARIABLE EXERCISE\919 Thea the Photographer\obj\Debug\919 Thea the Photographer.exe
+C:\Users\ALEN\Desktop\FUNDAMENT\2 variables\VARIABLE EXERCISE\919 Thea the Photographer\obj\Debug\919 Thea the Photographer.pdb
+C:\Users\ALEN\Desktop\FUNDAMENT\2 variables\VARIABLE EXERCISE\919 Thea the Photographer\bin\Debug\919 Thea the Photographer.exe
+C:\Users\ALEN\Desktop\FUNDAMENT\2 variables\VARIABLE EXERCISE\919 Thea the Photographer\bin\Debug\919 Thea the Photographer.pdb
+C:\Users\ALEN\Desktop\FUNDAMENT\2 variables\VARIABLE EXERCISE  1\919 Thea the Photographer\bin\Debug\919 Thea the Photographer.exe.config
+C:\Users\ALEN\Desktop\FUNDAMENT\2 variables\VARIABLE EXERCISE  1\919 Thea the Photographer\obj\Debug\919 Thea the Photographer.exe
+C:\Users\ALEN\Desktop\FUNDAMENT\2 variables\VARIABLE EXERCISE  1\919 Thea the Photographer\obj\Debug\919 Thea the Photographer.pdb
+C:\Users\ALEN\Desktop\FUNDAMENT\2 variables\VARIABLE EXERCISE  1\919 Thea the Photographer\bin\Debug\919 Thea the Photographer.exe
+C:\Users\ALEN\Desktop\FUNDAMENT\2 variables\VARIABLE EXERCISE  1\919 Thea the Photographer\bin\Debug\919 Thea the Photographer.pdb

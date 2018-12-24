@@ -1,0 +1,6 @@
+C:\Users\ALEN\Desktop\FUNDAMENTALS\6 DICTIONARY\DICTIONARY EXERSICE\DICTIONARY EXERSICE\8. - Logs Aggregator\bin\Debug\_8.__Logs_Aggregator.exe.config
+C:\Users\ALEN\Desktop\FUNDAMENTALS\6 DICTIONARY\DICTIONARY EXERSICE\DICTIONARY EXERSICE\8. - Logs Aggregator\bin\Debug\_8.__Logs_Aggregator.exe
+C:\Users\ALEN\Desktop\FUNDAMENTALS\6 DICTIONARY\DICTIONARY EXERSICE\DICTIONARY EXERSICE\8. - Logs Aggregator\bin\Debug\_8.__Logs_Aggregator.pdb
+C:\Users\ALEN\Desktop\FUNDAMENTALS\6 DICTIONARY\DICTIONARY EXERSICE\DICTIONARY EXERSICE\8. - Logs Aggregator\obj\Debug\8. - Logs Aggregator.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\FUNDAMENTALS\6 DICTIONARY\DICTIONARY EXERSICE\DICTIONARY EXERSICE\8. - Logs Aggregator\obj\Debug\_8.__Logs_Aggregator.exe
+C:\Users\ALEN\Desktop\FUNDAMENTALS\6 DICTIONARY\DICTIONARY EXERSICE\DICTIONARY EXERSICE\8. - Logs Aggregator\obj\Debug\_8.__Logs_Aggregator.pdb

@@ -1,0 +1,6 @@
+C:\Users\ALEN\Desktop\FUNDAMENTALS\8  FILES &EXEPTION\F&EXEPTION LAB\F and EXEPTION LAB\4. Merge Files\bin\Debug\_4.Merge_Files.exe.config
+C:\Users\ALEN\Desktop\FUNDAMENTALS\8  FILES &EXEPTION\F&EXEPTION LAB\F and EXEPTION LAB\4. Merge Files\bin\Debug\_4.Merge_Files.exe
+C:\Users\ALEN\Desktop\FUNDAMENTALS\8  FILES &EXEPTION\F&EXEPTION LAB\F and EXEPTION LAB\4. Merge Files\bin\Debug\_4.Merge_Files.pdb
+C:\Users\ALEN\Desktop\FUNDAMENTALS\8  FILES &EXEPTION\F&EXEPTION LAB\F and EXEPTION LAB\4. Merge Files\obj\Debug\4. Merge Files.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\FUNDAMENTALS\8  FILES &EXEPTION\F&EXEPTION LAB\F and EXEPTION LAB\4. Merge Files\obj\Debug\_4.Merge_Files.exe
+C:\Users\ALEN\Desktop\FUNDAMENTALS\8  FILES &EXEPTION\F&EXEPTION LAB\F and EXEPTION LAB\4. Merge Files\obj\Debug\_4.Merge_Files.pdb

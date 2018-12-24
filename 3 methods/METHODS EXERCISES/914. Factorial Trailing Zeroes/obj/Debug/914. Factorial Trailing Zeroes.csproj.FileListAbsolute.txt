@@ -1,0 +1,12 @@
+C:\Users\ALEN\Desktop\methods\METHODS EXERCISE\methods exercise\914. Factorial Trailing Zeroes\bin\Debug\_914.Factorial_Trailing_Zeroes.exe.config
+C:\Users\ALEN\Desktop\methods\METHODS EXERCISE\methods exercise\914. Factorial Trailing Zeroes\obj\Debug\914. Factorial Trailing Zeroes.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\methods\METHODS EXERCISE\methods exercise\914. Factorial Trailing Zeroes\bin\Debug\_914.Factorial_Trailing_Zeroes.exe
+C:\Users\ALEN\Desktop\methods\METHODS EXERCISE\methods exercise\914. Factorial Trailing Zeroes\bin\Debug\_914.Factorial_Trailing_Zeroes.pdb
+C:\Users\ALEN\Desktop\methods\METHODS EXERCISE\methods exercise\914. Factorial Trailing Zeroes\obj\Debug\_914.Factorial_Trailing_Zeroes.exe
+C:\Users\ALEN\Desktop\methods\METHODS EXERCISE\methods exercise\914. Factorial Trailing Zeroes\obj\Debug\_914.Factorial_Trailing_Zeroes.pdb
+C:\Users\ALEN\Desktop\FUNDAMENTALS\3 methods\METHODS EXERCISE\methods exercise\914. Factorial Trailing Zeroes\bin\Debug\_914.Factorial_Trailing_Zeroes.exe.config
+C:\Users\ALEN\Desktop\FUNDAMENTALS\3 methods\METHODS EXERCISE\methods exercise\914. Factorial Trailing Zeroes\bin\Debug\_914.Factorial_Trailing_Zeroes.exe
+C:\Users\ALEN\Desktop\FUNDAMENTALS\3 methods\METHODS EXERCISE\methods exercise\914. Factorial Trailing Zeroes\bin\Debug\_914.Factorial_Trailing_Zeroes.pdb
+C:\Users\ALEN\Desktop\FUNDAMENTALS\3 methods\METHODS EXERCISE\methods exercise\914. Factorial Trailing Zeroes\obj\Debug\914. Factorial Trailing Zeroes.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\FUNDAMENTALS\3 methods\METHODS EXERCISE\methods exercise\914. Factorial Trailing Zeroes\obj\Debug\_914.Factorial_Trailing_Zeroes.exe
+C:\Users\ALEN\Desktop\FUNDAMENTALS\3 methods\METHODS EXERCISE\methods exercise\914. Factorial Trailing Zeroes\obj\Debug\_914.Factorial_Trailing_Zeroes.pdb

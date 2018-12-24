@@ -1,0 +1,9 @@
+C:\Users\ALEN\Desktop\methods\METHODS EXERCISE\methods exercise\911. Geometry Calculator\bin\Debug\_911.Geometry_Calculator.exe.config
+C:\Users\ALEN\Desktop\methods\METHODS EXERCISE\methods exercise\911. Geometry Calculator\bin\Debug\_911.Geometry_Calculator.exe
+C:\Users\ALEN\Desktop\methods\METHODS EXERCISE\methods exercise\911. Geometry Calculator\bin\Debug\_911.Geometry_Calculator.pdb
+C:\Users\ALEN\Desktop\methods\METHODS EXERCISE\methods exercise\911. Geometry Calculator\obj\Debug\911. Geometry Calculator.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\methods\METHODS EXERCISE\methods exercise\911. Geometry Calculator\obj\Debug\_911.Geometry_Calculator.exe
+C:\Users\ALEN\Desktop\methods\METHODS EXERCISE\methods exercise\911. Geometry Calculator\obj\Debug\_911.Geometry_Calculator.pdb
+C:\Users\ALEN\Desktop\FUNDAMENT\3 methods\METHODS EXERCISE\methods exercise\911. Geometry Calculator\bin\Debug\_911.Geometry_Calculator.exe.config
+C:\Users\ALEN\Desktop\FUNDAMENT\3 methods\METHODS EXERCISE\methods exercise\911. Geometry Calculator\obj\Debug\_911.Geometry_Calculator.exe
+C:\Users\ALEN\Desktop\FUNDAMENT\3 methods\METHODS EXERCISE\methods exercise\911. Geometry Calculator\obj\Debug\_911.Geometry_Calculator.pdb

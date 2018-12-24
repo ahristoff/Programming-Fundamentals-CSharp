@@ -1,0 +1,9 @@
+C:\Users\ALEN\Desktop\lecture 1\EXERCISE\Problem 6. Interval of Numbers\bin\Debug\Problem_6.Interval_of_Numbers.exe.config
+C:\Users\ALEN\Desktop\lecture 1\EXERCISE\Problem 6. Interval of Numbers\bin\Debug\Problem_6.Interval_of_Numbers.exe
+C:\Users\ALEN\Desktop\lecture 1\EXERCISE\Problem 6. Interval of Numbers\bin\Debug\Problem_6.Interval_of_Numbers.pdb
+C:\Users\ALEN\Desktop\lecture 1\EXERCISE\Problem 6. Interval of Numbers\obj\Debug\Problem 6. Interval of Numbers.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\lecture 1\EXERCISE\Problem 6. Interval of Numbers\obj\Debug\Problem_6.Interval_of_Numbers.exe
+C:\Users\ALEN\Desktop\lecture 1\EXERCISE\Problem 6. Interval of Numbers\obj\Debug\Problem_6.Interval_of_Numbers.pdb
+C:\Users\ALEN\Desktop\FUNDAMENT\1 lecture exercise\EXERCISE\Problem 6. Interval of Numbers\bin\Debug\Problem_6.Interval_of_Numbers.exe.config
+C:\Users\ALEN\Desktop\FUNDAMENT\1 lecture exercise\EXERCISE\Problem 6. Interval of Numbers\obj\Debug\Problem_6.Interval_of_Numbers.exe
+C:\Users\ALEN\Desktop\FUNDAMENT\1 lecture exercise\EXERCISE\Problem 6. Interval of Numbers\obj\Debug\Problem_6.Interval_of_Numbers.pdb

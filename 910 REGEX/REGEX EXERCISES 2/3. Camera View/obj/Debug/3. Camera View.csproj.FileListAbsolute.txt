@@ -1,0 +1,13 @@
+C:\Users\ALEN\Desktop\FUNDAMENTALS\910 REGEX\REGEX EXERSICE\REGEX EXERSISE\3. Camera View\bin\Debug\_3.Camera_View.exe.config
+C:\Users\ALEN\Desktop\FUNDAMENTALS\910 REGEX\REGEX EXERSICE\REGEX EXERSISE\3. Camera View\bin\Debug\_3.Camera_View.exe
+C:\Users\ALEN\Desktop\FUNDAMENTALS\910 REGEX\REGEX EXERSICE\REGEX EXERSISE\3. Camera View\bin\Debug\_3.Camera_View.pdb
+C:\Users\ALEN\Desktop\FUNDAMENTALS\910 REGEX\REGEX EXERSICE\REGEX EXERSISE\3. Camera View\obj\Debug\3. Camera View.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\FUNDAMENTALS\910 REGEX\REGEX EXERSICE\REGEX EXERSISE\3. Camera View\obj\Debug\_3.Camera_View.exe
+C:\Users\ALEN\Desktop\FUNDAMENTALS\910 REGEX\REGEX EXERSICE\REGEX EXERSISE\3. Camera View\obj\Debug\_3.Camera_View.pdb
+C:\Users\ALEN\Desktop\FUNDAMENTALS\910 REGEX\REGEX EXERCISES 2\3. Camera View\bin\Debug\_3.Camera_View.exe.config
+C:\Users\ALEN\Desktop\FUNDAMENTALS\910 REGEX\REGEX EXERCISES 2\3. Camera View\bin\Debug\_3.Camera_View.exe
+C:\Users\ALEN\Desktop\FUNDAMENTALS\910 REGEX\REGEX EXERCISES 2\3. Camera View\bin\Debug\_3.Camera_View.pdb
+C:\Users\ALEN\Desktop\FUNDAMENTALS\910 REGEX\REGEX EXERCISES 2\3. Camera View\obj\Debug\3. Camera View.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\FUNDAMENTALS\910 REGEX\REGEX EXERCISES 2\3. Camera View\obj\Debug\3. Camera View.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\FUNDAMENTALS\910 REGEX\REGEX EXERCISES 2\3. Camera View\obj\Debug\_3.Camera_View.exe
+C:\Users\ALEN\Desktop\FUNDAMENTALS\910 REGEX\REGEX EXERCISES 2\3. Camera View\obj\Debug\_3.Camera_View.pdb

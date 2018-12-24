@@ -1,0 +1,13 @@
+C:\Users\ALEN\Desktop\FUNDAMENTALS\910 REGEX\REGEX EXERSICE 1\REGEX EXERSICE 1\2. Email Me\bin\Debug\_2.Email_Me.exe.config
+C:\Users\ALEN\Desktop\FUNDAMENTALS\910 REGEX\REGEX EXERSICE 1\REGEX EXERSICE 1\2. Email Me\bin\Debug\_2.Email_Me.exe
+C:\Users\ALEN\Desktop\FUNDAMENTALS\910 REGEX\REGEX EXERSICE 1\REGEX EXERSICE 1\2. Email Me\bin\Debug\_2.Email_Me.pdb
+C:\Users\ALEN\Desktop\FUNDAMENTALS\910 REGEX\REGEX EXERSICE 1\REGEX EXERSICE 1\2. Email Me\obj\Debug\2. Email Me.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\FUNDAMENTALS\910 REGEX\REGEX EXERSICE 1\REGEX EXERSICE 1\2. Email Me\obj\Debug\_2.Email_Me.exe
+C:\Users\ALEN\Desktop\FUNDAMENTALS\910 REGEX\REGEX EXERSICE 1\REGEX EXERSICE 1\2. Email Me\obj\Debug\_2.Email_Me.pdb
+C:\Users\ALEN\Desktop\FUNDAMENTALS\910 REGEX\REGEX EXERCISES 1\2. Email Me\bin\Debug\_2.Email_Me.exe.config
+C:\Users\ALEN\Desktop\FUNDAMENTALS\910 REGEX\REGEX EXERCISES 1\2. Email Me\bin\Debug\_2.Email_Me.exe
+C:\Users\ALEN\Desktop\FUNDAMENTALS\910 REGEX\REGEX EXERCISES 1\2. Email Me\bin\Debug\_2.Email_Me.pdb
+C:\Users\ALEN\Desktop\FUNDAMENTALS\910 REGEX\REGEX EXERCISES 1\2. Email Me\obj\Debug\2. Email Me.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\FUNDAMENTALS\910 REGEX\REGEX EXERCISES 1\2. Email Me\obj\Debug\2. Email Me.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\FUNDAMENTALS\910 REGEX\REGEX EXERCISES 1\2. Email Me\obj\Debug\_2.Email_Me.exe
+C:\Users\ALEN\Desktop\FUNDAMENTALS\910 REGEX\REGEX EXERCISES 1\2. Email Me\obj\Debug\_2.Email_Me.pdb

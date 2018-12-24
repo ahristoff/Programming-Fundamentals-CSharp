@@ -1,0 +1,11 @@
+C:\Users\ALEN\Desktop\FUNDAMENTALS\2 variables\VARIABLE EXERCISE  1\917. Print Part of the ASCII Table\bin\Debug\netcoreapp2.0\917. Print Part of the ASCII Table.deps.json
+C:\Users\ALEN\Desktop\FUNDAMENTALS\2 variables\VARIABLE EXERCISE  1\917. Print Part of the ASCII Table\bin\Debug\netcoreapp2.0\917. Print Part of the ASCII Table.runtimeconfig.json
+C:\Users\ALEN\Desktop\FUNDAMENTALS\2 variables\VARIABLE EXERCISE  1\917. Print Part of the ASCII Table\bin\Debug\netcoreapp2.0\917. Print Part of the ASCII Table.runtimeconfig.dev.json
+C:\Users\ALEN\Desktop\FUNDAMENTALS\2 variables\VARIABLE EXERCISE  1\917. Print Part of the ASCII Table\bin\Debug\netcoreapp2.0\917. Print Part of the ASCII Table.dll
+C:\Users\ALEN\Desktop\FUNDAMENTALS\2 variables\VARIABLE EXERCISE  1\917. Print Part of the ASCII Table\bin\Debug\netcoreapp2.0\917. Print Part of the ASCII Table.pdb
+C:\Users\ALEN\Desktop\FUNDAMENTALS\2 variables\VARIABLE EXERCISE  1\917. Print Part of the ASCII Table\obj\Debug\netcoreapp2.0\917. Print Part of the ASCII Table.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\FUNDAMENTALS\2 variables\VARIABLE EXERCISE  1\917. Print Part of the ASCII Table\obj\Debug\netcoreapp2.0\917. Print Part of the ASCII Table.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\FUNDAMENTALS\2 variables\VARIABLE EXERCISE  1\917. Print Part of the ASCII Table\obj\Debug\netcoreapp2.0\917. Print Part of the ASCII Table.AssemblyInfoInputs.cache
+C:\Users\ALEN\Desktop\FUNDAMENTALS\2 variables\VARIABLE EXERCISE  1\917. Print Part of the ASCII Table\obj\Debug\netcoreapp2.0\917. Print Part of the ASCII Table.AssemblyInfo.cs
+C:\Users\ALEN\Desktop\FUNDAMENTALS\2 variables\VARIABLE EXERCISE  1\917. Print Part of the ASCII Table\obj\Debug\netcoreapp2.0\917. Print Part of the ASCII Table.dll
+C:\Users\ALEN\Desktop\FUNDAMENTALS\2 variables\VARIABLE EXERCISE  1\917. Print Part of the ASCII Table\obj\Debug\netcoreapp2.0\917. Print Part of the ASCII Table.pdb

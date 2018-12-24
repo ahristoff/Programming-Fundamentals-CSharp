@@ -1,0 +1,8 @@
+C:\Users\ALEN\Desktop\variable\VARIABLE EXERCISE\915 Fast Prime Checker - Refactor\bin\Debug\915 Fast Prime Checker - Refactor.exe.config
+C:\Users\ALEN\Desktop\variable\VARIABLE EXERCISE\915 Fast Prime Checker - Refactor\bin\Debug\915 Fast Prime Checker - Refactor.exe
+C:\Users\ALEN\Desktop\variable\VARIABLE EXERCISE\915 Fast Prime Checker - Refactor\bin\Debug\915 Fast Prime Checker - Refactor.pdb
+C:\Users\ALEN\Desktop\variable\VARIABLE EXERCISE\915 Fast Prime Checker - Refactor\obj\Debug\915 Fast Prime Checker - Refactor.exe
+C:\Users\ALEN\Desktop\variable\VARIABLE EXERCISE\915 Fast Prime Checker - Refactor\obj\Debug\915 Fast Prime Checker - Refactor.pdb
+C:\Users\ALEN\Desktop\FUNDAMENT\2 variables\VARIABLE EXERCISE  1\915 Fast Prime Checker - Refactor\bin\Debug\915 Fast Prime Checker - Refactor.exe.config
+C:\Users\ALEN\Desktop\FUNDAMENT\2 variables\VARIABLE EXERCISE  1\915 Fast Prime Checker - Refactor\obj\Debug\915 Fast Prime Checker - Refactor.exe
+C:\Users\ALEN\Desktop\FUNDAMENT\2 variables\VARIABLE EXERCISE  1\915 Fast Prime Checker - Refactor\obj\Debug\915 Fast Prime Checker - Refactor.pdb

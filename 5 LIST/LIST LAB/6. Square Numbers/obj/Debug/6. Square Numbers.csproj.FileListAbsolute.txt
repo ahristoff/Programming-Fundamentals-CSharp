@@ -1,0 +1,15 @@
+C:\Users\ALEN\Desktop\LIST\LIST LAB\List LAB\6. Square Numbers\bin\Debug\_6.Square_Numbers.exe.config
+C:\Users\ALEN\Desktop\LIST\LIST LAB\List LAB\6. Square Numbers\bin\Debug\_6.Square_Numbers.exe
+C:\Users\ALEN\Desktop\LIST\LIST LAB\List LAB\6. Square Numbers\bin\Debug\_6.Square_Numbers.pdb
+C:\Users\ALEN\Desktop\LIST\LIST LAB\List LAB\6. Square Numbers\obj\Debug\_6.Square_Numbers.exe
+C:\Users\ALEN\Desktop\LIST\LIST LAB\List LAB\6. Square Numbers\obj\Debug\_6.Square_Numbers.pdb
+C:\Users\ALEN\Desktop\FUNDAMENT\LIST\LIST LAB\List LAB\6. Square Numbers\bin\Debug\_6.Square_Numbers.exe.config
+C:\Users\ALEN\Desktop\FUNDAMENT\LIST\LIST LAB\List LAB\6. Square Numbers\obj\Debug\_6.Square_Numbers.exe
+C:\Users\ALEN\Desktop\FUNDAMENT\LIST\LIST LAB\List LAB\6. Square Numbers\obj\Debug\_6.Square_Numbers.pdb
+C:\Users\ALEN\Desktop\FUNDAMENT\LIST\LIST LAB\List LAB\6. Square Numbers\bin\Debug\_6.Square_Numbers.exe
+C:\Users\ALEN\Desktop\FUNDAMENT\LIST\LIST LAB\List LAB\6. Square Numbers\bin\Debug\_6.Square_Numbers.pdb
+C:\Users\ALEN\Desktop\FUNDAMENT\5 LIST\LIST LAB\List LAB\6. Square Numbers\bin\Debug\_6.Square_Numbers.exe.config
+C:\Users\ALEN\Desktop\FUNDAMENT\5 LIST\LIST LAB\List LAB\6. Square Numbers\obj\Debug\_6.Square_Numbers.exe
+C:\Users\ALEN\Desktop\FUNDAMENT\5 LIST\LIST LAB\List LAB\6. Square Numbers\obj\Debug\_6.Square_Numbers.pdb
+C:\Users\ALEN\Desktop\FUNDAMENT\5 LIST\LIST LAB\List LAB\6. Square Numbers\bin\Debug\_6.Square_Numbers.exe
+C:\Users\ALEN\Desktop\FUNDAMENT\5 LIST\LIST LAB\List LAB\6. Square Numbers\bin\Debug\_6.Square_Numbers.pdb

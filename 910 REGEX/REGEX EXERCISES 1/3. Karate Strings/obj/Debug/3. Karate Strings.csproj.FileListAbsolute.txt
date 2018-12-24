@@ -1,0 +1,13 @@
+C:\Users\ALEN\Desktop\FUNDAMENTALS\910 REGEX\REGEX EXERSICE 1\REGEX EXERSICE 1\3. Karate Strings\bin\Debug\_3.Karate_Strings.exe.config
+C:\Users\ALEN\Desktop\FUNDAMENTALS\910 REGEX\REGEX EXERSICE 1\REGEX EXERSICE 1\3. Karate Strings\bin\Debug\_3.Karate_Strings.exe
+C:\Users\ALEN\Desktop\FUNDAMENTALS\910 REGEX\REGEX EXERSICE 1\REGEX EXERSICE 1\3. Karate Strings\bin\Debug\_3.Karate_Strings.pdb
+C:\Users\ALEN\Desktop\FUNDAMENTALS\910 REGEX\REGEX EXERSICE 1\REGEX EXERSICE 1\3. Karate Strings\obj\Debug\3. Karate Strings.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\FUNDAMENTALS\910 REGEX\REGEX EXERSICE 1\REGEX EXERSICE 1\3. Karate Strings\obj\Debug\_3.Karate_Strings.exe
+C:\Users\ALEN\Desktop\FUNDAMENTALS\910 REGEX\REGEX EXERSICE 1\REGEX EXERSICE 1\3. Karate Strings\obj\Debug\_3.Karate_Strings.pdb
+C:\Users\ALEN\Desktop\FUNDAMENTALS\910 REGEX\REGEX EXERCISES 1\3. Karate Strings\bin\Debug\_3.Karate_Strings.exe.config
+C:\Users\ALEN\Desktop\FUNDAMENTALS\910 REGEX\REGEX EXERCISES 1\3. Karate Strings\bin\Debug\_3.Karate_Strings.exe
+C:\Users\ALEN\Desktop\FUNDAMENTALS\910 REGEX\REGEX EXERCISES 1\3. Karate Strings\bin\Debug\_3.Karate_Strings.pdb
+C:\Users\ALEN\Desktop\FUNDAMENTALS\910 REGEX\REGEX EXERCISES 1\3. Karate Strings\obj\Debug\3. Karate Strings.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\FUNDAMENTALS\910 REGEX\REGEX EXERCISES 1\3. Karate Strings\obj\Debug\3. Karate Strings.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\FUNDAMENTALS\910 REGEX\REGEX EXERCISES 1\3. Karate Strings\obj\Debug\_3.Karate_Strings.exe
+C:\Users\ALEN\Desktop\FUNDAMENTALS\910 REGEX\REGEX EXERCISES 1\3. Karate Strings\obj\Debug\_3.Karate_Strings.pdb

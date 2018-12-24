@@ -1,0 +1,13 @@
+C:\Users\ALEN\Desktop\FUNDAMENTALS\910 REGEX\REGEX EXERSICE\REGEX EXERSISE\5. Key Replacer\bin\Debug\_5.Key_Replacer.exe.config
+C:\Users\ALEN\Desktop\FUNDAMENTALS\910 REGEX\REGEX EXERSICE\REGEX EXERSISE\5. Key Replacer\bin\Debug\_5.Key_Replacer.exe
+C:\Users\ALEN\Desktop\FUNDAMENTALS\910 REGEX\REGEX EXERSICE\REGEX EXERSISE\5. Key Replacer\bin\Debug\_5.Key_Replacer.pdb
+C:\Users\ALEN\Desktop\FUNDAMENTALS\910 REGEX\REGEX EXERSICE\REGEX EXERSISE\5. Key Replacer\obj\Debug\5. Key Replacer.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\FUNDAMENTALS\910 REGEX\REGEX EXERSICE\REGEX EXERSISE\5. Key Replacer\obj\Debug\_5.Key_Replacer.exe
+C:\Users\ALEN\Desktop\FUNDAMENTALS\910 REGEX\REGEX EXERSICE\REGEX EXERSISE\5. Key Replacer\obj\Debug\_5.Key_Replacer.pdb
+C:\Users\ALEN\Desktop\FUNDAMENTALS\910 REGEX\REGEX EXERCISES 2\5. Key Replacer\bin\Debug\_5.Key_Replacer.exe.config
+C:\Users\ALEN\Desktop\FUNDAMENTALS\910 REGEX\REGEX EXERCISES 2\5. Key Replacer\bin\Debug\_5.Key_Replacer.exe
+C:\Users\ALEN\Desktop\FUNDAMENTALS\910 REGEX\REGEX EXERCISES 2\5. Key Replacer\bin\Debug\_5.Key_Replacer.pdb
+C:\Users\ALEN\Desktop\FUNDAMENTALS\910 REGEX\REGEX EXERCISES 2\5. Key Replacer\obj\Debug\5. Key Replacer.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\FUNDAMENTALS\910 REGEX\REGEX EXERCISES 2\5. Key Replacer\obj\Debug\5. Key Replacer.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\FUNDAMENTALS\910 REGEX\REGEX EXERCISES 2\5. Key Replacer\obj\Debug\_5.Key_Replacer.exe
+C:\Users\ALEN\Desktop\FUNDAMENTALS\910 REGEX\REGEX EXERCISES 2\5. Key Replacer\obj\Debug\_5.Key_Replacer.pdb

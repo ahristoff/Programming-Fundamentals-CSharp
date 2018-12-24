@@ -1,0 +1,13 @@
+C:\Users\ALEN\Desktop\FUNDAMENTALS\4 ARRAY\ARRAY EXERSICE 1\ARRAYS AND METHODS\Problem 3. Safe Manipulation\bin\Debug\Problem_3.Safe_Manipulation.exe.config
+C:\Users\ALEN\Desktop\FUNDAMENTALS\4 ARRAY\ARRAY EXERSICE 1\ARRAYS AND METHODS\Problem 3. Safe Manipulation\bin\Debug\Problem_3.Safe_Manipulation.exe
+C:\Users\ALEN\Desktop\FUNDAMENTALS\4 ARRAY\ARRAY EXERSICE 1\ARRAYS AND METHODS\Problem 3. Safe Manipulation\bin\Debug\Problem_3.Safe_Manipulation.pdb
+C:\Users\ALEN\Desktop\FUNDAMENTALS\4 ARRAY\ARRAY EXERSICE 1\ARRAYS AND METHODS\Problem 3. Safe Manipulation\obj\Debug\Problem 3. Safe Manipulation.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\FUNDAMENTALS\4 ARRAY\ARRAY EXERSICE 1\ARRAYS AND METHODS\Problem 3. Safe Manipulation\obj\Debug\Problem_3.Safe_Manipulation.exe
+C:\Users\ALEN\Desktop\FUNDAMENTALS\4 ARRAY\ARRAY EXERSICE 1\ARRAYS AND METHODS\Problem 3. Safe Manipulation\obj\Debug\Problem_3.Safe_Manipulation.pdb
+C:\Users\ALEN\Desktop\FUNDAMENTALS\4 ARRAY\ARRAY EXERCISES 1\Problem 3. Safe Manipulation\obj\Debug\Problem 3. Safe Manipulation.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\FUNDAMENTALS\4 ARRAY\ARRAY EXERCISES 1\Problem 3. Safe Manipulation\obj\Debug\Problem 3. Safe Manipulation.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\FUNDAMENTALS\4 ARRAY\ARRAY EXERCISES 1\Problem 3. Safe Manipulation\obj\Debug\Problem_3.Safe_Manipulation.exe
+C:\Users\ALEN\Desktop\FUNDAMENTALS\4 ARRAY\ARRAY EXERCISES 1\Problem 3. Safe Manipulation\obj\Debug\Problem_3.Safe_Manipulation.pdb
+C:\Users\ALEN\Desktop\FUNDAMENTALS\4 ARRAY\ARRAY EXERCISES 1\Problem 3. Safe Manipulation\bin\Debug\Problem_3.Safe_Manipulation.exe.config
+C:\Users\ALEN\Desktop\FUNDAMENTALS\4 ARRAY\ARRAY EXERCISES 1\Problem 3. Safe Manipulation\bin\Debug\Problem_3.Safe_Manipulation.exe
+C:\Users\ALEN\Desktop\FUNDAMENTALS\4 ARRAY\ARRAY EXERCISES 1\Problem 3. Safe Manipulation\bin\Debug\Problem_3.Safe_Manipulation.pdb

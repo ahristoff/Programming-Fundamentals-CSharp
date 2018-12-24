@@ -1,0 +1,14 @@
+C:\Users\ALEN\Desktop\lecture 1\EXERCISE\Problem 910. Triangle of Numbers\bin\Debug\Problem_910.Triangle_of_Numbers.exe.config
+C:\Users\ALEN\Desktop\lecture 1\EXERCISE\Problem 910. Triangle of Numbers\bin\Debug\Problem_910.Triangle_of_Numbers.exe
+C:\Users\ALEN\Desktop\lecture 1\EXERCISE\Problem 910. Triangle of Numbers\bin\Debug\Problem_910.Triangle_of_Numbers.pdb
+C:\Users\ALEN\Desktop\lecture 1\EXERCISE\Problem 910. Triangle of Numbers\obj\Debug\Problem_910.Triangle_of_Numbers.exe
+C:\Users\ALEN\Desktop\lecture 1\EXERCISE\Problem 910. Triangle of Numbers\obj\Debug\Problem_910.Triangle_of_Numbers.pdb
+C:\Users\ALEN\Desktop\FUNDAMENT\1 lecture exercise\EXERCISE\Problem 910. Triangle of Numbers\bin\Debug\Problem_910.Triangle_of_Numbers.exe.config
+C:\Users\ALEN\Desktop\FUNDAMENT\1 lecture exercise\EXERCISE\Problem 910. Triangle of Numbers\obj\Debug\Problem_910.Triangle_of_Numbers.exe
+C:\Users\ALEN\Desktop\FUNDAMENT\1 lecture exercise\EXERCISE\Problem 910. Triangle of Numbers\obj\Debug\Problem_910.Triangle_of_Numbers.pdb
+C:\Users\ALEN\Desktop\FUNDAMENTALS\1 lecture exercise\Exrcises\Problem 910. Triangle of Numbers\bin\Debug\Problem_910.Triangle_of_Numbers.exe.config
+C:\Users\ALEN\Desktop\FUNDAMENTALS\1 lecture exercise\Exrcises\Problem 910. Triangle of Numbers\bin\Debug\Problem_910.Triangle_of_Numbers.exe
+C:\Users\ALEN\Desktop\FUNDAMENTALS\1 lecture exercise\Exrcises\Problem 910. Triangle of Numbers\bin\Debug\Problem_910.Triangle_of_Numbers.pdb
+C:\Users\ALEN\Desktop\FUNDAMENTALS\1 lecture exercise\Exrcises\Problem 910. Triangle of Numbers\obj\Debug\Problem 910. Triangle of Numbers.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\FUNDAMENTALS\1 lecture exercise\Exrcises\Problem 910. Triangle of Numbers\obj\Debug\Problem_910.Triangle_of_Numbers.exe
+C:\Users\ALEN\Desktop\FUNDAMENTALS\1 lecture exercise\Exrcises\Problem 910. Triangle of Numbers\obj\Debug\Problem_910.Triangle_of_Numbers.pdb

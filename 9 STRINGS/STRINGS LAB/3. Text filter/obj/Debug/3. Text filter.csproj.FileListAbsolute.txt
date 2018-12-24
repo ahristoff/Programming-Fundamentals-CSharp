@@ -1,0 +1,11 @@
+C:\Users\ALEN\Desktop\FUNDAMENT\9 STRINGS\STRINGS LAB\STRINGS lab\3. Text filter\bin\Debug\_3.Text_filter.exe.config
+C:\Users\ALEN\Desktop\FUNDAMENT\9 STRINGS\STRINGS LAB\STRINGS lab\3. Text filter\bin\Debug\_3.Text_filter.exe
+C:\Users\ALEN\Desktop\FUNDAMENT\9 STRINGS\STRINGS LAB\STRINGS lab\3. Text filter\bin\Debug\_3.Text_filter.pdb
+C:\Users\ALEN\Desktop\FUNDAMENT\9 STRINGS\STRINGS LAB\STRINGS lab\3. Text filter\obj\Debug\_3.Text_filter.exe
+C:\Users\ALEN\Desktop\FUNDAMENT\9 STRINGS\STRINGS LAB\STRINGS lab\3. Text filter\obj\Debug\_3.Text_filter.pdb
+C:\Users\ALEN\Desktop\FUNDAMENTALS\9 STRINGS\STRINGS LAB\STRINGS lab\3. Text filter\bin\Debug\_3.Text_filter.exe.config
+C:\Users\ALEN\Desktop\FUNDAMENTALS\9 STRINGS\STRINGS LAB\STRINGS lab\3. Text filter\bin\Debug\_3.Text_filter.exe
+C:\Users\ALEN\Desktop\FUNDAMENTALS\9 STRINGS\STRINGS LAB\STRINGS lab\3. Text filter\bin\Debug\_3.Text_filter.pdb
+C:\Users\ALEN\Desktop\FUNDAMENTALS\9 STRINGS\STRINGS LAB\STRINGS lab\3. Text filter\obj\Debug\3. Text filter.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\FUNDAMENTALS\9 STRINGS\STRINGS LAB\STRINGS lab\3. Text filter\obj\Debug\_3.Text_filter.exe
+C:\Users\ALEN\Desktop\FUNDAMENTALS\9 STRINGS\STRINGS LAB\STRINGS lab\3. Text filter\obj\Debug\_3.Text_filter.pdb

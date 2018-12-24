@@ -1,0 +1,24 @@
+C:\Users\ALEN\Desktop\LIST\LIST LAB\List LAB\5. Sort Numbers\bin\Debug\_5.Sort_Numbers.exe.config
+C:\Users\ALEN\Desktop\LIST\LIST LAB\List LAB\5. Sort Numbers\bin\Debug\_5.Sort_Numbers.exe
+C:\Users\ALEN\Desktop\LIST\LIST LAB\List LAB\5. Sort Numbers\bin\Debug\_5.Sort_Numbers.pdb
+C:\Users\ALEN\Desktop\LIST\LIST LAB\List LAB\5. Sort Numbers\obj\Debug\_5.Sort_Numbers.exe
+C:\Users\ALEN\Desktop\LIST\LIST LAB\List LAB\5. Sort Numbers\obj\Debug\_5.Sort_Numbers.pdb
+C:\Users\ALEN\Desktop\FUNDAMENT\LIST\LIST LAB\List LAB\5. Sort Numbers\bin\Debug\_5.Sort_Numbers.exe.config
+C:\Users\ALEN\Desktop\FUNDAMENT\LIST\LIST LAB\List LAB\5. Sort Numbers\obj\Debug\_5.Sort_Numbers.exe
+C:\Users\ALEN\Desktop\FUNDAMENT\LIST\LIST LAB\List LAB\5. Sort Numbers\obj\Debug\_5.Sort_Numbers.pdb
+C:\Users\ALEN\Desktop\FUNDAMENT\LIST\LIST LAB\List LAB\5. Sort Numbers\bin\Debug\_5.Sort_Numbers.exe
+C:\Users\ALEN\Desktop\FUNDAMENT\LIST\LIST LAB\List LAB\5. Sort Numbers\bin\Debug\_5.Sort_Numbers.pdb
+C:\Users\ALEN\Desktop\FUNDAMENT\LIST\LIST LAB\List LAB\5. Sort Numbers\obj\Debug\5. Sort Numbers.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\FUNDAMENT\5 LIST\LIST LAB\List LAB\5. Sort Numbers\bin\Debug\_5.Sort_Numbers.exe.config
+C:\Users\ALEN\Desktop\FUNDAMENT\5 LIST\LIST LAB\List LAB\5. Sort Numbers\obj\Debug\_5.Sort_Numbers.exe
+C:\Users\ALEN\Desktop\FUNDAMENT\5 LIST\LIST LAB\List LAB\5. Sort Numbers\obj\Debug\_5.Sort_Numbers.pdb
+C:\Users\ALEN\Desktop\FUNDAMENT\5 LIST\LIST LAB\List LAB\5. Sort Numbers\bin\Debug\_5.Sort_Numbers.exe
+C:\Users\ALEN\Desktop\FUNDAMENT\5 LIST\LIST LAB\List LAB\5. Sort Numbers\bin\Debug\_5.Sort_Numbers.pdb
+C:\Users\ALEN\Desktop\FUNDAMENT\5 LIST\LIST LAB\List LAB\5. Sort Numbers\obj\Debug\5. Sort Numbers.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\FUNDAMENTALS\5 LIST\LIST LAB\5. Sort Numbers\bin\Debug\_5.Sort_Numbers.exe.config
+C:\Users\ALEN\Desktop\FUNDAMENTALS\5 LIST\LIST LAB\5. Sort Numbers\bin\Debug\_5.Sort_Numbers.exe
+C:\Users\ALEN\Desktop\FUNDAMENTALS\5 LIST\LIST LAB\5. Sort Numbers\bin\Debug\_5.Sort_Numbers.pdb
+C:\Users\ALEN\Desktop\FUNDAMENTALS\5 LIST\LIST LAB\5. Sort Numbers\obj\Debug\5. Sort Numbers.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\FUNDAMENTALS\5 LIST\LIST LAB\5. Sort Numbers\obj\Debug\5. Sort Numbers.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\FUNDAMENTALS\5 LIST\LIST LAB\5. Sort Numbers\obj\Debug\_5.Sort_Numbers.exe
+C:\Users\ALEN\Desktop\FUNDAMENTALS\5 LIST\LIST LAB\5. Sort Numbers\obj\Debug\_5.Sort_Numbers.pdb

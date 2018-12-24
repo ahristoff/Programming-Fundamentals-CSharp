@@ -1,0 +1,12 @@
+C:\Users\ALEN\Desktop\methods\METHODS EXERCISE\methods exercise\7. Primes in Given Range\bin\Debug\_7.Primes_in_Given_Range.exe.config
+C:\Users\ALEN\Desktop\methods\METHODS EXERCISE\methods exercise\7. Primes in Given Range\obj\Debug\_7.Primes_in_Given_Range.exe
+C:\Users\ALEN\Desktop\methods\METHODS EXERCISE\methods exercise\7. Primes in Given Range\obj\Debug\_7.Primes_in_Given_Range.pdb
+C:\Users\ALEN\Desktop\methods\METHODS EXERCISE\methods exercise\7. Primes in Given Range\bin\Debug\_7.Primes_in_Given_Range.exe
+C:\Users\ALEN\Desktop\methods\METHODS EXERCISE\methods exercise\7. Primes in Given Range\bin\Debug\_7.Primes_in_Given_Range.pdb
+C:\Users\ALEN\Desktop\methods\METHODS EXERCISE\methods exercise\7. Primes in Given Range\obj\Debug\7.... Primes in Given Range.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\FUNDAMENT\3 methods\METHODS EXERCISE\methods exercise\7. Primes in Given Range\bin\Debug\_7.Primes_in_Given_Range.exe.config
+C:\Users\ALEN\Desktop\FUNDAMENT\3 methods\METHODS EXERCISE\methods exercise\7. Primes in Given Range\obj\Debug\_7.Primes_in_Given_Range.exe
+C:\Users\ALEN\Desktop\FUNDAMENT\3 methods\METHODS EXERCISE\methods exercise\7. Primes in Given Range\obj\Debug\_7.Primes_in_Given_Range.pdb
+C:\Users\ALEN\Desktop\FUNDAMENT\3 methods\METHODS EXERCISE\methods exercise\7. Primes in Given Range\bin\Debug\_7.Primes_in_Given_Range.exe
+C:\Users\ALEN\Desktop\FUNDAMENT\3 methods\METHODS EXERCISE\methods exercise\7. Primes in Given Range\bin\Debug\_7.Primes_in_Given_Range.pdb
+C:\Users\ALEN\Desktop\FUNDAMENT\3 methods\METHODS EXERCISE\methods exercise\7. Primes in Given Range\obj\Debug\7.... Primes in Given Range.csprojResolveAssemblyReference.cache

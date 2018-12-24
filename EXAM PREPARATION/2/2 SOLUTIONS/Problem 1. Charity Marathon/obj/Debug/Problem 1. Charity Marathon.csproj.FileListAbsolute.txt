@@ -1,0 +1,13 @@
+C:\Users\ALEN\Desktop\FUNDAMENTALS\EXAM PREPARATION\2\2 SOLUTION\2 EXAM PREPARATION\Problem 1. Charity Marathon\bin\Debug\Problem_1.Charity_Marathon.exe.config
+C:\Users\ALEN\Desktop\FUNDAMENTALS\EXAM PREPARATION\2\2 SOLUTION\2 EXAM PREPARATION\Problem 1. Charity Marathon\bin\Debug\Problem_1.Charity_Marathon.exe
+C:\Users\ALEN\Desktop\FUNDAMENTALS\EXAM PREPARATION\2\2 SOLUTION\2 EXAM PREPARATION\Problem 1. Charity Marathon\bin\Debug\Problem_1.Charity_Marathon.pdb
+C:\Users\ALEN\Desktop\FUNDAMENTALS\EXAM PREPARATION\2\2 SOLUTION\2 EXAM PREPARATION\Problem 1. Charity Marathon\obj\Debug\Problem 1. Charity Marathon.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\FUNDAMENTALS\EXAM PREPARATION\2\2 SOLUTION\2 EXAM PREPARATION\Problem 1. Charity Marathon\obj\Debug\Problem_1.Charity_Marathon.exe
+C:\Users\ALEN\Desktop\FUNDAMENTALS\EXAM PREPARATION\2\2 SOLUTION\2 EXAM PREPARATION\Problem 1. Charity Marathon\obj\Debug\Problem_1.Charity_Marathon.pdb
+C:\Users\ALEN\Desktop\FUNDAMENTALS\EXAM PREPARATION\2\2 SOLUTIONS\Problem 1. Charity Marathon\bin\Debug\Problem_1.Charity_Marathon.exe.config
+C:\Users\ALEN\Desktop\FUNDAMENTALS\EXAM PREPARATION\2\2 SOLUTIONS\Problem 1. Charity Marathon\bin\Debug\Problem_1.Charity_Marathon.exe
+C:\Users\ALEN\Desktop\FUNDAMENTALS\EXAM PREPARATION\2\2 SOLUTIONS\Problem 1. Charity Marathon\bin\Debug\Problem_1.Charity_Marathon.pdb
+C:\Users\ALEN\Desktop\FUNDAMENTALS\EXAM PREPARATION\2\2 SOLUTIONS\Problem 1. Charity Marathon\obj\Debug\Problem 1. Charity Marathon.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\FUNDAMENTALS\EXAM PREPARATION\2\2 SOLUTIONS\Problem 1. Charity Marathon\obj\Debug\Problem 1. Charity Marathon.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\FUNDAMENTALS\EXAM PREPARATION\2\2 SOLUTIONS\Problem 1. Charity Marathon\obj\Debug\Problem_1.Charity_Marathon.exe
+C:\Users\ALEN\Desktop\FUNDAMENTALS\EXAM PREPARATION\2\2 SOLUTIONS\Problem 1. Charity Marathon\obj\Debug\Problem_1.Charity_Marathon.pdb

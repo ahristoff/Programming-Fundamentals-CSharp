@@ -1,0 +1,9 @@
+C:\Users\ALEN\Desktop\methods\METHODS EXERCISE\methods exercise\1. Hello, Name!\bin\Debug\_1.Hello__Name_.exe.config
+C:\Users\ALEN\Desktop\methods\METHODS EXERCISE\methods exercise\1. Hello, Name!\bin\Debug\_1.Hello__Name_.exe
+C:\Users\ALEN\Desktop\methods\METHODS EXERCISE\methods exercise\1. Hello, Name!\bin\Debug\_1.Hello__Name_.pdb
+C:\Users\ALEN\Desktop\methods\METHODS EXERCISE\methods exercise\1. Hello, Name!\obj\Debug\1. Hello, Name!.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\methods\METHODS EXERCISE\methods exercise\1. Hello, Name!\obj\Debug\_1.Hello__Name_.exe
+C:\Users\ALEN\Desktop\methods\METHODS EXERCISE\methods exercise\1. Hello, Name!\obj\Debug\_1.Hello__Name_.pdb
+C:\Users\ALEN\Desktop\FUNDAMENT\3 methods\METHODS EXERCISE\methods exercise\1. Hello, Name!\bin\Debug\_1.Hello__Name_.exe.config
+C:\Users\ALEN\Desktop\FUNDAMENT\3 methods\METHODS EXERCISE\methods exercise\1. Hello, Name!\obj\Debug\_1.Hello__Name_.exe
+C:\Users\ALEN\Desktop\FUNDAMENT\3 methods\METHODS EXERCISE\methods exercise\1. Hello, Name!\obj\Debug\_1.Hello__Name_.pdb

@@ -1,0 +1,11 @@
+C:\Users\ALEN\Desktop\FUNDAMENT\4 ARRAY\ARRAY EXERSICE\ARRAY\910. Pairs by Difference\bin\Debug\_910.Pairs_by_Difference.exe.config
+C:\Users\ALEN\Desktop\FUNDAMENT\4 ARRAY\ARRAY EXERSICE\ARRAY\910. Pairs by Difference\bin\Debug\_910.Pairs_by_Difference.exe
+C:\Users\ALEN\Desktop\FUNDAMENT\4 ARRAY\ARRAY EXERSICE\ARRAY\910. Pairs by Difference\bin\Debug\_910.Pairs_by_Difference.pdb
+C:\Users\ALEN\Desktop\FUNDAMENT\4 ARRAY\ARRAY EXERSICE\ARRAY\910. Pairs by Difference\obj\Debug\_910.Pairs_by_Difference.exe
+C:\Users\ALEN\Desktop\FUNDAMENT\4 ARRAY\ARRAY EXERSICE\ARRAY\910. Pairs by Difference\obj\Debug\_910.Pairs_by_Difference.pdb
+C:\Users\ALEN\Desktop\FUNDAMENTALS\4 ARRAY\ARRAY EXERCISES 2\910. Pairs by Difference\bin\Debug\_910.Pairs_by_Difference.exe.config
+C:\Users\ALEN\Desktop\FUNDAMENTALS\4 ARRAY\ARRAY EXERCISES 2\910. Pairs by Difference\bin\Debug\_910.Pairs_by_Difference.exe
+C:\Users\ALEN\Desktop\FUNDAMENTALS\4 ARRAY\ARRAY EXERCISES 2\910. Pairs by Difference\bin\Debug\_910.Pairs_by_Difference.pdb
+C:\Users\ALEN\Desktop\FUNDAMENTALS\4 ARRAY\ARRAY EXERCISES 2\910. Pairs by Difference\obj\Debug\910. Pairs by Difference.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\FUNDAMENTALS\4 ARRAY\ARRAY EXERCISES 2\910. Pairs by Difference\obj\Debug\_910.Pairs_by_Difference.exe
+C:\Users\ALEN\Desktop\FUNDAMENTALS\4 ARRAY\ARRAY EXERCISES 2\910. Pairs by Difference\obj\Debug\_910.Pairs_by_Difference.pdb

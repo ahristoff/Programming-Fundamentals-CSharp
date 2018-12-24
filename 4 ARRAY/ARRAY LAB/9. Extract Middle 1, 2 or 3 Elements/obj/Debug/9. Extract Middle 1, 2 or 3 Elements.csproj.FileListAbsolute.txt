@@ -1,0 +1,13 @@
+C:\Users\ALEN\Desktop\FUNDAMENT\4 ARRAY\ARRAY LAB\ARRAY LAB\9. Extract Middle 1, 2 or 3 Elements\bin\Debug\_9.Extract_Middle_1__2_or_3_Elements.exe.config
+C:\Users\ALEN\Desktop\FUNDAMENT\4 ARRAY\ARRAY LAB\ARRAY LAB\9. Extract Middle 1, 2 or 3 Elements\bin\Debug\_9.Extract_Middle_1__2_or_3_Elements.exe
+C:\Users\ALEN\Desktop\FUNDAMENT\4 ARRAY\ARRAY LAB\ARRAY LAB\9. Extract Middle 1, 2 or 3 Elements\bin\Debug\_9.Extract_Middle_1__2_or_3_Elements.pdb
+C:\Users\ALEN\Desktop\FUNDAMENT\4 ARRAY\ARRAY LAB\ARRAY LAB\9. Extract Middle 1, 2 or 3 Elements\obj\Debug\9. Extract Middle 1, 2 or 3 Elements.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\FUNDAMENT\4 ARRAY\ARRAY LAB\ARRAY LAB\9. Extract Middle 1, 2 or 3 Elements\obj\Debug\_9.Extract_Middle_1__2_or_3_Elements.exe
+C:\Users\ALEN\Desktop\FUNDAMENT\4 ARRAY\ARRAY LAB\ARRAY LAB\9. Extract Middle 1, 2 or 3 Elements\obj\Debug\_9.Extract_Middle_1__2_or_3_Elements.pdb
+C:\Users\ALEN\Desktop\FUNDAMENTALS\4 ARRAY\ARRAY LAB\9. Extract Middle 1, 2 or 3 Elements\bin\Debug\_9.Extract_Middle_1__2_or_3_Elements.exe.config
+C:\Users\ALEN\Desktop\FUNDAMENTALS\4 ARRAY\ARRAY LAB\9. Extract Middle 1, 2 or 3 Elements\bin\Debug\_9.Extract_Middle_1__2_or_3_Elements.exe
+C:\Users\ALEN\Desktop\FUNDAMENTALS\4 ARRAY\ARRAY LAB\9. Extract Middle 1, 2 or 3 Elements\bin\Debug\_9.Extract_Middle_1__2_or_3_Elements.pdb
+C:\Users\ALEN\Desktop\FUNDAMENTALS\4 ARRAY\ARRAY LAB\9. Extract Middle 1, 2 or 3 Elements\obj\Debug\9. Extract Middle 1, 2 or 3 Elements.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\FUNDAMENTALS\4 ARRAY\ARRAY LAB\9. Extract Middle 1, 2 or 3 Elements\obj\Debug\9. Extract Middle 1, 2 or 3 Elements.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\FUNDAMENTALS\4 ARRAY\ARRAY LAB\9. Extract Middle 1, 2 or 3 Elements\obj\Debug\_9.Extract_Middle_1__2_or_3_Elements.exe
+C:\Users\ALEN\Desktop\FUNDAMENTALS\4 ARRAY\ARRAY LAB\9. Extract Middle 1, 2 or 3 Elements\obj\Debug\_9.Extract_Middle_1__2_or_3_Elements.pdb

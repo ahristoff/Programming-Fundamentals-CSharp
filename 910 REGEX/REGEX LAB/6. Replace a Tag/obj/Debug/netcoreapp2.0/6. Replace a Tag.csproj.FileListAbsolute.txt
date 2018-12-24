@@ -1,0 +1,11 @@
+C:\Users\ALEN\Desktop\FUNDAMENTALS\910 REGEX\REGEX LAB\6. Replace a Tag\bin\Debug\netcoreapp2.0\6. Replace a Tag.deps.json
+C:\Users\ALEN\Desktop\FUNDAMENTALS\910 REGEX\REGEX LAB\6. Replace a Tag\bin\Debug\netcoreapp2.0\6. Replace a Tag.runtimeconfig.json
+C:\Users\ALEN\Desktop\FUNDAMENTALS\910 REGEX\REGEX LAB\6. Replace a Tag\bin\Debug\netcoreapp2.0\6. Replace a Tag.runtimeconfig.dev.json
+C:\Users\ALEN\Desktop\FUNDAMENTALS\910 REGEX\REGEX LAB\6. Replace a Tag\bin\Debug\netcoreapp2.0\6. Replace a Tag.dll
+C:\Users\ALEN\Desktop\FUNDAMENTALS\910 REGEX\REGEX LAB\6. Replace a Tag\bin\Debug\netcoreapp2.0\6. Replace a Tag.pdb
+C:\Users\ALEN\Desktop\FUNDAMENTALS\910 REGEX\REGEX LAB\6. Replace a Tag\obj\Debug\netcoreapp2.0\6. Replace a Tag.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\FUNDAMENTALS\910 REGEX\REGEX LAB\6. Replace a Tag\obj\Debug\netcoreapp2.0\6. Replace a Tag.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\FUNDAMENTALS\910 REGEX\REGEX LAB\6. Replace a Tag\obj\Debug\netcoreapp2.0\6. Replace a Tag.AssemblyInfoInputs.cache
+C:\Users\ALEN\Desktop\FUNDAMENTALS\910 REGEX\REGEX LAB\6. Replace a Tag\obj\Debug\netcoreapp2.0\6. Replace a Tag.AssemblyInfo.cs
+C:\Users\ALEN\Desktop\FUNDAMENTALS\910 REGEX\REGEX LAB\6. Replace a Tag\obj\Debug\netcoreapp2.0\6. Replace a Tag.dll
+C:\Users\ALEN\Desktop\FUNDAMENTALS\910 REGEX\REGEX LAB\6. Replace a Tag\obj\Debug\netcoreapp2.0\6. Replace a Tag.pdb

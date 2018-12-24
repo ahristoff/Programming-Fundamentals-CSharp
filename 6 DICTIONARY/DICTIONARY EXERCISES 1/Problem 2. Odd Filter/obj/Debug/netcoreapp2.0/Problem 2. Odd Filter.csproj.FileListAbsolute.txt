@@ -1,0 +1,11 @@
+C:\Users\ALEN\Desktop\FUNDAMENTALS\6 DICTIONARY\DICTIONARY EXERCISES 1\Problem 2. Odd Filter\bin\Debug\netcoreapp2.0\Problem 2. Odd Filter.deps.json
+C:\Users\ALEN\Desktop\FUNDAMENTALS\6 DICTIONARY\DICTIONARY EXERCISES 1\Problem 2. Odd Filter\bin\Debug\netcoreapp2.0\Problem 2. Odd Filter.runtimeconfig.json
+C:\Users\ALEN\Desktop\FUNDAMENTALS\6 DICTIONARY\DICTIONARY EXERCISES 1\Problem 2. Odd Filter\bin\Debug\netcoreapp2.0\Problem 2. Odd Filter.runtimeconfig.dev.json
+C:\Users\ALEN\Desktop\FUNDAMENTALS\6 DICTIONARY\DICTIONARY EXERCISES 1\Problem 2. Odd Filter\bin\Debug\netcoreapp2.0\Problem 2. Odd Filter.dll
+C:\Users\ALEN\Desktop\FUNDAMENTALS\6 DICTIONARY\DICTIONARY EXERCISES 1\Problem 2. Odd Filter\bin\Debug\netcoreapp2.0\Problem 2. Odd Filter.pdb
+C:\Users\ALEN\Desktop\FUNDAMENTALS\6 DICTIONARY\DICTIONARY EXERCISES 1\Problem 2. Odd Filter\obj\Debug\netcoreapp2.0\Problem 2. Odd Filter.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\FUNDAMENTALS\6 DICTIONARY\DICTIONARY EXERCISES 1\Problem 2. Odd Filter\obj\Debug\netcoreapp2.0\Problem 2. Odd Filter.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\FUNDAMENTALS\6 DICTIONARY\DICTIONARY EXERCISES 1\Problem 2. Odd Filter\obj\Debug\netcoreapp2.0\Problem 2. Odd Filter.AssemblyInfoInputs.cache
+C:\Users\ALEN\Desktop\FUNDAMENTALS\6 DICTIONARY\DICTIONARY EXERCISES 1\Problem 2. Odd Filter\obj\Debug\netcoreapp2.0\Problem 2. Odd Filter.AssemblyInfo.cs
+C:\Users\ALEN\Desktop\FUNDAMENTALS\6 DICTIONARY\DICTIONARY EXERCISES 1\Problem 2. Odd Filter\obj\Debug\netcoreapp2.0\Problem 2. Odd Filter.dll
+C:\Users\ALEN\Desktop\FUNDAMENTALS\6 DICTIONARY\DICTIONARY EXERCISES 1\Problem 2. Odd Filter\obj\Debug\netcoreapp2.0\Problem 2. Odd Filter.pdb
